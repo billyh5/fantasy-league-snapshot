@@ -1,0 +1,203 @@
+{
+  "league_id": "1312049844910563328",
+  "league_name": "The League",
+  "season": 2026,
+  "model": {
+    "name": "Team-Blind GM Power Rankings",
+    "version": 1,
+    "weights": {
+      "roster_strength": 30,
+      "starting_lineup_ceiling": 20,
+      "depth": 15,
+      "positional_advantage": 10,
+      "recent_performance": 10,
+      "playoff_outlook": 10,
+      "roster_faab_flexibility": 5
+    },
+    "note": "Same model for every team. Movement is measured against the previous week's saved team-blind ranking."
+  },
+  "weeks": {
+    "4": {
+      "status": "reconstructed_baseline",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "Bosa Deez Nuts",
+          "roster_id": 7
+        },
+        {
+          "rank": 2,
+          "team": "Eat a Bag of Nix",
+          "roster_id": 4
+        },
+        {
+          "rank": 3,
+          "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+          "roster_id": 6
+        },
+        {
+          "rank": 4,
+          "team": "buffalobob391",
+          "roster_id": 8
+        },
+        {
+          "rank": 5,
+          "team": "Clutch",
+          "roster_id": 2
+        },
+        {
+          "rank": 6,
+          "team": "Shake 'n Bake",
+          "roster_id": 1
+        },
+        {
+          "rank": 7,
+          "team": "Sleeper Sux",
+          "roster_id": 9
+        },
+        {
+          "rank": 8,
+          "team": "Going Nuclear",
+          "roster_id": 3
+        },
+        {
+          "rank": 9,
+          "team": "CaptainJack51",
+          "roster_id": 10
+        },
+        {
+          "rank": 10,
+          "team": "Marlburrow Reds",
+          "roster_id": 5
+        }
+      ]
+    },
+    "5": {
+      "status": "official",
+      "generated_at": "2026-10-07",
+      "gm_headline": "Eat a Bag of Nix has separated from the field, while the middle of the league is an absolute knife fight.",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "Eat a Bag of Nix",
+          "roster_id": 4,
+          "gm_score": 95,
+          "movement": 1,
+          "tier": "Favorite",
+          "situation": "👑 Cruise Control",
+          "biggest_need": "Depth",
+          "playoff_pct": 96,
+          "title_pct": 30
+        },
+        {
+          "rank": 2,
+          "team": "Bosa Deez Nuts",
+          "roster_id": 7,
+          "gm_score": 89,
+          "movement": -1,
+          "tier": "Favorite",
+          "situation": "🦈 Blood in the Water",
+          "biggest_need": "RB stability",
+          "playoff_pct": 88,
+          "title_pct": 21
+        },
+        {
+          "rank": 3,
+          "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+          "roster_id": 6,
+          "gm_score": 85,
+          "movement": 0,
+          "tier": "Contender",
+          "situation": "🧱 Built Different",
+          "biggest_need": "WR",
+          "playoff_pct": 77,
+          "title_pct": 15
+        },
+        {
+          "rank": 4,
+          "team": "Clutch",
+          "roster_id": 2,
+          "gm_score": 80,
+          "movement": 1,
+          "tier": "Contender",
+          "situation": "🔧 One Fix Away",
+          "biggest_need": "RB",
+          "playoff_pct": 67,
+          "title_pct": 10
+        },
+        {
+          "rank": 5,
+          "team": "Sleeper Sux",
+          "roster_id": 9,
+          "gm_score": 78,
+          "movement": 2,
+          "tier": "Contender",
+          "situation": "💰 Asset Rich",
+          "biggest_need": "TE / health",
+          "playoff_pct": 65,
+          "title_pct": 8
+        },
+        {
+          "rank": 6,
+          "team": "Shake 'n Bake",
+          "roster_id": 1,
+          "gm_score": 77,
+          "movement": 0,
+          "tier": "Contender",
+          "situation": "🚀 Loading Up",
+          "biggest_need": "QB / TE",
+          "playoff_pct": 63,
+          "title_pct": 7
+        },
+        {
+          "rank": 7,
+          "team": "CaptainJack51",
+          "roster_id": 10,
+          "gm_score": 73,
+          "movement": 2,
+          "tier": "Bubble",
+          "situation": "😬 Sweaty Palms",
+          "biggest_need": "Weekly ceiling",
+          "playoff_pct": 57,
+          "title_pct": 4
+        },
+        {
+          "rank": 8,
+          "team": "buffalobob391",
+          "roster_id": 8,
+          "gm_score": 70,
+          "movement": -4,
+          "tier": "Bubble",
+          "situation": "🎢 Chaos Team",
+          "biggest_need": "Consistency",
+          "playoff_pct": 52,
+          "title_pct": 3
+        },
+        {
+          "rank": 9,
+          "team": "Marlburrow Reds",
+          "roster_id": 5,
+          "gm_score": 63,
+          "movement": 1,
+          "tier": "Needs a Move",
+          "situation": "🚨 Alarm Bells",
+          "biggest_need": "QB / wins now",
+          "playoff_pct": 20,
+          "title_pct": 1.2
+        },
+        {
+          "rank": 10,
+          "team": "Going Nuclear",
+          "roster_id": 3,
+          "gm_score": 60,
+          "movement": -2,
+          "tier": "Needs a Move",
+          "situation": "🪦 Start Planning the Funeral",
+          "biggest_need": "Win-now production",
+          "playoff_pct": 15,
+          "title_pct": 0.8
+        }
+      ]
+    }
+  }
+}
