@@ -11,9 +11,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1413982674191671296",
+    "last_message_id": "1414027469941374976",
     "last_message_text_map": null,
-    "last_message_time": 1791482249356,
+    "last_message_time": 1791492929495,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -2077,6 +2077,7 @@
         "custom_points": null,
         "matchup_id": 2,
         "players": [
+          "11563",
           "11577",
           "12185",
           "12490",
@@ -2085,7 +2086,6 @@
           "13330",
           "4034",
           "421",
-          "4943",
           "4993",
           "6806",
           "7526",
@@ -2095,6 +2095,7 @@
           "MIN"
         ],
         "players_points": {
+          "11563": 0.0,
           "11577": 0.0,
           "12185": 0.0,
           "12490": 0.0,
@@ -2103,7 +2104,6 @@
           "13330": 0.0,
           "4034": 0.0,
           "421": 0.0,
-          "4943": 0.0,
           "4993": 0.0,
           "6806": 0.0,
           "7526": 0.0,
@@ -2723,7 +2723,7 @@
     "season_type": "regular",
     "week": 5
   },
-  "refreshed_at": "2026-10-08T20:45:55.531041+00:00",
+  "refreshed_at": "2026-10-08T21:13:10.470135+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -2740,6 +2740,7 @@
       "owner_id": "89449326451245056",
       "player_map": null,
       "players": [
+        "11563",
         "11577",
         "12185",
         "12490",
@@ -2748,7 +2749,6 @@
         "13330",
         "4034",
         "421",
-        "4943",
         "4993",
         "6806",
         "7526",
@@ -6311,6 +6311,31 @@
       }
     ],
     "5": [
+      {
+        "adds": {
+          "11563": 1
+        },
+        "consenter_ids": [
+          1
+        ],
+        "created": 1791492929463,
+        "creator": "89449326451245056",
+        "draft_picks": [],
+        "drops": {
+          "4943": 1
+        },
+        "leg": 5,
+        "metadata": null,
+        "roster_ids": [
+          1
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1791492929463,
+        "transaction_id": "1414027469803053056",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "CLE": 6
