@@ -11,9 +11,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1413547506888949760",
+    "last_message_id": "1413847800440999936",
     "last_message_text_map": null,
-    "last_message_time": 1791378497387,
+    "last_message_time": 1791450092948,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -2412,7 +2412,7 @@
           "6770",
           "6801",
           "8144",
-          "LV"
+          "CLE"
         ],
         "players_points": {
           "11435": 0.0,
@@ -2430,7 +2430,7 @@
           "6770": 0.0,
           "6801": 0.0,
           "8144": 0.0,
-          "LV": 0.0
+          "CLE": 0.0
         },
         "points": 0.0,
         "roster_id": 6,
@@ -2443,7 +2443,7 @@
           "11604",
           "2133",
           "2747",
-          "LV"
+          "0"
         ],
         "starters_points": [
           0.0,
@@ -2723,7 +2723,7 @@
     "season_type": "regular",
     "week": 5
   },
-  "refreshed_at": "2026-10-08T08:59:00.650290+00:00",
+  "refreshed_at": "2026-10-08T09:21:29.859210+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -3067,7 +3067,7 @@
         "6770",
         "6801",
         "8144",
-        "LV"
+        "CLE"
       ],
       "reserve": [
         "11560"
@@ -3097,7 +3097,7 @@
         "11604",
         "2133",
         "2747",
-        "LV"
+        "0"
       ],
       "taxi": null
     },
@@ -6311,6 +6311,31 @@
       }
     ],
     "5": [
+      {
+        "adds": {
+          "CLE": 6
+        },
+        "consenter_ids": [
+          6
+        ],
+        "created": 1791450092915,
+        "creator": "72792392721645568",
+        "draft_picks": [],
+        "drops": {
+          "LV": 6
+        },
+        "leg": 5,
+        "metadata": null,
+        "roster_ids": [
+          6
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1791450092915,
+        "transaction_id": "1413847800302624768",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "96": 5
