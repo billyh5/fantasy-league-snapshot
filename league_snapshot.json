@@ -11,9 +11,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1414070717800103936",
+    "last_message_id": "1414664276886458368",
     "last_message_text_map": null,
-    "last_message_time": 1791503240588,
+    "last_message_time": 1791644756103,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -2078,7 +2078,7 @@
         "matchup_id": 2,
         "players": [
           "11563",
-          "11577",
+          "11628",
           "12185",
           "12490",
           "12514",
@@ -2096,7 +2096,7 @@
         ],
         "players_points": {
           "11563": 0.0,
-          "11577": 0.0,
+          "11628": 0.0,
           "12185": 0.0,
           "12490": 0.0,
           "12514": 17.2,
@@ -2723,7 +2723,7 @@
     "season_type": "regular",
     "week": 5
   },
-  "refreshed_at": "2026-10-10T14:54:59.574537+00:00",
+  "refreshed_at": "2026-10-10T15:11:00.141222+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -2741,7 +2741,7 @@
       "player_map": null,
       "players": [
         "11563",
-        "11577",
+        "11628",
         "12185",
         "12490",
         "12514",
@@ -6311,6 +6311,31 @@
       }
     ],
     "5": [
+      {
+        "adds": {
+          "11628": 1
+        },
+        "consenter_ids": [
+          1
+        ],
+        "created": 1791644756072,
+        "creator": "89449326451245056",
+        "draft_picks": [],
+        "drops": {
+          "11577": 1
+        },
+        "leg": 5,
+        "metadata": null,
+        "roster_ids": [
+          1
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1791644756072,
+        "transaction_id": "1414664276756418560",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "11637": 7
