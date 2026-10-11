@@ -2603,7 +2603,7 @@
           "8136",
           "8138",
           "9511",
-          "GB"
+          "WAS"
         ],
         "players_points": {
           "11632": 0.0,
@@ -2620,7 +2620,7 @@
           "8136": 0.0,
           "8138": 0.0,
           "9511": 0.0,
-          "GB": 0.0
+          "WAS": 0.0
         },
         "points": 16.64,
         "roster_id": 9,
@@ -2633,7 +2633,7 @@
           "8131",
           "2216",
           "3451",
-          "GB"
+          "WAS"
         ],
         "starters_points": [
           16.64,
@@ -2723,7 +2723,7 @@
     "season_type": "regular",
     "week": 5
   },
-  "refreshed_at": "2026-10-11T11:57:34.833363+00:00",
+  "refreshed_at": "2026-10-11T12:21:41.409304+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -3254,7 +3254,7 @@
         "8136",
         "8138",
         "9511",
-        "GB"
+        "WAS"
       ],
       "reserve": null,
       "roster_id": 9,
@@ -3282,7 +3282,7 @@
         "8131",
         "2216",
         "3451",
-        "GB"
+        "WAS"
       ],
       "taxi": null
     },
@@ -6311,6 +6311,31 @@
       }
     ],
     "5": [
+      {
+        "adds": {
+          "WAS": 9
+        },
+        "consenter_ids": [
+          9
+        ],
+        "created": 1791719617820,
+        "creator": "723733268993794048",
+        "draft_picks": [],
+        "drops": {
+          "GB": 9
+        },
+        "leg": 5,
+        "metadata": null,
+        "roster_ids": [
+          9
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1791719617820,
+        "transaction_id": "1414978269685583872",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "11628": 1
