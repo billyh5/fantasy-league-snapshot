@@ -11,9 +11,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1415107256084627456",
+    "last_message_id": "1415764178848731136",
     "last_message_text_map": null,
-    "last_message_time": 1791750370574,
+    "last_message_time": 1791906993166,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -119,7 +119,7 @@
       "divisions": 0,
       "draft_rounds": 3,
       "faab_suggestions": 0,
-      "last_report": 4,
+      "last_report": 5,
       "last_scored_leg": 5,
       "league_average_match": 0,
       "leg": 5,
@@ -2729,7 +2729,7 @@
     "season_type": "regular",
     "week": 6
   },
-  "refreshed_at": "2026-10-13T15:35:40.744367+00:00",
+  "refreshed_at": "2026-10-13T16:01:23.939495+00:00",
   "rosters": [
     {
       "co_owners": null,
