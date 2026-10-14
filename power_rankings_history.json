@@ -198,6 +198,133 @@
           "title_pct": 0.8
         }
       ]
+    },
+    "6": {
+      "status": "official",
+      "generated_at": "2026-10-14",
+      "gm_headline": "The top three are separating, Sleeper Sux just kicked the door open, and 5️⃣5️⃣5️⃣5️⃣5️⃣ is getting absolutely robbed by the schedule.",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "Eat a Bag of Nix",
+          "roster_id": 4,
+          "gm_score": 96,
+          "movement": 0,
+          "tier": "Favorite",
+          "situation": "👑 Still the Standard",
+          "biggest_need": "Depth",
+          "playoff_pct": 97,
+          "title_pct": 30
+        },
+        {
+          "rank": 2,
+          "team": "Bosa Deez Nuts",
+          "roster_id": 7,
+          "gm_score": 93,
+          "movement": 0,
+          "tier": "Favorite",
+          "situation": "🦈 Hunting the Crown",
+          "biggest_need": "RB stability",
+          "playoff_pct": 95,
+          "title_pct": 24
+        },
+        {
+          "rank": 3,
+          "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+          "roster_id": 6,
+          "gm_score": 91,
+          "movement": 0,
+          "tier": "Favorite",
+          "situation": "🧱 5-0 Where It Counts",
+          "biggest_need": "WR",
+          "playoff_pct": 89,
+          "title_pct": 20
+        },
+        {
+          "rank": 4,
+          "team": "Sleeper Sux",
+          "roster_id": 9,
+          "gm_score": 84,
+          "movement": 1,
+          "tier": "Contender",
+          "situation": "🔥 Woke Up Angry",
+          "biggest_need": "TE / health",
+          "playoff_pct": 72,
+          "title_pct": 9
+        },
+        {
+          "rank": 5,
+          "team": "Clutch",
+          "roster_id": 2,
+          "gm_score": 79,
+          "movement": -1,
+          "tier": "Contender",
+          "situation": "🎭 Winning Ugly",
+          "biggest_need": "RB / flexibility",
+          "playoff_pct": 66,
+          "title_pct": 6
+        },
+        {
+          "rank": 6,
+          "team": "CaptainJack51",
+          "roster_id": 10,
+          "gm_score": 77,
+          "movement": 1,
+          "tier": "Contender",
+          "situation": "🚀 Ceiling Found",
+          "biggest_need": "Consistency",
+          "playoff_pct": 48,
+          "title_pct": 4
+        },
+        {
+          "rank": 7,
+          "team": "Shake 'n Bake",
+          "roster_id": 1,
+          "gm_score": 75,
+          "movement": -1,
+          "tier": "Bubble",
+          "situation": "⚠️ Roster > Results",
+          "biggest_need": "QB / RB2",
+          "playoff_pct": 44,
+          "title_pct": 3
+        },
+        {
+          "rank": 8,
+          "team": "buffalobob391",
+          "roster_id": 8,
+          "gm_score": 72,
+          "movement": 0,
+          "tier": "Bubble",
+          "situation": "🎢 Somehow 3-2",
+          "biggest_need": "Consistency",
+          "playoff_pct": 61,
+          "title_pct": 2.5
+        },
+        {
+          "rank": 9,
+          "team": "Going Nuclear",
+          "roster_id": 3,
+          "gm_score": 64,
+          "movement": 1,
+          "tier": "Needs a Move",
+          "situation": "☢️ Talent, No Wins",
+          "biggest_need": "WR / lineup efficiency",
+          "playoff_pct": 22,
+          "title_pct": 1
+        },
+        {
+          "rank": 10,
+          "team": "Marlburrow Reds",
+          "roster_id": 5,
+          "gm_score": 56,
+          "movement": -1,
+          "tier": "Needs a Move",
+          "situation": "🪦 0-10 in Spirit",
+          "biggest_need": "QB health / wins now",
+          "playoff_pct": 6,
+          "title_pct": 0.5
+        }
+      ]
     }
   }
 }

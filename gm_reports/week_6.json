@@ -1,0 +1,453 @@
+{
+  "league_id": "1312049844910563328",
+  "league_name": "The League",
+  "season": 2026,
+  "report_week": 6,
+  "based_on_completed_through_week": 5,
+  "generated_at": "2026-10-14",
+  "gm_headline": "The top three are separating, Sleeper Sux just kicked the door open, and 5️⃣5️⃣5️⃣5️⃣5️⃣ is getting absolutely robbed by the schedule.",
+  "power_rankings": [
+    {
+      "rank": 1,
+      "roster_id": 4,
+      "team": "Eat a Bag of Nix",
+      "gm_score": 96,
+      "movement": 0,
+      "tier": "Favorite",
+      "emoji": "👑",
+      "situation": "Still the Standard",
+      "biggest_need": "Depth",
+      "playoff_pct": 97,
+      "title_pct": 30,
+      "record": "4-1",
+      "pf": 822.21,
+      "median_record": "4-1",
+      "combined_record": "8-2",
+      "recent_avg": 173.51,
+      "summary": "A 179.09-point loss changes nothing: that score would have beaten eight of nine possible opponents. League-best PF, potential points and three-week scoring keep the crown firmly in place."
+    },
+    {
+      "rank": 2,
+      "roster_id": 7,
+      "team": "Bosa Deez Nuts",
+      "gm_score": 93,
+      "movement": 0,
+      "tier": "Favorite",
+      "emoji": "🦈",
+      "situation": "Hunting the Crown",
+      "biggest_need": "RB stability",
+      "playoff_pct": 95,
+      "title_pct": 24,
+      "record": "4-1",
+      "pf": 772.86,
+      "median_record": "4-1",
+      "combined_record": "8-2",
+      "recent_avg": 146.44,
+      "summary": "Week 5's 171.76 restored the bite. A 4-1 median record, 73.3% all-play mark and league-best 96.6% lineup efficiency make this the cleanest challenger to the top spot."
+    },
+    {
+      "rank": 3,
+      "roster_id": 6,
+      "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+      "gm_score": 91,
+      "movement": 0,
+      "tier": "Favorite",
+      "emoji": "🧱",
+      "situation": "5-0 Where It Counts",
+      "biggest_need": "WR",
+      "playoff_pct": 89,
+      "title_pct": 20,
+      "record": "3-2",
+      "pf": 729.33,
+      "median_record": "5-0",
+      "combined_record": "8-2",
+      "recent_avg": 151.13,
+      "summary": "The only 5-0 team against the league median is somehow just 3-2 head-to-head. Another 172.25 in Week 5 confirms this is a title-level roster whose record is underselling it."
+    },
+    {
+      "rank": 4,
+      "roster_id": 9,
+      "team": "Sleeper Sux",
+      "gm_score": 84,
+      "movement": 1,
+      "tier": "Contender",
+      "emoji": "🔥",
+      "situation": "Woke Up Angry",
+      "biggest_need": "TE / health",
+      "playoff_pct": 72,
+      "title_pct": 9,
+      "record": "3-2",
+      "pf": 679.0,
+      "median_record": "3-2",
+      "combined_record": "6-4",
+      "recent_avg": 143.48,
+      "summary": "A league-high 183.54 in Week 5 finally showed the ceiling. The roster is deep, the FAAB war chest is enormous, and the only thing keeping this from the top tier is health and a cleaner TE answer."
+    },
+    {
+      "rank": 5,
+      "roster_id": 2,
+      "team": "Clutch",
+      "gm_score": 79,
+      "movement": -1,
+      "tier": "Contender",
+      "emoji": "🎭",
+      "situation": "Winning Ugly",
+      "biggest_need": "RB / flexibility",
+      "playoff_pct": 66,
+      "title_pct": 6,
+      "record": "3-2",
+      "pf": 658.46,
+      "median_record": "2-3",
+      "combined_record": "5-5",
+      "recent_avg": 136.57,
+      "summary": "The 3-2 record is useful, but Week 5's 144.61 was below the median and the team is only 2-3 against it. Elite top-end receiving keeps the ceiling high; almost no remaining FAAB limits the escape routes."
+    },
+    {
+      "rank": 6,
+      "roster_id": 10,
+      "team": "CaptainJack51",
+      "gm_score": 77,
+      "movement": 1,
+      "tier": "Contender",
+      "emoji": "🚀",
+      "situation": "Ceiling Found",
+      "biggest_need": "Consistency",
+      "playoff_pct": 48,
+      "title_pct": 4,
+      "record": "2-3",
+      "pf": 615.35,
+      "median_record": "2-3",
+      "combined_record": "4-6",
+      "recent_avg": 140.0,
+      "summary": "Scoring 161.86 and losing is brutal, but it also proved the roster can hang with anyone. The recent trend is sharply better; lineup efficiency and week-to-week consistency are the remaining problems."
+    },
+    {
+      "rank": 7,
+      "roster_id": 1,
+      "team": "Shake 'n Bake",
+      "gm_score": 75,
+      "movement": -1,
+      "tier": "Bubble",
+      "emoji": "⚠️",
+      "situation": "Roster > Results",
+      "biggest_need": "QB / RB2",
+      "playoff_pct": 44,
+      "title_pct": 3,
+      "record": "2-3",
+      "pf": 637.87,
+      "median_record": "1-4",
+      "combined_record": "3-7",
+      "recent_avg": 134.09,
+      "summary": "The names still look better than the results. A 1-4 median record and 42.2% all-play mark say the 2-3 record has actually been generous; QB and RB2 need to turn roster value into weekly points."
+    },
+    {
+      "rank": 8,
+      "roster_id": 8,
+      "team": "buffalobob391",
+      "gm_score": 72,
+      "movement": 0,
+      "tier": "Bubble",
+      "emoji": "🎢",
+      "situation": "Somehow 3-2",
+      "biggest_need": "Consistency",
+      "playoff_pct": 61,
+      "title_pct": 2.5,
+      "record": "3-2",
+      "pf": 632.41,
+      "median_record": "2-3",
+      "combined_record": "5-5",
+      "recent_avg": 109.18,
+      "summary": "Week 5 produced a win, but 146.10 still finished below the median. The actual record is healthier than the underlying scoring profile, and the massive Weeks 3-4 collapse is still dragging down the outlook."
+    },
+    {
+      "rank": 9,
+      "roster_id": 3,
+      "team": "Going Nuclear",
+      "gm_score": 64,
+      "movement": 1,
+      "tier": "Needs a Move",
+      "emoji": "☢️",
+      "situation": "Talent, No Wins",
+      "biggest_need": "WR / lineup efficiency",
+      "playoff_pct": 22,
+      "title_pct": 1,
+      "record": "1-4",
+      "pf": 575.55,
+      "median_record": "2-3",
+      "combined_record": "3-7",
+      "recent_avg": 116.26,
+      "summary": "The roster is better than 1-4, and the 2-3 median record proves it, but an 85.4% lineup efficiency rate is bleeding usable points. There is still enough talent to recover if the lineup and WR production improve immediately."
+    },
+    {
+      "rank": 10,
+      "roster_id": 5,
+      "team": "Marlburrow Reds",
+      "gm_score": 56,
+      "movement": -1,
+      "tier": "Needs a Move",
+      "emoji": "🪦",
+      "situation": "0-10 in Spirit",
+      "biggest_need": "QB health / wins now",
+      "playoff_pct": 6,
+      "title_pct": 0.5,
+      "record": "0-5",
+      "pf": 583.13,
+      "median_record": "0-5",
+      "combined_record": "0-10",
+      "recent_avg": 118.86,
+      "summary": "There is no schedule excuse left: 0-5 head-to-head and 0-5 against the median. Lamar Jackson's possible return helps, but this roster needs immediate production and a winning streak, not patience."
+    }
+  ],
+  "median_report": {
+    "latest_completed_week": 5,
+    "week_5_median_cut": 153.98,
+    "week_5_above_median": [
+      "Sleeper Sux",
+      "Eat a Bag of Nix",
+      "5️⃣5️⃣5️⃣5️⃣5️⃣",
+      "Bosa Deez Nuts",
+      "CaptainJack51"
+    ],
+    "week_5_below_median": [
+      "buffalobob391",
+      "Clutch",
+      "Shake 'n Bake",
+      "Going Nuclear",
+      "Marlburrow Reds"
+    ],
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Eat a Bag of Nix",
+        "actual_record": "4-1",
+        "median_record": "4-1",
+        "combined_record": "8-2"
+      },
+      {
+        "rank": 2,
+        "team": "Bosa Deez Nuts",
+        "actual_record": "4-1",
+        "median_record": "4-1",
+        "combined_record": "8-2"
+      },
+      {
+        "rank": 3,
+        "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "actual_record": "3-2",
+        "median_record": "5-0",
+        "combined_record": "8-2"
+      },
+      {
+        "rank": 4,
+        "team": "Sleeper Sux",
+        "actual_record": "3-2",
+        "median_record": "3-2",
+        "combined_record": "6-4"
+      },
+      {
+        "rank": 5,
+        "team": "Clutch",
+        "actual_record": "3-2",
+        "median_record": "2-3",
+        "combined_record": "5-5"
+      },
+      {
+        "rank": 6,
+        "team": "buffalobob391",
+        "actual_record": "3-2",
+        "median_record": "2-3",
+        "combined_record": "5-5"
+      },
+      {
+        "rank": 7,
+        "team": "CaptainJack51",
+        "actual_record": "2-3",
+        "median_record": "2-3",
+        "combined_record": "4-6"
+      },
+      {
+        "rank": 8,
+        "team": "Shake 'n Bake",
+        "actual_record": "2-3",
+        "median_record": "1-4",
+        "combined_record": "3-7"
+      },
+      {
+        "rank": 9,
+        "team": "Going Nuclear",
+        "actual_record": "1-4",
+        "median_record": "2-3",
+        "combined_record": "3-7"
+      },
+      {
+        "rank": 10,
+        "team": "Marlburrow Reds",
+        "actual_record": "0-5",
+        "median_record": "0-5",
+        "combined_record": "0-10"
+      }
+    ],
+    "biggest_head_to_head_beneficiary": {
+      "team": "buffalobob391",
+      "note": "3-2 actual vs 2-3 against the median, with only a 42.2% all-play win rate."
+    },
+    "biggest_head_to_head_victim": {
+      "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+      "note": "3-2 actual despite a perfect 5-0 median record and a 68.9% all-play win rate."
+    },
+    "week_5_heartbreak": [
+      "Eat a Bag of Nix scored 179.09, the second-highest score of the week, and lost to Sleeper Sux at 183.54.",
+      "CaptainJack51 scored 161.86, cleared the median comfortably, and still lost to 5️⃣5️⃣5️⃣5️⃣5️⃣ at 172.25."
+    ],
+    "week_5_fortunate_wins": [
+      "Clutch won with 144.61 despite finishing below the 153.98 median.",
+      "buffalobob391 won with 146.10 despite finishing below the 153.98 median."
+    ]
+  },
+  "league_notes": [
+    "Eat a Bag of Nix keeps the No. 1 spot despite its first loss because the loss came with 179.09 points.",
+    "5️⃣5️⃣5️⃣5️⃣5️⃣ is the only team in the league that is 5-0 against the weekly median.",
+    "Sleeper Sux posted the Week 5 high score at 183.54 and moves into the top four.",
+    "Marlburrow Reds is 0-10 under a combined head-to-head plus median system."
+  ],
+  "methodology": {
+    "gm_score_weights": {
+      "roster_strength": 30,
+      "starting_lineup_ceiling": 20,
+      "depth": 15,
+      "positional_advantage": 10,
+      "recent_performance": 10,
+      "playoff_outlook": 10,
+      "roster_faab_flexibility": 5
+    },
+    "note": "Same model for every team. Power ranking movement compares against the official Week 5 team-blind ranking."
+  },
+  "power_rankings_history_patch": {
+    "week": 6,
+    "status": "official",
+    "generated_at": "2026-10-14",
+    "gm_headline": "The top three are separating, Sleeper Sux just kicked the door open, and 5️⃣5️⃣5️⃣5️⃣5️⃣ is getting absolutely robbed by the schedule.",
+    "rankings": [
+      {
+        "rank": 1,
+        "team": "Eat a Bag of Nix",
+        "roster_id": 4,
+        "gm_score": 96,
+        "movement": 0,
+        "tier": "Favorite",
+        "situation": "👑 Still the Standard",
+        "biggest_need": "Depth",
+        "playoff_pct": 97,
+        "title_pct": 30
+      },
+      {
+        "rank": 2,
+        "team": "Bosa Deez Nuts",
+        "roster_id": 7,
+        "gm_score": 93,
+        "movement": 0,
+        "tier": "Favorite",
+        "situation": "🦈 Hunting the Crown",
+        "biggest_need": "RB stability",
+        "playoff_pct": 95,
+        "title_pct": 24
+      },
+      {
+        "rank": 3,
+        "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "roster_id": 6,
+        "gm_score": 91,
+        "movement": 0,
+        "tier": "Favorite",
+        "situation": "🧱 5-0 Where It Counts",
+        "biggest_need": "WR",
+        "playoff_pct": 89,
+        "title_pct": 20
+      },
+      {
+        "rank": 4,
+        "team": "Sleeper Sux",
+        "roster_id": 9,
+        "gm_score": 84,
+        "movement": 1,
+        "tier": "Contender",
+        "situation": "🔥 Woke Up Angry",
+        "biggest_need": "TE / health",
+        "playoff_pct": 72,
+        "title_pct": 9
+      },
+      {
+        "rank": 5,
+        "team": "Clutch",
+        "roster_id": 2,
+        "gm_score": 79,
+        "movement": -1,
+        "tier": "Contender",
+        "situation": "🎭 Winning Ugly",
+        "biggest_need": "RB / flexibility",
+        "playoff_pct": 66,
+        "title_pct": 6
+      },
+      {
+        "rank": 6,
+        "team": "CaptainJack51",
+        "roster_id": 10,
+        "gm_score": 77,
+        "movement": 1,
+        "tier": "Contender",
+        "situation": "🚀 Ceiling Found",
+        "biggest_need": "Consistency",
+        "playoff_pct": 48,
+        "title_pct": 4
+      },
+      {
+        "rank": 7,
+        "team": "Shake 'n Bake",
+        "roster_id": 1,
+        "gm_score": 75,
+        "movement": -1,
+        "tier": "Bubble",
+        "situation": "⚠️ Roster > Results",
+        "biggest_need": "QB / RB2",
+        "playoff_pct": 44,
+        "title_pct": 3
+      },
+      {
+        "rank": 8,
+        "team": "buffalobob391",
+        "roster_id": 8,
+        "gm_score": 72,
+        "movement": 0,
+        "tier": "Bubble",
+        "situation": "🎢 Somehow 3-2",
+        "biggest_need": "Consistency",
+        "playoff_pct": 61,
+        "title_pct": 2.5
+      },
+      {
+        "rank": 9,
+        "team": "Going Nuclear",
+        "roster_id": 3,
+        "gm_score": 64,
+        "movement": 1,
+        "tier": "Needs a Move",
+        "situation": "☢️ Talent, No Wins",
+        "biggest_need": "WR / lineup efficiency",
+        "playoff_pct": 22,
+        "title_pct": 1
+      },
+      {
+        "rank": 10,
+        "team": "Marlburrow Reds",
+        "roster_id": 5,
+        "gm_score": 56,
+        "movement": -1,
+        "tier": "Needs a Move",
+        "situation": "🪦 0-10 in Spirit",
+        "biggest_need": "QB health / wins now",
+        "playoff_pct": 6,
+        "title_pct": 0.5
+      }
+    ]
+  }
+}
