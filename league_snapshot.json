@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1416084687943688192",
+    "last_message_id": "1416202410979856384",
     "last_message_text_map": null,
-    "last_message_time": 1791983408489,
+    "last_message_time": 1792011475848,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -3620,7 +3620,7 @@
           "9500",
           "9509",
           "9756",
-          "PIT"
+          "IND"
         ],
         "players_points": {
           "11581": 0.0,
@@ -3638,20 +3638,20 @@
           "9500": 0.0,
           "9509": 0.0,
           "9756": 0.0,
-          "PIT": 0.0
+          "IND": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
         "starters": [
           "4881",
           "9509",
-          "12512",
+          "11581",
           "9500",
           "11646",
           "9484",
           "8137",
           "11786",
-          "PIT"
+          "IND"
         ],
         "starters_points": [
           0.0,
@@ -3995,7 +3995,7 @@
     "season_type": "regular",
     "week": 6
   },
-  "refreshed_at": "2026-10-14T20:30:07.164754+00:00",
+  "refreshed_at": "2026-10-14T21:02:41.787633+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -4275,7 +4275,7 @@
         "9500",
         "9509",
         "9756",
-        "PIT"
+        "IND"
       ],
       "reserve": [
         "9756"
@@ -4299,13 +4299,13 @@
       "starters": [
         "4881",
         "9509",
-        "12512",
+        "11581",
         "9500",
         "11646",
         "9484",
         "8137",
         "11786",
-        "PIT"
+        "IND"
       ],
       "taxi": null
     },
@@ -7596,6 +7596,31 @@
       }
     ],
     "6": [
+      {
+        "adds": {
+          "IND": 5
+        },
+        "consenter_ids": [
+          5
+        ],
+        "created": 1792011475810,
+        "creator": "992184268627537920",
+        "draft_picks": [],
+        "drops": {
+          "PIT": 5
+        },
+        "leg": 6,
+        "metadata": null,
+        "roster_ids": [
+          5
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1792011475810,
+        "transaction_id": "1416202410824683520",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "13150": 5
