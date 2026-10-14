@@ -17,6 +17,20 @@
       "seeds_1_to_5": "Standings order using league tiebreakers",
       "seed_6": "Highest remaining points-for team",
       "biggest_loser_ineligible": true
+    },
+    "tiebreaker_progression": "Apply H2H Record, then Highest PF, then Highest PA; move to the next rule when the preceding rule does not resolve the tie.",
+    "biggest_loser": {
+      "determination": "Worst record at the end of the regular season",
+      "tiebreakers": [
+        "H2H Record",
+        "Highest PF",
+        "Highest PA"
+      ],
+      "playoff_ineligible_once_determined": true
+    },
+    "clarification": {
+      "confirmed_by": "League owner",
+      "confirmed_at": "2026-10-14"
     }
   },
   "trade_deadline": "Players lock for Week 13 games",
