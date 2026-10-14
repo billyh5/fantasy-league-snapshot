@@ -31,6 +31,10 @@
     "clarification": {
       "confirmed_by": "League owner",
       "confirmed_at": "2026-10-14"
+    },
+    "h2h_method": {
+      "comparison": "Individual head-to-head records between tied teams",
+      "circular_ties": "If individual H2H comparisons do not produce a clear order, advance the unresolved tied teams to Highest PF, then Highest PA."
     }
   },
   "trade_deadline": "Players lock for Week 13 games",
