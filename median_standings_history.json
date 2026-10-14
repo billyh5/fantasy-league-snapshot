@@ -1,0 +1,156 @@
+{
+  "league_id": "1312049844910563328",
+  "league_name": "The League",
+  "season": 2026,
+  "system": "extra_game_vs_league_median",
+  "through_week": 5,
+  "weeks": {
+    "1": {
+      "median_cut": 138.03,
+      "results": {
+        "1": "L",
+        "2": "W",
+        "3": "W",
+        "4": "L",
+        "5": "L",
+        "6": "W",
+        "7": "W",
+        "8": "W",
+        "9": "L",
+        "10": "L"
+      }
+    },
+    "2": {
+      "median_cut": 110.53,
+      "results": {
+        "1": "L",
+        "2": "L",
+        "3": "L",
+        "4": "W",
+        "5": "L",
+        "6": "W",
+        "7": "W",
+        "8": "W",
+        "9": "W",
+        "10": "L"
+      }
+    },
+    "3": {
+      "median_cut": 127.46,
+      "results": {
+        "1": "L",
+        "2": "L",
+        "3": "W",
+        "4": "W",
+        "5": "L",
+        "6": "W",
+        "7": "W",
+        "8": "L",
+        "9": "L",
+        "10": "W"
+      }
+    },
+    "4": {
+      "median_cut": 136.65,
+      "results": {
+        "1": "W",
+        "2": "W",
+        "3": "L",
+        "4": "W",
+        "5": "L",
+        "6": "W",
+        "7": "L",
+        "8": "L",
+        "9": "W",
+        "10": "L"
+      }
+    },
+    "5": {
+      "median_cut": 153.98,
+      "results": {
+        "1": "L",
+        "2": "L",
+        "3": "L",
+        "4": "W",
+        "5": "L",
+        "6": "W",
+        "7": "W",
+        "8": "L",
+        "9": "W",
+        "10": "W"
+      }
+    }
+  },
+  "cumulative": [
+    {
+      "roster_id": 4,
+      "team": "Eat a Bag of Nix",
+      "actual_record": "4-1",
+      "median_record": "4-1",
+      "combined_record": "8-2"
+    },
+    {
+      "roster_id": 7,
+      "team": "Bosa Deez Nuts",
+      "actual_record": "4-1",
+      "median_record": "4-1",
+      "combined_record": "8-2"
+    },
+    {
+      "roster_id": 6,
+      "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+      "actual_record": "3-2",
+      "median_record": "5-0",
+      "combined_record": "8-2"
+    },
+    {
+      "roster_id": 9,
+      "team": "Sleeper Sux",
+      "actual_record": "3-2",
+      "median_record": "3-2",
+      "combined_record": "6-4"
+    },
+    {
+      "roster_id": 2,
+      "team": "Clutch",
+      "actual_record": "3-2",
+      "median_record": "2-3",
+      "combined_record": "5-5"
+    },
+    {
+      "roster_id": 8,
+      "team": "buffalobob391",
+      "actual_record": "3-2",
+      "median_record": "2-3",
+      "combined_record": "5-5"
+    },
+    {
+      "roster_id": 10,
+      "team": "CaptainJack51",
+      "actual_record": "2-3",
+      "median_record": "2-3",
+      "combined_record": "4-6"
+    },
+    {
+      "roster_id": 1,
+      "team": "Shake 'n Bake",
+      "actual_record": "2-3",
+      "median_record": "1-4",
+      "combined_record": "3-7"
+    },
+    {
+      "roster_id": 3,
+      "team": "Going Nuclear",
+      "actual_record": "1-4",
+      "median_record": "2-3",
+      "combined_record": "3-7"
+    },
+    {
+      "roster_id": 5,
+      "team": "Marlburrow Reds",
+      "actual_record": "0-5",
+      "median_record": "0-5",
+      "combined_record": "0-10"
+    }
+  ]
+}
