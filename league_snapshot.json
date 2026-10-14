@@ -11,9 +11,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1416008858630950912",
+    "last_message_id": "1416013788934664192",
     "last_message_text_map": null,
-    "last_message_time": 1791965329371,
+    "last_message_time": 1791966504847,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -2195,7 +2195,7 @@
           "10236",
           "7588",
           "6083",
-          "0"
+          "LAR"
         ],
         "starters_points": [
           0.0,
@@ -2474,7 +2474,7 @@
           "11584",
           "11624",
           "11637",
-          "11643",
+          "13274",
           "13346",
           "6790",
           "6904",
@@ -2492,7 +2492,7 @@
           "11584": 0.0,
           "11624": 0.0,
           "11637": 0.0,
-          "11643": 0.0,
+          "13274": 0.0,
           "13346": 0.0,
           "6790": 0.0,
           "6904": 0.0,
@@ -2731,7 +2731,7 @@
     "season_type": "regular",
     "week": 6
   },
-  "refreshed_at": "2026-10-14T08:13:23.057339+00:00",
+  "refreshed_at": "2026-10-14T08:52:11.310485+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -2853,7 +2853,7 @@
         "10236",
         "7588",
         "6083",
-        "0"
+        "LAR"
       ],
       "taxi": null
     },
@@ -3129,7 +3129,7 @@
         "11584",
         "11624",
         "11637",
-        "11643",
+        "13274",
         "13346",
         "6790",
         "6904",
@@ -6332,6 +6332,31 @@
       }
     ],
     "6": [
+      {
+        "adds": {
+          "13274": 7
+        },
+        "consenter_ids": [
+          7
+        ],
+        "created": 1791966504822,
+        "creator": "720286729042501632",
+        "draft_picks": [],
+        "drops": {
+          "11643": 7
+        },
+        "leg": 6,
+        "metadata": null,
+        "roster_ids": [
+          7
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1791966504822,
+        "transaction_id": "1416013788825559040",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "SF": 1
