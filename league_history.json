@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "league_name": "The League",
+  "records_tracked_since": 2019,
+  "source": {
+    "title": "2026 Bonus Awards",
+    "google_drive_file_id": "1PEit5DHOOnzrLjTtQChA-gCFwJdANHB50xzJVFty2qk",
+    "source_updated_at": "2026-10-13T12:03:33.677Z"
+  },
+  "current_season": 2026,
+  "current_bonus_awards": {
+    "highest_single_week_team_score": {
+      "points": 196.89,
+      "manager": "Thomas",
+      "week": 4
+    },
+    "highest_single_week_player_score": {
+      "points": 49.46,
+      "player": "Drake Maye",
+      "manager": "Jack",
+      "week": 5
+    },
+    "largest_margin_of_victory": {
+      "margin": 82.88,
+      "winner": "Thomas",
+      "winner_points": 174.28,
+      "loser": "Andrew",
+      "loser_points": 91.4,
+      "week": 2
+    },
+    "most_points_scored_in_a_loss": {
+      "points": 179.09,
+      "manager": "Thomas",
+      "opponent": "Kerry",
+      "opponent_points": 183.54,
+      "week": 5
+    },
+    "highest_total_points_for": {
+      "dynamic_source": "league_snapshot.json standings"
+    },
+    "highest_total_points_against": {
+      "dynamic_source": "league_snapshot.json standings"
+    }
+  },
+  "all_time_records": {
+    "highest_single_week_team_score": {
+      "points": 219.24,
+      "manager": "Kerry",
+      "week": 5,
+      "season": 2019
+    },
+    "highest_single_week_player_score": {
+      "points": 61.9,
+      "player": "Tyreek Hill",
+      "manager": "Kyle",
+      "week": 12,
+      "season": 2020
+    },
+    "largest_margin_of_victory": {
+      "margin": 98.3,
+      "winner": "Kerry",
+      "winner_points": 219.24,
+      "loser": "Lee",
+      "loser_points": 120.92,
+      "week": 5,
+      "season": 2019
+    },
+    "most_points_scored_in_a_loss": {
+      "points": 179.09,
+      "manager": "Thomas",
+      "opponent": "Kerry",
+      "opponent_points": 183.54,
+      "week": 5,
+      "season": 2026
+    },
+    "highest_total_points_for": {
+      "points": 2472.14,
+      "manager": "Jack",
+      "through_week": 17,
+      "season": 2022
+    },
+    "highest_total_points_against": {
+      "points": 1885.0,
+      "manager": "Billy",
+      "through_week": 14,
+      "season": 2024
+    }
+  },
+  "historical_context": [
+    {
+      "season": 2023,
+      "change": "Passing touchdowns increased from 4 fantasy points to 6."
+    },
+    {
+      "season": 2022,
+      "change": "Regular season increased from 13 weeks to 14."
+    }
+  ]
+}

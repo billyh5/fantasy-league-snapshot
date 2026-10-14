@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "league_name": "The League",
+  "source": {
+    "title": "OFFICIAL Rules and Regulations.pdf",
+    "google_drive_file_id": "1wleoIBvsjzZEwOqXBgkBWFgn7nEZsD7z"
+  },
+  "commissioner": "Eric Keen",
+  "playoffs": {
+    "teams": 6,
+    "tiebreakers": [
+      "H2H Record",
+      "Highest PF",
+      "Highest PA"
+    ],
+    "seeding": {
+      "seeds_1_to_5": "Standings order using league tiebreakers",
+      "seed_6": "Highest remaining points-for team",
+      "biggest_loser_ineligible": true
+    }
+  },
+  "trade_deadline": "Players lock for Week 13 games",
+  "waivers": {
+    "regular_season_faab": 1000,
+    "playoff_reset": {
+      "playoff_teams": 100,
+      "non_playoff_teams": 10
+    }
+  },
+  "bonus_awards": {
+    "highest_single_week_team_score": "active through championship week",
+    "highest_single_week_player_score": "active through championship week",
+    "largest_margin_of_victory": "finalizes at conclusion of regular season",
+    "most_points_scored_in_a_loss": "active through championship week",
+    "highest_season_points_for": "finalizes at conclusion of regular season",
+    "highest_season_points_against": "finalizes at conclusion of regular season"
+  },
+  "toilet_bowl": {
+    "teams": 4,
+    "opening_matchups": [
+      "#7 vs #10",
+      "#8 vs #9"
+    ],
+    "reward": "Draft-position selection order follows final toilet-bowl finish."
+  },
+  "weekly_punishment": {
+    "trigger": "Lowest weekly scorer",
+    "punishment": "Shotgun a beer and send video to league chat.",
+    "late_penalty": "One additional beer if not completed by the following Sunday kickoff."
+  }
+}
