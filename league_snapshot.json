@@ -11,9 +11,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1416057821245485056",
+    "last_message_id": "1416084687943688192",
     "last_message_text_map": null,
-    "last_message_time": 1791977002968,
+    "last_message_time": 1791983408489,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -2346,6 +2346,7 @@
           "11786",
           "12512",
           "12529",
+          "13150",
           "2449",
           "4881",
           "8121",
@@ -2363,6 +2364,7 @@
           "11786": 0.0,
           "12512": 0.0,
           "12529": 0.0,
+          "13150": 0.0,
           "2449": 0.0,
           "4881": 0.0,
           "8121": 0.0,
@@ -2381,7 +2383,7 @@
           "9509",
           "12512",
           "9500",
-          "8121",
+          "11646",
           "9484",
           "8137",
           "11786",
@@ -2729,7 +2731,7 @@
     "season_type": "regular",
     "week": 6
   },
-  "refreshed_at": "2026-10-14T12:38:06.645273+00:00",
+  "refreshed_at": "2026-10-14T13:18:32.635186+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -2999,6 +3001,7 @@
         "11786",
         "12512",
         "12529",
+        "13150",
         "2449",
         "4881",
         "8121",
@@ -3010,7 +3013,9 @@
         "9756",
         "PIT"
       ],
-      "reserve": null,
+      "reserve": [
+        "9756"
+      ],
       "roster_id": 5,
       "settings": {
         "division": 1,
@@ -3032,7 +3037,7 @@
         "9509",
         "12512",
         "9500",
-        "8121",
+        "11646",
         "9484",
         "8137",
         "11786",
@@ -6327,6 +6332,29 @@
       }
     ],
     "6": [
+      {
+        "adds": {
+          "13150": 5
+        },
+        "consenter_ids": [
+          5
+        ],
+        "created": 1791983408467,
+        "creator": "992184268627537920",
+        "draft_picks": [],
+        "drops": null,
+        "leg": 6,
+        "metadata": null,
+        "roster_ids": [
+          5
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1791983408467,
+        "transaction_id": "1416084687855607808",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "11628": 3
