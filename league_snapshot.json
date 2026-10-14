@@ -11,9 +11,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1416043220680368128",
+    "last_message_id": "1416057821245485056",
     "last_message_text_map": null,
-    "last_message_time": 1791973521923,
+    "last_message_time": 1791977002968,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -2214,6 +2214,7 @@
         "matchup_id": 1,
         "players": [
           "10232",
+          "11628",
           "12533",
           "13286",
           "13287",
@@ -2225,13 +2226,13 @@
           "7523",
           "7525",
           "7553",
-          "8134",
           "9221",
           "9753",
           "HOU"
         ],
         "players_points": {
           "10232": 0.0,
+          "11628": 0.0,
           "12533": 0.0,
           "13286": 0.0,
           "13287": 0.0,
@@ -2243,7 +2244,6 @@
           "7523": 0.0,
           "7525": 0.0,
           "7553": 0.0,
-          "8134": 0.0,
           "9221": 0.0,
           "9753": 0.0,
           "HOU": 0.0
@@ -2729,7 +2729,7 @@
     "season_type": "regular",
     "week": 6
   },
-  "refreshed_at": "2026-10-14T10:45:12.895758+00:00",
+  "refreshed_at": "2026-10-14T11:25:00.341446+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -2871,6 +2871,7 @@
       "player_map": null,
       "players": [
         "10232",
+        "11628",
         "12533",
         "13286",
         "13287",
@@ -2882,7 +2883,6 @@
         "7523",
         "7525",
         "7553",
-        "8134",
         "9221",
         "9753",
         "HOU"
@@ -6327,6 +6327,31 @@
       }
     ],
     "6": [
+      {
+        "adds": {
+          "11628": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "created": 1791977002940,
+        "creator": "328170548674695168",
+        "draft_picks": [],
+        "drops": {
+          "8134": 3
+        },
+        "leg": 6,
+        "metadata": null,
+        "roster_ids": [
+          3
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1791977002940,
+        "transaction_id": "1416057821123850240",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": null,
         "consenter_ids": [
