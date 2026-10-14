@@ -1,0 +1,128 @@
+name: Ingest GM Report
+
+on:
+  issues:
+    types: [opened, reopened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  ingest:
+    if: >
+      github.event.issue.user.login == github.repository_owner &&
+      startsWith(github.event.issue.title, '[GM REPORT]')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out snapshot repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Extract and validate report JSON
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import re
+          from pathlib import Path
+
+          body = os.environ["ISSUE_BODY"]
+
+          start = "<!-- GM_REPORT_JSON_START -->"
+          end = "<!-- GM_REPORT_JSON_END -->"
+
+          if start not in body or end not in body:
+              raise SystemExit("GM report JSON markers were not found in the issue body.")
+
+          payload = body.split(start, 1)[1].split(end, 1)[0].strip()
+
+          # Allow the JSON to be wrapped in a Markdown code fence.
+          payload = re.sub(r"^```(?:json)?\s*", "", payload)
+          payload = re.sub(r"\s*```$", "", payload)
+
+          report = json.loads(payload)
+
+          required = [
+              "league_id",
+              "season",
+              "report_week",
+              "generated_at",
+              "power_rankings",
+              "median_report",
+              "power_rankings_history_patch",
+          ]
+          missing = [key for key in required if key not in report]
+          if missing:
+              raise SystemExit(f"Missing required GM report keys: {missing}")
+
+          # Latest website-facing report.
+          Path("gm_report_latest.json").write_text(
+              json.dumps(report, indent=2, ensure_ascii=False) + "\n",
+              encoding="utf-8",
+          )
+
+          # Immutable weekly archive for the website/history.
+          week = int(report["report_week"])
+          archive_dir = Path("gm_reports")
+          archive_dir.mkdir(exist_ok=True)
+          Path(archive_dir / f"week_{week}.json").write_text(
+              json.dumps(report, indent=2, ensure_ascii=False) + "\n",
+              encoding="utf-8",
+          )
+
+          # Merge the official ranking into power_rankings_history.json.
+          history_path = Path("power_rankings_history.json")
+          if history_path.exists():
+              history = json.loads(history_path.read_text(encoding="utf-8"))
+          else:
+              history = {
+                  "league_id": report["league_id"],
+                  "league_name": report.get("league_name", "The League"),
+                  "season": report["season"],
+                  "weeks": {},
+              }
+
+          patch = report["power_rankings_history_patch"]
+          patch_week = str(patch.pop("week"))
+          history.setdefault("weeks", {})[patch_week] = patch
+
+          history_path.write_text(
+              json.dumps(history, indent=2, ensure_ascii=False) + "\n",
+              encoding="utf-8",
+          )
+
+          print(f"Prepared Week {week} GM report and ranking history.")
+          PY
+
+      - name: Commit report files
+        run: |
+          git config user.name "TARS GM Bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add gm_report_latest.json gm_reports/ power_rankings_history.json
+
+          if git diff --cached --quiet; then
+            echo "No report changes to commit."
+            exit 0
+          fi
+
+          WEEK=$(python -c "import json; print(json.load(open('gm_report_latest.json'))['report_week'])")
+          git commit -m "Publish Week ${WEEK} GM report"
+          git push
+
+      - name: Close ingestion issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: "GM report ingested successfully. Website data and power-ranking history are updated."
+            });
+
