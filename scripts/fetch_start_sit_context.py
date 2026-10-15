@@ -14,7 +14,11 @@ def fetch_json(path,key,**params):
  url=API+path+'?'+urlencode({'apiKey':key,**params})
  with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'ShakeNBakeStartSit/1.0','Accept':'application/json'}),timeout=35) as r:return json.load(r)
 def pick_med(values):return round(median(values),2) if values else None
-def games_feed(key):
+def games_feed(key, season_start, week):
+ # Restrict event selection to the actual NFL week; never mix next week's Thursday game.
+ anchor=datetime.fromisoformat(season_start).replace(tzinfo=timezone.utc)
+ start=anchor+timedelta(days=(week-1)*7)
+ end=start+timedelta(days=7)
  raw=fetch_json('/events',key)
  events=raw if isinstance(raw,list) else raw.get('events',raw.get('data',[]))
  now=datetime.now(timezone.utc)
@@ -22,7 +26,7 @@ def games_feed(key):
  for e in events:
   try:t=datetime.fromisoformat(e['commence_time'].replace('Z','+00:00'))
   except (KeyError,ValueError,TypeError,AttributeError):continue
-  if now-timedelta(hours=5)<=t<=now+timedelta(days=10):valid.append((t,e))
+  if start<=t<end:valid.append((t,e))
  valid.sort(key=lambda x:x[0])
  games=[];opponents={};implied={};errors=[]
  for t,e in valid[:18]:
@@ -77,7 +81,7 @@ def main():
  key=os.environ.get('PROPLINE_API_KEY','').strip()
  if not key:sys.exit('Missing secret PROPLINE_API_KEY')
  season=int(l['nfl_state']['season']);week=int(l['nfl_state']['week'])
- games,opponents,implied,errors=games_feed(key)
+ games,opponents,implied,errors=games_feed(key,l['league']['season_start_date'] if 'season_start_date' in l['league'] else l['nfl_state']['season_start_date'],week)
  try:dvp=defense_feed(season,week)
  except Exception as ex:
   dvp={};errors.append('Defense data unavailable: '+type(ex).__name__+' '+str(ex)[:120])
