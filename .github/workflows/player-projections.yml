@@ -1,0 +1,30 @@
+name: Update Complete NFL Player Projections
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '27 10,16,22 * 9-12,1 *'
+permissions:
+  contents: write
+concurrency:
+  group: player-wide-projections
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh all player stats and weekly projections
+        run: python scripts/fetch_player_projections.py
+      - name: Publish complete player feed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add projections/player_weekly.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh player-wide weekly fantasy projections'
+            git pull --rebase origin main
+            git push
+          fi
