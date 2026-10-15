@@ -1,0 +1,25 @@
+name: Refresh Start Sit Matchups
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 11,17,23 * 9-12,1 *'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate matchup data
+        env:
+          PROPLINE_API_KEY: ${{ secrets.PROPLINE_API_KEY }}
+        run: python scripts/fetch_start_sit_context.py
+      - name: Commit refreshed data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add odds/start_sit_context.json
+          git diff --cached --quiet || (git commit -m 'Refresh Start Sit matchups' && git pull --rebase origin main && git push)
