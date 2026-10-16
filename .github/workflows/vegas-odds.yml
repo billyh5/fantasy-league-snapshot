@@ -28,8 +28,29 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add odds/vegas_snapshot.json
-          if ! git diff --cached --quiet; then
+          # Another workflow may push to main while odds are being fetched.
+          # Keep our generated snapshot and rebuild a clean commit on latest main.
+          cp odds/vegas_snapshot.json "$RUNNER_TEMP/vegas_snapshot.json"
+          published=false
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp "$RUNNER_TEMP/vegas_snapshot.json" odds/vegas_snapshot.json
+            git add odds/vegas_snapshot.json
+            if git diff --cached --quiet; then
+              echo "Odds snapshot already published."
+              published=true
+              break
+            fi
             git commit -m 'Refresh NFL player prop odds'
-            git push
+            if git push origin HEAD:main; then
+              published=true
+              break
+            fi
+            echo "Concurrent update detected (attempt ${attempt}); retrying."
+            sleep 2
+          done
+          if [ "$published" != true ]; then
+            echo "Failed to publish odds snapshot after 5 attempts."
+            exit 1
           fi
