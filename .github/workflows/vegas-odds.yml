@@ -1,6 +1,10 @@
 name: Update NFL Vegas Props
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/fetch_vegas_odds.py'
+      - '.github/workflows/vegas-odds.yml'
   schedule:
     - cron: '13 11,15,19,23 * 9-12,1 *'
 permissions:
