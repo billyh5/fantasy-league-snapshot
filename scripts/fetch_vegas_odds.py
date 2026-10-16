@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Fetch NFL player props using a secret; publish only key-free consensus data."""
 import os, json, re, sys
-from collections import defaultdict
+from collections import defaultdict, Counter
 from datetime import datetime, timezone, timedelta
 from statistics import median
 from urllib.request import urlopen, Request
@@ -44,8 +44,10 @@ def main():
             if any(x in str(ex) for x in ('HTTP 401','HTTP 403','HTTP 429')):break
     if errors and not odds:sys.exit('No odds fetched. '+errors[0])
     lines=defaultdict(lambda:defaultdict(list));names={}
+    book_markets=defaultdict(lambda:defaultdict(set))
     for event in odds:
         for book in event.get('bookmakers') or []:
+            book_name=str(book.get('key') or book.get('title') or book.get('name') or book.get('id') or 'unknown').strip()
             for market in book.get('markets') or []:
                 field=FIELDS.get(market.get('key'))
                 if not field:continue
@@ -54,7 +56,20 @@ def main():
                     raw=out.get('description') or out.get('player') or ''
                     k=norm(raw)
                     if not k:continue
-                    names[k]=re.sub(r'\s*\([^)]*\)\s*$','',raw).strip()
+                    names[k]=re.sub(r'\s*\([^)]*\)\s*
+                    try:
+                        v=probability(out.get('price'))*100 if field=='td' else float(out['point'])
+                        if v is not None and 0<=v<=800:lines[k][field].append(v)
+                    except (KeyError,ValueError,TypeError):pass
+    players={k:{'name':names[k],**{f:round(median(vals),2) for f,vals in v.items()}} for k,v in lines.items()}
+    coverage={book:{field:len(keys) for field,keys in fields.items()} for book,fields in sorted(book_markets.items())}
+    result={'updated_at':now.isoformat(),'source':'PropLine free tier','games_checked':len(odds),'players_count':len(players),'partial_failures':len(errors),'bookmaker_coverage':coverage,'players':players}
+    os.makedirs('odds',exist_ok=True)
+    with open('odds/vegas_snapshot.json','w') as f:json.dump(result,f,separators=(',',':'))
+    print('Wrote odds snapshot:',len(players),'players from',len(odds),'games')
+if __name__=='__main__':main()
+,'',raw).strip()
+                    book_markets[book_name][field].add(k)
                     try:
                         v=probability(out.get('price'))*100 if field=='td' else float(out['point'])
                         if v is not None and 0<=v<=800:lines[k][field].append(v)
