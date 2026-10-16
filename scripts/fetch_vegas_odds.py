@@ -56,7 +56,8 @@ def main():
                     raw=out.get('description') or out.get('player') or ''
                     k=norm(raw)
                     if not k:continue
-                    names[k]=re.sub(r'\s*\([^)]*\)\s*
+                    names[k]=re.sub(r'\s*\([^)]*\)\s*$','',raw).strip()
+                    book_markets[book_name][field].add(k)
                     try:
                         v=probability(out.get('price'))*100 if field=='td' else float(out['point'])
                         if v is not None and 0<=v<=800:lines[k][field].append(v)
@@ -64,18 +65,6 @@ def main():
     players={k:{'name':names[k],**{f:round(median(vals),2) for f,vals in v.items()}} for k,v in lines.items()}
     coverage={book:{field:len(keys) for field,keys in fields.items()} for book,fields in sorted(book_markets.items())}
     result={'updated_at':now.isoformat(),'source':'PropLine free tier','games_checked':len(odds),'players_count':len(players),'partial_failures':len(errors),'bookmaker_coverage':coverage,'players':players}
-    os.makedirs('odds',exist_ok=True)
-    with open('odds/vegas_snapshot.json','w') as f:json.dump(result,f,separators=(',',':'))
-    print('Wrote odds snapshot:',len(players),'players from',len(odds),'games')
-if __name__=='__main__':main()
-,'',raw).strip()
-                    book_markets[book_name][field].add(k)
-                    try:
-                        v=probability(out.get('price'))*100 if field=='td' else float(out['point'])
-                        if v is not None and 0<=v<=800:lines[k][field].append(v)
-                    except (KeyError,ValueError,TypeError):pass
-    players={k:{'name':names[k],**{f:round(median(vals),2) for f,vals in v.items()}} for k,v in lines.items()}
-    result={'updated_at':now.isoformat(),'source':'PropLine free tier','games_checked':len(odds),'players_count':len(players),'partial_failures':len(errors),'players':players}
     os.makedirs('odds',exist_ok=True)
     with open('odds/vegas_snapshot.json','w') as f:json.dump(result,f,separators=(',',':'))
     print('Wrote odds snapshot:',len(players),'players from',len(odds),'games')
