@@ -3517,7 +3517,7 @@
         "starters": [
           "4046",
           "12533",
-          "13287",
+          "8132",
           "10232",
           "13298",
           "7553",
@@ -3995,7 +3995,7 @@
     "season_type": "regular",
     "week": 6
   },
-  "refreshed_at": "2026-10-16T18:10:07.988910+00:00",
+  "refreshed_at": "2026-10-16T18:49:06.389959+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -4175,7 +4175,7 @@
       "starters": [
         "4046",
         "12533",
-        "13287",
+        "8132",
         "10232",
         "13298",
         "7553",
@@ -7596,6 +7596,31 @@
       }
     ],
     "6": [
+      {
+        "adds": {
+          "96": 5
+        },
+        "consenter_ids": [
+          5
+        ],
+        "created": 1792173865556,
+        "creator": "992184268627537920",
+        "draft_picks": [],
+        "drops": {
+          "12529": 5
+        },
+        "leg": 6,
+        "metadata": null,
+        "roster_ids": [
+          5
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1792173865556,
+        "transaction_id": "1416883522781646848",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "8132": 3
