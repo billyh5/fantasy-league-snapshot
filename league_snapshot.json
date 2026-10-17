@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1417227196900159488",
+    "last_message_id": "1417232410617085952",
     "last_message_text_map": null,
-    "last_message_time": 1792255803850,
+    "last_message_time": 1792257046897,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -3862,6 +3862,7 @@
         "matchup_id": 2,
         "players": [
           "11632",
+          "12529",
           "12534",
           "13279",
           "2216",
@@ -3872,13 +3873,13 @@
           "5846",
           "5849",
           "8131",
-          "8136",
           "8138",
           "9511",
           "KC"
         ],
         "players_points": {
           "11632": 0.0,
+          "12529": 0.0,
           "12534": 0.0,
           "13279": 0.0,
           "2216": 0.0,
@@ -3889,7 +3890,6 @@
           "5846": 0.0,
           "5849": 0.0,
           "8131": 0.0,
-          "8136": 0.0,
           "8138": 0.0,
           "9511": 0.0,
           "KC": 0.0
@@ -3995,7 +3995,7 @@
     "season_type": "regular",
     "week": 6
   },
-  "refreshed_at": "2026-10-17T17:05:14.936102+00:00",
+  "refreshed_at": "2026-10-17T17:38:22.562468+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -4105,7 +4105,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 995,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 3
       },
       "starters": [
@@ -4169,7 +4169,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 855,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 1
       },
       "starters": [
@@ -4229,7 +4229,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 350,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 4
       },
       "starters": [
@@ -4513,6 +4513,7 @@
       "player_map": null,
       "players": [
         "11632",
+        "12529",
         "12534",
         "13279",
         "2216",
@@ -4523,7 +4524,6 @@
         "5846",
         "5849",
         "8131",
-        "8136",
         "8138",
         "9511",
         "KC"
@@ -4542,7 +4542,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 32,
-        "waiver_position": 7,
+        "waiver_position": 10,
         "wins": 3
       },
       "starters": [
@@ -7669,6 +7669,36 @@
         "status_updated": 1792246966585,
         "transaction_id": "1417190130724147200",
         "type": "free_agent",
+        "waiver_budget": []
+      },
+      {
+        "adds": {
+          "12529": 9
+        },
+        "consenter_ids": [
+          9
+        ],
+        "created": 1792246861772,
+        "creator": "723733268993794048",
+        "draft_picks": [],
+        "drops": {
+          "8136": 9
+        },
+        "leg": 6,
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "roster_ids": [
+          9
+        ],
+        "settings": {
+          "seq": 0,
+          "waiver_bid": 0
+        },
+        "status": "complete",
+        "status_updated": 1792257046861,
+        "transaction_id": "1417189691102367744",
+        "type": "waiver",
         "waiver_budget": []
       },
       {
