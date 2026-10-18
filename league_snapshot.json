@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1417346149903314944",
+    "last_message_id": "1417530706644443136",
     "last_message_text_map": null,
-    "last_message_time": 1792284164457,
+    "last_message_time": 1792328166212,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -3870,9 +3870,9 @@
           "4866",
           "5846",
           "5849",
+          "7543",
           "8131",
           "8138",
-          "9511",
           "KC"
         ],
         "players_points": {
@@ -3887,9 +3887,9 @@
           "4866": 0.0,
           "5846": 0.0,
           "5849": 0.0,
+          "7543": 0.0,
           "8131": 0.0,
           "8138": 0.0,
-          "9511": 0.0,
           "KC": 0.0
         },
         "points": 0.0,
@@ -3993,7 +3993,7 @@
     "season_type": "regular",
     "week": 6
   },
-  "refreshed_at": "2026-10-18T12:20:52.312841+00:00",
+  "refreshed_at": "2026-10-18T13:02:27.643253+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -4516,12 +4516,14 @@
         "4866",
         "5846",
         "5849",
+        "7543",
         "8131",
         "8138",
-        "9511",
         "KC"
       ],
-      "reserve": null,
+      "reserve": [
+        "7543"
+      ],
       "roster_id": 9,
       "settings": {
         "division": 2,
@@ -7589,6 +7591,31 @@
       }
     ],
     "6": [
+      {
+        "adds": {
+          "7543": 9
+        },
+        "consenter_ids": [
+          9
+        ],
+        "created": 1792328166185,
+        "creator": "723733268993794048",
+        "draft_picks": [],
+        "drops": {
+          "9511": 9
+        },
+        "leg": 6,
+        "metadata": null,
+        "roster_ids": [
+          9
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1792328166185,
+        "transaction_id": "1417530706531241984",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "3257": 7
