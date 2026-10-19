@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1417625783391813632",
+    "last_message_id": "1417967600259940352",
     "last_message_text_map": null,
-    "last_message_time": 1792350834276,
+    "last_message_time": 1792432329767,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -3993,7 +3993,7 @@
     "season_type": "regular",
     "week": 6
   },
-  "refreshed_at": "2026-10-19T17:24:15.181765+00:00",
+  "refreshed_at": "2026-10-19T17:56:43.702718+00:00",
   "rosters": [
     {
       "co_owners": null,
