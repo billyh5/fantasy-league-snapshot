@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1418300914753658880",
+    "last_message_id": "1418370730319482880",
     "last_message_text_map": null,
-    "last_message_time": 1792511798136,
+    "last_message_time": 1792528443463,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -3999,8 +3999,7 @@
           "8408",
           "9480",
           "9997",
-          "MIN",
-          "SF"
+          "MIN"
         ],
         "players_points": {
           "11563": 0.0,
@@ -4017,8 +4016,7 @@
           "8408": 0.0,
           "9480": 0.0,
           "9997": 0.0,
-          "MIN": 0.0,
-          "SF": 0.0
+          "MIN": 0.0
         },
         "points": 0.0,
         "roster_id": 1,
@@ -4627,7 +4625,7 @@
     "season_type": "regular",
     "week": 7
   },
-  "refreshed_at": "2026-10-20T20:29:25.673713+00:00",
+  "refreshed_at": "2026-10-20T21:03:12.481013+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -4658,8 +4656,7 @@
         "8408",
         "9480",
         "9997",
-        "MIN",
-        "SF"
+        "MIN"
       ],
       "reserve": [
         "8408"
@@ -4689,7 +4686,7 @@
         "9480",
         "7569",
         "12185",
-        "SF"
+        "0"
       ],
       "taxi": null
     },
@@ -7226,6 +7223,29 @@
       }
     ],
     "6": [
+      {
+        "adds": null,
+        "consenter_ids": [
+          1
+        ],
+        "created": 1792528443437,
+        "creator": "89449326451245056",
+        "draft_picks": [],
+        "drops": {
+          "SF": 1
+        },
+        "leg": 6,
+        "metadata": null,
+        "roster_ids": [
+          1
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1792528443437,
+        "transaction_id": "1418370730206277632",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": null,
         "consenter_ids": [
