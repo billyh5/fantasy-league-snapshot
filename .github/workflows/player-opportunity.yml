@@ -1,0 +1,44 @@
+name: Refresh Player Opportunity
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '47 12,20 * 9-12,1 *'
+permissions:
+  contents: write
+concurrency:
+  group: player-opportunity-update
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate verified opportunity metrics
+        run: python scripts/fetch_player_opportunity.py
+      - name: Publish opportunity data safely
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          cp projections/player_opportunity.json "$RUNNER_TEMP/player_opportunity.json"
+          published=false
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            mkdir -p projections
+            cp "$RUNNER_TEMP/player_opportunity.json" projections/player_opportunity.json
+            git add projections/player_opportunity.json
+            if git diff --cached --quiet; then
+              published=true
+              break
+            fi
+            git commit -m 'Refresh measured NFL player opportunity'
+            if git push origin HEAD:main; then
+              published=true
+              break
+            fi
+            sleep 2
+          done
+          if [ "$published" != true ]; then exit 1; fi
