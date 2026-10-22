@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1419104787709865984",
+    "last_message_id": "1419122058096336896",
     "last_message_text_map": null,
-    "last_message_time": 1792703456384,
+    "last_message_time": 1792707573964,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -4305,12 +4305,12 @@
         "custom_points": null,
         "matchup_id": 5,
         "players": [
-          "11435",
           "11560",
           "11604",
           "12501",
           "12507",
           "12527",
+          "12718",
           "13305",
           "13414",
           "2133",
@@ -4323,12 +4323,12 @@
           "NE"
         ],
         "players_points": {
-          "11435": 0.0,
           "11560": 0.0,
           "11604": 0.0,
           "12501": 0.0,
           "12507": 0.0,
           "12527": 0.0,
+          "12718": 0.0,
           "13305": 0.0,
           "13414": 0.0,
           "2133": 0.0,
@@ -4635,7 +4635,7 @@
     "season_type": "regular",
     "week": 7
   },
-  "refreshed_at": "2026-10-22T21:59:15.477685+00:00",
+  "refreshed_at": "2026-10-22T22:29:23.918225+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -4960,12 +4960,12 @@
       "owner_id": "72792392721645568",
       "player_map": null,
       "players": [
-        "11435",
         "11560",
         "11604",
         "12501",
         "12507",
         "12527",
+        "12718",
         "13305",
         "13414",
         "2133",
@@ -8347,6 +8347,31 @@
       }
     ],
     "7": [
+      {
+        "adds": {
+          "12718": 6
+        },
+        "consenter_ids": [
+          6
+        ],
+        "created": 1792707573928,
+        "creator": "72792392721645568",
+        "draft_picks": [],
+        "drops": {
+          "11435": 6
+        },
+        "leg": 7,
+        "metadata": null,
+        "roster_ids": [
+          6
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1792707573928,
+        "transaction_id": "1419122057945284608",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "3271": 1
