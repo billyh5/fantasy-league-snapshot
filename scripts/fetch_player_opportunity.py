@@ -111,7 +111,9 @@ def main():
  doc={'updated_at':datetime.now(timezone.utc).isoformat(),'season':season,'week':week,
   'source':'nflverse stats_player weekly + PFR snap counts; Sleeper GSIS/PFR player crosswalk',
   'snap_source':snap_status,'snap_rows':snap_rows,'snap_mapping_methods':dict(snap_methods),'mapped_players':len(result),'mapping_methods':{m:len(v) for m,v in match_methods.items()},
-  'route_share_status':'Not sourced: route share is not inferred from snaps','players':result}
+  'route_share_status':'Not sourced: route share is not inferred from snaps',
+  'player_statuses':{str(pid):{'status':p.get('status'),'injury_status':p.get('injury_status')} for pid,p in players.items() if isinstance(p,dict) and (str(pid) in result or str(pid) in {str(i) for r in league.get('rosters',[]) for i in (r.get('players') or [])}) and (p.get('status') or p.get('injury_status'))},
+  'players':result}
  with open('projections/player_opportunity.json','w') as f:json.dump(doc,f,separators=(',',':'))
  print('Published opportunity data:',len(result),'players;',snap_rows,'snaps',dict(snap_methods),snap_status)
 if __name__=='__main__':main()
