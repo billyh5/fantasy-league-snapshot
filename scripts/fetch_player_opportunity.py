@@ -62,19 +62,42 @@ def main():
    'targets':field(row,'targets'),'carries':field(row,'carries'),
    'receptions':field(row,'receptions'),'air_yards':field(row,'receiving_air_yards'),
    'target_share':field(row,'target_share'),'air_yards_share':field(row,'air_yards_share')}
- snap_status='unavailable';snap_rows=0
+ snap_status='unavailable';snap_rows=0;snap_methods=defaultdict(int)
+ # nflverse snap counts use PFR IDs, often absent from Sleeper's player records.
+ # Only name-match against this week's already verified NFL player usage records.
+ active_names=defaultdict(list)
+ for pid,weeks in games.items():
+  pp=players.get(pid,{})
+  pn=pp.get('full_name') or ' '.join(str(pp.get(k) or '') for k in ('first_name','last_name'))
+  key=(name_key(pn),str(pp.get('position') or '').upper())
+  for w,game in weeks.items():
+   active_names[(w,*key)].append((pid,team_key(game.get('team'))))
  try:
-  for row in csvdata(f'{BASE}/snap_counts/snap_counts_{season}.csv'):
+  snap_data=csvdata(f'{BASE}/snap_counts/snap_counts_{season}.csv')
+  if not snap_data:raise RuntimeError('Snap file is empty')
+  for row in snap_data:
    w=int(field(row,'week') or 0)
    if not 1<=w<week:continue
+   pct=field(row,'offense_pct')
+   if pct is None or not 0<=pct<=100:continue
    pid=pfr.get(str(row.get('pfr_player_id') or ''))
+   method='pfr'
+   if not pid or w not in games.get(pid,{}):
+    pos=str(row.get('position') or '').upper()
+    choices=active_names.get((w,name_key(row.get('player')),pos),[])
+    if len(choices)==1:
+     pid=choices[0][0];method='name'
+    else:
+     team=team_key(row.get('team'))
+     exact=[p for p,t in choices if t and t==team]
+     if len(exact)!=1:continue
+     pid=exact[0];method='name_team'
    if pid and w in games.get(pid,{}):
-    pct=field(row,'offense_pct')
-    if pct is not None and 0<=pct<=100:
-     games[pid][w]['snap_share']=round(pct if pct<=1 else pct/100,3)
-     snap_rows+=1
-  snap_status='nflverse PFR snap counts'
- except Exception as e:snap_status='unavailable: '+type(e).__name__
+    # PFR CSV offense_pct is expressed as 0..1, but tolerate 0..100 feeds.
+    games[pid][w]['snap_share']=round(pct if pct<=1 else pct/100,3)
+    snap_rows+=1;snap_methods[method]+=1
+  snap_status='nflverse PFR snap counts ('+str(snap_rows)+' matched rows)'
+ except Exception as e:snap_status='unavailable: '+type(e).__name__+': '+str(e)[:100]
  keys=['targets','carries','receptions','air_yards','target_share','air_yards_share','snap_share']
  result={}
  for pid,weeks in games.items():
@@ -87,8 +110,8 @@ def main():
  os.makedirs('projections',exist_ok=True)
  doc={'updated_at':datetime.now(timezone.utc).isoformat(),'season':season,'week':week,
   'source':'nflverse stats_player weekly + PFR snap counts; Sleeper GSIS/PFR player crosswalk',
-  'snap_source':snap_status,'snap_rows':snap_rows,'mapped_players':len(result),'mapping_methods':{m:len(v) for m,v in match_methods.items()},
+  'snap_source':snap_status,'snap_rows':snap_rows,'snap_mapping_methods':dict(snap_methods),'mapped_players':len(result),'mapping_methods':{m:len(v) for m,v in match_methods.items()},
   'route_share_status':'Not sourced: route share is not inferred from snaps','players':result}
  with open('projections/player_opportunity.json','w') as f:json.dump(doc,f,separators=(',',':'))
- print('Published opportunity data:',len(result),'players;',snap_rows,'snaps')
+ print('Published opportunity data:',len(result),'players;',snap_rows,'snaps',dict(snap_methods),snap_status)
 if __name__=='__main__':main()
