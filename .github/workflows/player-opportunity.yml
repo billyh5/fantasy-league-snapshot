@@ -1,6 +1,10 @@
 name: Refresh Player Opportunity
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/fetch_player_opportunity.py'
+      - '.github/workflows/player-opportunity.yml'
   schedule:
     - cron: '47 12,20 * 9-12,1 *'
 permissions:
