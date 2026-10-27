@@ -968,5 +968,592 @@
         "title_pct": 0.5
       }
     ]
+  },
+  "recap_context": {
+    "completed_week": 7,
+    "source_snapshot_refreshed_at": "2026-10-27T11:18:57.921282+00:00",
+    "median_cut": 127.995,
+    "high_score": {
+      "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+      "points": 175.83
+    },
+    "low_score": {
+      "team": "Sleeper Sux",
+      "points": 99.98
+    },
+    "weekly_punishment": {
+      "team": "Sleeper Sux",
+      "points": 99.98
+    },
+    "largest_margin": {
+      "winner": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+      "loser": "Eat a Bag of Nix",
+      "margin": 61.16,
+      "score": "175.83-114.67"
+    },
+    "closest_matchup": {
+      "winner": "CaptainJack51",
+      "loser": "Shake 'n Bake",
+      "margin": 17.56,
+      "score": "152.59-135.03"
+    },
+    "biggest_upset": {
+      "winner": "Going Nuclear",
+      "loser": "Sleeper Sux",
+      "score": "119.45-99.98",
+      "note": "Going Nuclear entered the week as the No. 9 GM team; Sleeper Sux entered No. 3."
+    },
+    "fortunate_wins": [
+      {
+        "team": "Clutch",
+        "points": 124.97,
+        "opponent": "Marlburrow Reds",
+        "opponent_points": 105.63,
+        "note": "Won while finishing below the 127.995 median."
+      },
+      {
+        "team": "Going Nuclear",
+        "points": 119.45,
+        "opponent": "Sleeper Sux",
+        "opponent_points": 99.98,
+        "note": "Won while finishing below the 127.995 median."
+      }
+    ],
+    "heartbreak_losses": [
+      {
+        "team": "Shake 'n Bake",
+        "points": 135.03,
+        "opponent": "CaptainJack51",
+        "opponent_points": 152.59,
+        "note": "Beat the median and still lost."
+      },
+      {
+        "team": "buffalobob391",
+        "points": 131.02,
+        "opponent": "Bosa Deez Nuts",
+        "opponent_points": 169.37,
+        "note": "Beat the median and still lost."
+      }
+    ],
+    "record_changes": [
+      "Bosa Deez Nuts became the current season PF leader at 1064.44, 2.50 ahead of Eat a Bag of Nix.",
+      "55555 improved to 7-0 against the weekly median.",
+      "No all-time single-week team, player, or margin record changed in Week 7."
+    ],
+    "team_recap_inputs": [
+      {
+        "roster_id": 4,
+        "team": "Eat a Bag of Nix",
+        "gm_rank": 1,
+        "gm_score": 94,
+        "tier": "Favorite",
+        "result": "L",
+        "week7_score": 114.67,
+        "opponent": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "opponent_score": 175.83,
+        "above_median": false,
+        "record": "5-2",
+        "median_record": "5-2",
+        "playoff_pct": 99,
+        "recap_angle": "Took a 61.16-point haymaker from 55555, lost the PF lead to Bosa, but remains No. 1 in the fixed GM model.",
+        "trash_talk_angle": "The king still has the crown, but the castle now has two dents in it."
+      },
+      {
+        "roster_id": 7,
+        "team": "Bosa Deez Nuts",
+        "gm_rank": 2,
+        "gm_score": 86,
+        "tier": "Favorite",
+        "result": "W",
+        "week7_score": 169.37,
+        "opponent": "buffalobob391",
+        "opponent_score": 131.02,
+        "above_median": true,
+        "record": "5-2",
+        "median_record": "6-1",
+        "playoff_pct": 99.5,
+        "recap_angle": "Dropped 169.37, seized the season PF lead by 2.50 points, and kept pressure on the GM crown.",
+        "trash_talk_angle": "Bosa just took the scoring crown and is circling the throne."
+      },
+      {
+        "roster_id": 6,
+        "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "gm_rank": 3,
+        "gm_score": 82,
+        "tier": "Contender",
+        "result": "W",
+        "week7_score": 175.83,
+        "opponent": "Eat a Bag of Nix",
+        "opponent_score": 114.67,
+        "above_median": true,
+        "record": "5-2",
+        "median_record": "7-0",
+        "playoff_pct": 94,
+        "recap_angle": "Week-high 175.83, statement win over Nix, and now a perfect 7-0 against the median.",
+        "trash_talk_angle": "Seven straight median wins. At this point the league median should file a restraining order."
+      },
+      {
+        "roster_id": 9,
+        "team": "Sleeper Sux",
+        "gm_rank": 4,
+        "gm_score": 77,
+        "tier": "Contender",
+        "result": "L",
+        "week7_score": 99.98,
+        "opponent": "Going Nuclear",
+        "opponent_score": 119.45,
+        "above_median": false,
+        "record": "4-3",
+        "median_record": "4-3",
+        "playoff_pct": 74,
+        "recap_angle": "Cratered from two monster weeks to 99.98, lost to Going Nuclear, and drew the weekly punishment.",
+        "trash_talk_angle": "Spent two weeks looking unbeatable and then lost to the nuclear waste dump."
+      },
+      {
+        "roster_id": 10,
+        "team": "CaptainJack51",
+        "gm_rank": 5,
+        "gm_score": 76,
+        "tier": "Contender",
+        "result": "W",
+        "week7_score": 152.59,
+        "opponent": "Shake 'n Bake",
+        "opponent_score": 135.03,
+        "above_median": true,
+        "record": "3-4",
+        "median_record": "3-4",
+        "playoff_pct": 63,
+        "recap_angle": "Rebounded with 152.59, beat an above-median Shake 'n Bake, and climbed back into contender territory.",
+        "trash_talk_angle": "The pirate rediscovered the cannons just in time to blast Shake 'n Bake."
+      },
+      {
+        "roster_id": 2,
+        "team": "Clutch",
+        "gm_rank": 6,
+        "gm_score": 72,
+        "tier": "Contender",
+        "result": "W",
+        "week7_score": 124.97,
+        "opponent": "Marlburrow Reds",
+        "opponent_score": 105.63,
+        "above_median": false,
+        "record": "5-2",
+        "median_record": "2-5",
+        "playoff_pct": 86,
+        "recap_angle": "Won again despite scoring below the median; 5-2 actual versus 2-5 median remains the league's loudest schedule-luck split.",
+        "trash_talk_angle": "Five actual wins, two median wins, five FAAB dollars. Pick a number and panic."
+      },
+      {
+        "roster_id": 1,
+        "team": "Shake 'n Bake",
+        "gm_rank": 7,
+        "gm_score": 63,
+        "tier": "Bubble",
+        "result": "L",
+        "week7_score": 135.03,
+        "opponent": "CaptainJack51",
+        "opponent_score": 152.59,
+        "above_median": true,
+        "record": "3-4",
+        "median_record": "3-4",
+        "playoff_pct": 42,
+        "recap_angle": "Scored 135.03 and beat the median but still lost; remains the provisional PF-wildcard holder.",
+        "trash_talk_angle": "Scored above the median and still lost. Congratulations on finding a new way to suffer."
+      },
+      {
+        "roster_id": 8,
+        "team": "buffalobob391",
+        "gm_rank": 8,
+        "gm_score": 63,
+        "tier": "Bubble",
+        "result": "L",
+        "week7_score": 131.02,
+        "opponent": "Bosa Deez Nuts",
+        "opponent_score": 169.37,
+        "above_median": true,
+        "record": "3-4",
+        "median_record": "3-4",
+        "playoff_pct": 35,
+        "recap_angle": "Cleared the median at 131.02 but ran into Bosa's 169.37 buzzsaw.",
+        "trash_talk_angle": "Finally scores enough to beat the median, immediately draws a buzzsaw."
+      },
+      {
+        "roster_id": 3,
+        "team": "Going Nuclear",
+        "gm_rank": 9,
+        "gm_score": 54,
+        "tier": "Needs a Move",
+        "result": "W",
+        "week7_score": 119.45,
+        "opponent": "Sleeper Sux",
+        "opponent_score": 99.98,
+        "above_median": false,
+        "record": "2-5",
+        "median_record": "2-5",
+        "playoff_pct": 7,
+        "recap_angle": "Pulled the week's biggest standings upset, beating Sleeper Sux despite finishing below the median.",
+        "trash_talk_angle": "The reactor finally produced power and somehow Sleeper Sux was the first casualty."
+      },
+      {
+        "roster_id": 5,
+        "team": "Marlburrow Reds",
+        "gm_rank": 10,
+        "gm_score": 52,
+        "tier": "Needs a Move",
+        "result": "L",
+        "week7_score": 105.63,
+        "opponent": "Clutch",
+        "opponent_score": 124.97,
+        "above_median": false,
+        "record": "0-7",
+        "median_record": "0-7",
+        "playoff_pct": 0.5,
+        "recap_angle": "Fell to 0-7 actual and 0-7 against the median; the spiral continues.",
+        "trash_talk_angle": "Fourteen combined losses in seven weeks. Even the spreadsheet is embarrassed."
+      }
+    ]
+  },
+  "mascot_context": {
+    "week": 8,
+    "based_on_completed_week": 7,
+    "identity_source": "team_identity_locks.json + approved canon mascot library",
+    "rules": [
+      "Emotion must read through face/eyes where visible, posture, body language and signature-prop interaction—not generic dirt, smoke, recoloring or overlays.",
+      "Preserve stable roster identity, silhouette/species, palette, clothing, numbers and accessories.",
+      "Recap art reacts to verified Week 7 results; preview art carries that residue into Week 8 game-face posture; rankings art reflects the steadier season state.",
+      "Shake 'n Bake remains fully helmeted with no visible face; Clutch never receives a scythe; buffalobob391 stays a realistic four-legged bison."
+    ],
+    "teams": [
+      {
+        "roster_id": 4,
+        "team": "Eat a Bag of Nix",
+        "season_state": "Elite",
+        "intensity": 1,
+        "emotional_arc": "dominant but rattled",
+        "week7_result": "L 114.67-175.83 vs 5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "recap_direction": "Eat a Bag of Nix — elite / pressed pride after a humiliating statement loss / wide stance narrowed; shoulders tense; bag crown slightly compressed; football guarded close / football pulled in defensively",
+        "preview_direction": "Eat a Bag of Nix — elite / controlled anger, crown-defense urgency / wide stance narrowed; shoulders tense; bag crown slightly compressed; football guarded close / football pulled in defensively",
+        "rankings_direction": "Eat a Bag of Nix — elite / dominant but rattled / wide stance narrowed; shoulders tense; bag crown slightly compressed; football guarded close / football pulled in defensively",
+        "season_storyline": "Still No. 1 by the fixed GM model, but the Week 7 loss and Bosa's new points lead have tightened the throne race.",
+        "continuity_note": "Build from the prior approved weekly emotional version; a rebound should restore confidence rather than preserve last week's misery."
+      },
+      {
+        "roster_id": 7,
+        "team": "Bosa Deez Nuts",
+        "season_state": "Elite",
+        "intensity": 0,
+        "emotional_arc": "surging confidence",
+        "week7_result": "W 169.37-131.02 vs buffalobob391",
+        "recap_direction": "Bosa Deez Nuts — elite / predatory satisfaction after taking the PF lead / ears forward, muzzle confident, chest high, AI readout sharp / sack of nuts held proudly; AI playbook confidently active",
+        "preview_direction": "Bosa Deez Nuts — elite / hunter's focus for a heavyweight clash / ears forward, muzzle confident, chest high, AI readout sharp / sack of nuts held proudly; AI playbook confidently active",
+        "rankings_direction": "Bosa Deez Nuts — elite / surging confidence / ears forward, muzzle confident, chest high, AI readout sharp / sack of nuts held proudly; AI playbook confidently active",
+        "season_storyline": "A 169.37-point win moved Bosa to 5-2 and into first in total points scored, just 2.50 ahead of Nix.",
+        "continuity_note": "Build from the prior approved weekly emotional version; a rebound should restore confidence rather than preserve last week's misery."
+      },
+      {
+        "roster_id": 6,
+        "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "season_state": "Strong",
+        "intensity": 0,
+        "emotional_arc": "giddy breakthrough",
+        "week7_result": "W 175.83-114.67 vs Eat a Bag of Nix",
+        "recap_direction": "5️⃣5️⃣5️⃣5️⃣5️⃣ — strong / pure overconfident celebration after dropping 175.83 on No. 1 / huge bright eyes, silly grin, both gloved hands raised, springy stance / football tucked proudly; no wooden-spoon joke this week",
+        "preview_direction": "5️⃣5️⃣5️⃣5️⃣5️⃣ — strong / nervous swagger hiding real belief / huge bright eyes, silly grin, both gloved hands raised, springy stance / football tucked proudly; no wooden-spoon joke this week",
+        "rankings_direction": "5️⃣5️⃣5️⃣5️⃣5️⃣ — strong / giddy breakthrough / huge bright eyes, silly grin, both gloved hands raised, springy stance / football tucked proudly; no wooden-spoon joke this week",
+        "season_storyline": "A 175.83-point win over Nix keeps the league's only perfect median record intact at 7-0.",
+        "continuity_note": "Build from the prior approved weekly emotional version; a rebound should restore confidence rather than preserve last week's misery."
+      },
+      {
+        "roster_id": 9,
+        "team": "Sleeper Sux",
+        "season_state": "Strong",
+        "intensity": 2,
+        "emotional_arc": "surge interrupted",
+        "week7_result": "L 99.98-119.45 vs Going Nuclear",
+        "recap_direction": "Sleeper Sux — strong / app-blaming rage and disbelief after being weekly low scorer / glasses slightly askew, old eyes narrowed, claws gesturing in outrage / golden kicker cleat clutched protectively while blaming the app",
+        "preview_direction": "Sleeper Sux — strong / grumpy revenge mode with wounded pride / glasses slightly askew, old eyes narrowed, claws gesturing in outrage / golden kicker cleat clutched protectively while blaming the app",
+        "rankings_direction": "Sleeper Sux — strong / surge interrupted / glasses slightly askew, old eyes narrowed, claws gesturing in outrage / golden kicker cleat clutched protectively while blaming the app",
+        "season_storyline": "Two straight monster weeks were followed by a 99.98-point loss to Going Nuclear, dropping Sleeper to 4-3.",
+        "continuity_note": "Build from the prior approved weekly emotional version; a rebound should restore confidence rather than preserve last week's misery."
+      },
+      {
+        "roster_id": 10,
+        "team": "CaptainJack51",
+        "season_state": "Strong",
+        "intensity": 1,
+        "emotional_arc": "quiet rebound",
+        "week7_result": "W 152.59-135.03 vs Shake 'n Bake",
+        "recap_direction": "CaptainJack51 — strong / restrained satisfaction after rediscovering the cannons / upright stoic stance, subtle lifted brow, chin level / spyglass raised toward the next opponent; football secure",
+        "preview_direction": "CaptainJack51 — strong / focused, calculating confidence / upright stoic stance, subtle lifted brow, chin level / spyglass raised toward the next opponent; football secure",
+        "rankings_direction": "CaptainJack51 — strong / quiet rebound / upright stoic stance, subtle lifted brow, chin level / spyglass raised toward the next opponent; football secure",
+        "season_storyline": "A 152.59-point win over Shake 'n Bake restores momentum, and FantasyPros rates this roster third ROS despite a 3-4 record.",
+        "continuity_note": "Build from the prior approved weekly emotional version; a rebound should restore confidence rather than preserve last week's misery."
+      },
+      {
+        "roster_id": 2,
+        "team": "Clutch",
+        "season_state": "Strong",
+        "intensity": 1,
+        "emotional_arc": "winning under pressure",
+        "week7_result": "W 124.97-105.63 vs Marlburrow Reds",
+        "recap_direction": "Clutch — strong / composed relief after another ugly win / skull slightly lowered, red eyes narrowed, posture rigid and composed / FOOTBALL gripped tighter; never add a scythe",
+        "preview_direction": "Clutch — strong / cold control with no margin for roster mistakes / skull slightly lowered, red eyes narrowed, posture rigid and composed / FOOTBALL gripped tighter; never add a scythe",
+        "rankings_direction": "Clutch — strong / winning under pressure / skull slightly lowered, red eyes narrowed, posture rigid and composed / FOOTBALL gripped tighter; never add a scythe",
+        "season_storyline": "Clutch reaches 5-2 but falls to 2-5 against the median, with almost no FAAB remaining.",
+        "continuity_note": "Build from the prior approved weekly emotional version; a rebound should restore confidence rather than preserve last week's misery."
+      },
+      {
+        "roster_id": 1,
+        "team": "Shake 'n Bake",
+        "season_state": "Average",
+        "intensity": 2,
+        "emotional_arc": "frustrated but defiant",
+        "week7_result": "L 135.03-152.59 vs CaptainJack51",
+        "recap_direction": "Shake 'n Bake — average / above-median effort wasted in a loss / helmet angled down, shoulders tight, clenched gloves, defiant forward lean / football/steering grip tightened; face remains fully hidden",
+        "preview_direction": "Shake 'n Bake — average / urgent wildcard-defense game face / helmet angled down, shoulders tight, clenched gloves, defiant forward lean / football/steering grip tightened; face remains fully hidden",
+        "rankings_direction": "Shake 'n Bake — average / frustrated but defiant / helmet angled down, shoulders tight, clenched gloves, defiant forward lean / football/steering grip tightened; face remains fully hidden",
+        "season_storyline": "135.03 was above the Week 7 median but not enough against CaptainJack; at 3-4, Shake currently holds the PF wildcard seat.",
+        "continuity_note": "Build from the prior approved weekly emotional version; a rebound should restore confidence rather than preserve last week's misery."
+      },
+      {
+        "roster_id": 8,
+        "team": "buffalobob391",
+        "season_state": "Average",
+        "intensity": 1,
+        "emotional_arc": "solid effort punished",
+        "week7_result": "L 131.02-169.37 vs Bosa Deez Nuts",
+        "recap_direction": "buffalobob391 — average / grounded frustration after running into a buzzsaw / head slightly lowered but weight planted forward; ears attentive / scarf and blanket unchanged; emotion through head carriage only",
+        "preview_direction": "buffalobob391 — average / calm, heavy-footed determination / head slightly lowered but weight planted forward; ears attentive / scarf and blanket unchanged; emotion through head carriage only",
+        "rankings_direction": "buffalobob391 — average / solid effort punished / head slightly lowered but weight planted forward; ears attentive / scarf and blanket unchanged; emotion through head carriage only",
+        "season_storyline": "131.02 cleared the median, but Bosa's 169.37 sent buffalobob to 3-4 with the PF wildcard slipping away.",
+        "continuity_note": "Build from the prior approved weekly emotional version; a rebound should restore confidence rather than preserve last week's misery."
+      },
+      {
+        "roster_id": 3,
+        "team": "Going Nuclear",
+        "season_state": "Struggling",
+        "intensity": 2,
+        "emotional_arc": "reactor restart",
+        "week7_result": "W 119.45-99.98 vs Sleeper Sux",
+        "recap_direction": "Going Nuclear — struggling / surprised relief after the upset win / core steadier and brighter, robot face less panicked, torso more upright / hands controlled around the core; no generic explosion substitute",
+        "preview_direction": "Going Nuclear — struggling / unstable confidence trying to become real momentum / core steadier and brighter, robot face less panicked, torso more upright / hands controlled around the core; no generic explosion substitute",
+        "rankings_direction": "Going Nuclear — struggling / reactor restart / core steadier and brighter, robot face less panicked, torso more upright / hands controlled around the core; no generic explosion substitute",
+        "season_storyline": "A 119.45-point upset of Sleeper Sux moves Nuclear to 2-5, but the weak WR/TE groups still limit the playoff path.",
+        "continuity_note": "Build from the prior approved weekly emotional version; a rebound should restore confidence rather than preserve last week's misery."
+      },
+      {
+        "roster_id": 5,
+        "team": "Marlburrow Reds",
+        "season_state": "Disaster",
+        "intensity": 4,
+        "emotional_arc": "full collapse",
+        "week7_result": "L 105.63-124.97 vs Clutch",
+        "recap_direction": "Marlburrow Reds — disaster / exhausted resignation at 0-7 / 0-7 median / dead half-lidded eyes, sagging pack posture, chair nearly folded under him / football neglected near the chair; decay supports acting rather than replacing it",
+        "preview_direction": "Marlburrow Reds — disaster / last-gasp dread with almost no belief left / dead half-lidded eyes, sagging pack posture, chair nearly folded under him / football neglected near the chair; decay supports acting rather than replacing it",
+        "rankings_direction": "Marlburrow Reds — disaster / full collapse / dead half-lidded eyes, sagging pack posture, chair nearly folded under him / football neglected near the chair; decay supports acting rather than replacing it",
+        "season_storyline": "At 0-7 actual and 0-7 against the median, Marlburrow remains the only winless team.",
+        "continuity_note": "Build from the prior approved weekly emotional version; a rebound should restore confidence rather than preserve last week's misery."
+      }
+    ]
+  },
+  "preview_context": {
+    "preview_week": 8,
+    "based_on_completed_week": 7,
+    "game_of_the_week": "5️⃣5️⃣5️⃣5️⃣5️⃣ vs Bosa Deez Nuts",
+    "live_refresh_required": [
+      "Recheck injuries/practice participation before publishing the Thursday Preview.",
+      "Refresh current projections, betting/market context if used, and weather for outdoor games.",
+      "Use the GM Report for official weekly rankings/team states; do not overwrite those with a Thursday projection swing."
+    ],
+    "known_week8_byes": [
+      "Houston Texans",
+      "New Orleans Saints",
+      "New York Giants",
+      "San Francisco 49ers"
+    ],
+    "early_injury_watch": [
+      {
+        "team": "Sleeper Sux",
+        "player": "Saquon Barkley",
+        "as_of": "2026-10-27",
+        "status": "Hamstring aggravated and back issue reported after Oct. 26 game; Week 8 status pending",
+        "source_url": "https://nypost.com/2026/10/27/sports/saquon-barkley-suffers-new-back-injury-in-disastrous-eagles-return/"
+      },
+      {
+        "team": "Shake 'n Bake",
+        "player": "Christian McCaffrey",
+        "as_of": "2026-10-27",
+        "status": "Mild hamstring strain reported; SF is on Week 8 bye",
+        "source_url": "https://www.sfchronicle.com/sports/49ers/article/49ers-christian-mccaffrey-hamstring-strain-22495627.php"
+      },
+      {
+        "team": "Shake 'n Bake",
+        "player": "Jaylen Waddle",
+        "as_of": "2026-10-27",
+        "status": "Chest injury suffered Week 7; monitor Week 8 practice status",
+        "source_url": "https://www.reuters.com/sports/week-7-injury-roundup-vikings-aaron-jones-aggravates-knee-injury--flm-2026-10-26/"
+      },
+      {
+        "team": "Clutch",
+        "player": "Aaron Jones",
+        "as_of": "2026-10-27",
+        "status": "Aggravated left knee injury; MRI planned",
+        "source_url": "https://www.reuters.com/sports/week-7-injury-roundup-vikings-aaron-jones-aggravates-knee-injury--flm-2026-10-26/"
+      },
+      {
+        "team": "Clutch",
+        "player": "Cam Skattebo",
+        "as_of": "2026-10-27",
+        "status": "Hamstring concern in Week 7; NYG on Week 8 bye",
+        "source_url": "https://www.reuters.com/sports/week-7-injury-roundup-vikings-aaron-jones-aggravates-knee-injury--flm-2026-10-26/"
+      }
+    ],
+    "matchups": [
+      {
+        "matchup_id": 1,
+        "team_a": {
+          "team": "Going Nuclear",
+          "gm_rank": 9,
+          "gm_score": 54,
+          "tier": "Needs a Move",
+          "record": "2-5",
+          "playoff_pct": 7,
+          "fantasypros_week8_rank": 10,
+          "fantasypros_week8_score": "78.9%"
+        },
+        "team_b": {
+          "team": "CaptainJack51",
+          "gm_rank": 5,
+          "gm_score": 76,
+          "tier": "Contender",
+          "record": "3-4",
+          "playoff_pct": 63,
+          "fantasypros_week8_rank": 5,
+          "fantasypros_week8_score": "91.9%"
+        },
+        "tag": "Desperation vs Momentum",
+        "storyline": "Going Nuclear tries to turn its Sleeper upset into a real run; CaptainJack is coming off 152.59 and is suddenly back in the playoff picture.",
+        "team_a_need": "league-bottom WR/TE ROS grades and 145 FAAB remaining",
+        "team_b_need": "RB reliability and volatile scoring floor",
+        "team_a_mascot_game_face": "Going Nuclear — struggling / unstable confidence trying to become real momentum / core steadier and brighter, robot face less panicked, torso more upright / hands controlled around the core; no generic explosion substitute",
+        "team_b_mascot_game_face": "CaptainJack51 — strong / focused, calculating confidence / upright stoic stance, subtle lifted brow, chin level / spyglass raised toward the next opponent; football secure"
+      },
+      {
+        "matchup_id": 2,
+        "team_a": {
+          "team": "buffalobob391",
+          "gm_rank": 8,
+          "gm_score": 63,
+          "tier": "Bubble",
+          "record": "3-4",
+          "playoff_pct": 35,
+          "fantasypros_week8_rank": 7,
+          "fantasypros_week8_score": "85.1%"
+        },
+        "team_b": {
+          "team": "Sleeper Sux",
+          "gm_rank": 4,
+          "gm_score": 77,
+          "tier": "Contender",
+          "record": "4-3",
+          "playoff_pct": 74,
+          "fantasypros_week8_rank": 9,
+          "fantasypros_week8_score": "79.2%"
+        },
+        "tag": "Bounce-Back Bowl",
+        "storyline": "buffalobob beat the median and still lost; Sleeper was the weekly low scorer. One bubble-ish roster gets immediate relief, the other gets a much uglier Week 9.",
+        "team_a_need": "WR/FLEX depth and week-to-week floor",
+        "team_b_need": "WR production, QB depth and Barkley health uncertainty",
+        "team_a_mascot_game_face": "buffalobob391 — average / calm, heavy-footed determination / head slightly lowered but weight planted forward; ears attentive / scarf and blanket unchanged; emotion through head carriage only",
+        "team_b_mascot_game_face": "Sleeper Sux — strong / grumpy revenge mode with wounded pride / glasses slightly askew, old eyes narrowed, claws gesturing in outrage / golden kicker cleat clutched protectively while blaming the app"
+      },
+      {
+        "matchup_id": 3,
+        "team_a": {
+          "team": "Shake 'n Bake",
+          "gm_rank": 7,
+          "gm_score": 63,
+          "tier": "Bubble",
+          "record": "3-4",
+          "playoff_pct": 42,
+          "fantasypros_week8_rank": 8,
+          "fantasypros_week8_score": "81.0%"
+        },
+        "team_b": {
+          "team": "Marlburrow Reds",
+          "gm_rank": 10,
+          "gm_score": 52,
+          "tier": "Needs a Move",
+          "record": "0-7",
+          "playoff_pct": 0.5,
+          "fantasypros_week8_rank": 4,
+          "fantasypros_week8_score": "92.6%"
+        },
+        "tag": "Wildcard Pressure",
+        "storyline": "Shake currently owns the PF wildcard and cannot afford to donate a win to the league's only 0-7 team; Marlburrow is playing pure desperation football.",
+        "team_a_need": "QB/TE ROS rankings and Week 8 byes/injury risk",
+        "team_b_need": "WR production, quarterback availability and scoring consistency",
+        "team_a_mascot_game_face": "Shake 'n Bake — average / urgent wildcard-defense game face / helmet angled down, shoulders tight, clenched gloves, defiant forward lean / football/steering grip tightened; face remains fully hidden",
+        "team_b_mascot_game_face": "Marlburrow Reds — disaster / last-gasp dread with almost no belief left / dead half-lidded eyes, sagging pack posture, chair nearly folded under him / football neglected near the chair; decay supports acting rather than replacing it"
+      },
+      {
+        "matchup_id": 4,
+        "team_a": {
+          "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+          "gm_rank": 3,
+          "gm_score": 82,
+          "tier": "Contender",
+          "record": "5-2",
+          "playoff_pct": 94,
+          "fantasypros_week8_rank": 6,
+          "fantasypros_week8_score": "91.3%"
+        },
+        "team_b": {
+          "team": "Bosa Deez Nuts",
+          "gm_rank": 2,
+          "gm_score": 86,
+          "tier": "Favorite",
+          "record": "5-2",
+          "playoff_pct": 99.5,
+          "fantasypros_week8_rank": 1,
+          "fantasypros_week8_score": "100.0%"
+        },
+        "tag": "GAME OF THE WEEK",
+        "storyline": "The 7-0 median monster meets the new season scoring leader. 55555 just dropped 175.83 on Nix; Bosa answered with 169.37 and now leads the league in PF.",
+        "team_a_need": "RB room ranked 10th ROS by FantasyPros",
+        "team_b_need": "RB depth and a Week 8 QB bye complication",
+        "team_a_mascot_game_face": "5️⃣5️⃣5️⃣5️⃣5️⃣ — strong / nervous swagger hiding real belief / huge bright eyes, silly grin, both gloved hands raised, springy stance / football tucked proudly; no wooden-spoon joke this week",
+        "team_b_mascot_game_face": "Bosa Deez Nuts — elite / hunter's focus for a heavyweight clash / ears forward, muzzle confident, chest high, AI readout sharp / sack of nuts held proudly; AI playbook confidently active"
+      },
+      {
+        "matchup_id": 5,
+        "team_a": {
+          "team": "Clutch",
+          "gm_rank": 6,
+          "gm_score": 72,
+          "tier": "Contender",
+          "record": "5-2",
+          "playoff_pct": 86,
+          "fantasypros_week8_rank": 3,
+          "fantasypros_week8_score": "93.1%"
+        },
+        "team_b": {
+          "team": "Eat a Bag of Nix",
+          "gm_rank": 1,
+          "gm_score": 94,
+          "tier": "Favorite",
+          "record": "5-2",
+          "playoff_pct": 99,
+          "fantasypros_week8_rank": 2,
+          "fantasypros_week8_score": "95.3%"
+        },
+        "tag": "Contender Stress Test",
+        "storyline": "Nix tries to answer its 61-point Week 7 loss while Clutch puts a 5-2 record—and a 2-5 median record—on trial against the GM No. 1.",
+        "team_a_need": "RB reliability, lineup volatility and 5 FAAB remaining",
+        "team_b_need": "QB upside and week-to-week conversion",
+        "team_a_mascot_game_face": "Clutch — strong / cold control with no margin for roster mistakes / skull slightly lowered, red eyes narrowed, posture rigid and composed / FOOTBALL gripped tighter; never add a scythe",
+        "team_b_mascot_game_face": "Eat a Bag of Nix — elite / controlled anger, crown-defense urgency / wide stance narrowed; shoulders tense; bag crown slightly compressed; football guarded close / football pulled in defensively"
+      }
+    ]
   }
 }
