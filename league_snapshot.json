@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1420407039619764224",
+    "last_message_id": "1420754427081428992",
     "last_message_text_map": null,
-    "last_message_time": 1793013937433,
+    "last_message_time": 1793096761059,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -4635,7 +4635,6 @@
           "12490",
           "12514",
           "12519",
-          "3271",
           "4034",
           "421",
           "6806",
@@ -4653,7 +4652,6 @@
           "12490": 0.0,
           "12514": 0.0,
           "12519": 0.0,
-          "3271": 0.0,
           "4034": 0.0,
           "421": 0.0,
           "6806": 0.0,
@@ -5277,7 +5275,7 @@
     "season_type": "regular",
     "week": 8
   },
-  "refreshed_at": "2026-10-27T09:51:21.759547+00:00",
+  "refreshed_at": "2026-10-27T10:30:53.934058+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -5300,7 +5298,6 @@
         "12490",
         "12514",
         "12519",
-        "3271",
         "4034",
         "421",
         "6806",
@@ -5336,7 +5333,7 @@
         "12474",
         "12519",
         "9997",
-        "3271",
+        "0",
         "7569",
         "12185",
         "MIN"
@@ -8029,6 +8026,29 @@
       }
     ],
     "7": [
+      {
+        "adds": null,
+        "consenter_ids": [
+          1
+        ],
+        "created": 1793096761030,
+        "creator": "89449326451245056",
+        "draft_picks": [],
+        "drops": {
+          "3271": 1
+        },
+        "leg": 7,
+        "metadata": null,
+        "roster_ids": [
+          1
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1793096761030,
+        "transaction_id": "1420754426964029440",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "8136": 6
