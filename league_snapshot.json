@@ -5277,7 +5277,7 @@
     "season_type": "regular",
     "week": 8
   },
-  "refreshed_at": "2026-10-28T21:18:50.357536+00:00",
+  "refreshed_at": "2026-10-28T22:08:46.962271+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -8949,6 +8949,31 @@
       }
     ],
     "8": [
+      {
+        "adds": {
+          "7561": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "created": 1793222073833,
+        "creator": "328170548674695168",
+        "draft_picks": [],
+        "drops": {
+          "8129": 3
+        },
+        "leg": 8,
+        "metadata": null,
+        "roster_ids": [
+          3
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1793222073833,
+        "transaction_id": "1421280026954919936",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "11729": 3
