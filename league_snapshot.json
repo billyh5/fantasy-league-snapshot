@@ -5269,7 +5269,7 @@
     "season_type": "regular",
     "week": 8
   },
-  "refreshed_at": "2026-10-28T04:01:39.144389+00:00",
+  "refreshed_at": "2026-10-28T04:55:09.729156+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -5311,10 +5311,10 @@
         "fpts": 913,
         "fpts_against": 906,
         "fpts_against_decimal": 79,
-        "fpts_decimal": 43,
+        "fpts_decimal": 33,
         "losses": 4,
         "ppts": 983,
-        "ppts_decimal": 87,
+        "ppts_decimal": 77,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 646,
@@ -5862,7 +5862,7 @@
         "division": 1,
         "fpts": 859,
         "fpts_against": 894,
-        "fpts_against_decimal": 96,
+        "fpts_against_decimal": 86,
         "fpts_decimal": 8,
         "losses": 4,
         "ppts": 997,
