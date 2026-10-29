@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "league_id": "1312049844910563328",
+  "season": 2026,
+  "week": 8,
+  "source": "TARS Sports Network official Week 8 Thursday Preview (user-approved corrected version)",
+  "recorded_at": "2026-10-29",
+  "status": "locked",
+  "picks": [
+    {
+      "matchup_id": 1,
+      "team_a": {
+        "roster_id": 3,
+        "name": "Going Nuclear"
+      },
+      "team_b": {
+        "roster_id": 10,
+        "name": "CaptainJack51"
+      },
+      "predicted_winner_roster_id": 10
+    },
+    {
+      "matchup_id": 2,
+      "team_a": {
+        "roster_id": 8,
+        "name": "buffalobob391"
+      },
+      "team_b": {
+        "roster_id": 9,
+        "name": "Sleeper Sux"
+      },
+      "predicted_winner_roster_id": 8
+    },
+    {
+      "matchup_id": 3,
+      "team_a": {
+        "roster_id": 1,
+        "name": "Shake 'n Bake"
+      },
+      "team_b": {
+        "roster_id": 5,
+        "name": "Marlburrow Reds"
+      },
+      "predicted_winner_roster_id": 1
+    },
+    {
+      "matchup_id": 4,
+      "team_a": {
+        "roster_id": 6,
+        "name": "55555"
+      },
+      "team_b": {
+        "roster_id": 7,
+        "name": "Bosa Deez Nuts"
+      },
+      "predicted_winner_roster_id": 7
+    },
+    {
+      "matchup_id": 5,
+      "team_a": {
+        "roster_id": 2,
+        "name": "Clutch"
+      },
+      "team_b": {
+        "roster_id": 4,
+        "name": "Eat a Bag of Nix"
+      },
+      "predicted_winner_roster_id": 4
+    }
+  ],
+  "notes": "Winner picks only. No official per-matchup score predictions were locked for Week 8. This file is immutable after game starts; corrections require an explicit dated amendment, not a silent overwrite."
+}
