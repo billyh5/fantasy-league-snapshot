@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1421911942309642240",
+    "last_message_id": "1421937297166733312",
     "last_message_text_map": null,
-    "last_message_time": 1793372734194,
+    "last_message_time": 1793378779263,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -4648,6 +4648,7 @@
           "4943",
           "7526",
           "7569",
+          "8134",
           "8408",
           "9480",
           "9997",
@@ -4665,6 +4666,7 @@
           "4943": 0.0,
           "7526": 0.0,
           "7569": 0.0,
+          "8134": 0.0,
           "8408": 0.0,
           "9480": 0.0,
           "9997": 0.0,
@@ -5277,7 +5279,7 @@
     "season_type": "regular",
     "week": 8
   },
-  "refreshed_at": "2026-10-30T16:45:11.935423+00:00",
+  "refreshed_at": "2026-10-30T17:34:16.630313+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -5305,12 +5307,15 @@
         "4943",
         "7526",
         "7569",
+        "8134",
         "8408",
         "9480",
         "9997",
         "MIN"
       ],
-      "reserve": null,
+      "reserve": [
+        "12514"
+      ],
       "roster_id": 1,
       "settings": {
         "division": 2,
@@ -5334,7 +5339,7 @@
         "12519",
         "9997",
         "9480",
-        "12514",
+        "13301",
         "12185",
         "MIN"
       ],
@@ -8949,6 +8954,29 @@
       }
     ],
     "8": [
+      {
+        "adds": {
+          "8134": 1
+        },
+        "consenter_ids": [
+          1
+        ],
+        "created": 1793378779234,
+        "creator": "89449326451245056",
+        "draft_picks": [],
+        "drops": null,
+        "leg": 8,
+        "metadata": null,
+        "roster_ids": [
+          1
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1793378779234,
+        "transaction_id": "1421937297045180416",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "11786": 3
