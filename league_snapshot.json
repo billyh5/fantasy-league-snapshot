@@ -5281,7 +5281,7 @@
     "season_type": "regular",
     "week": 8
   },
-  "refreshed_at": "2026-10-31T19:59:04.108608+00:00",
+  "refreshed_at": "2026-10-31T20:31:25.952553+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -5437,7 +5437,7 @@
         "TB"
       ],
       "reserve": [
-        "13286"
+        "13281"
       ],
       "roster_id": 3,
       "settings": {
