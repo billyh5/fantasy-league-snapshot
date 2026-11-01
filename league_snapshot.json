@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1422602031037710336",
+    "last_message_id": "1422660776505663488",
     "last_message_text_map": null,
-    "last_message_time": 1793537264168,
+    "last_message_time": 1793551270180,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -4715,6 +4715,7 @@
           "7588",
           "8155",
           "8167",
+          "DEN",
           "JAX"
         ],
         "players_points": {
@@ -4732,6 +4733,7 @@
           "7588": 0.0,
           "8155": 0.0,
           "8167": 19.3,
+          "DEN": 0.0,
           "JAX": 0.0
         },
         "points": 19.3,
@@ -5281,7 +5283,7 @@
     "season_type": "regular",
     "week": 8
   },
-  "refreshed_at": "2026-11-01T16:06:19.193626+00:00",
+  "refreshed_at": "2026-11-01T16:46:22.485935+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -5372,9 +5374,12 @@
         "7588",
         "8155",
         "8167",
+        "DEN",
         "JAX"
       ],
-      "reserve": null,
+      "reserve": [
+        "8155"
+      ],
       "roster_id": 2,
       "settings": {
         "division": 1,
@@ -8957,6 +8962,29 @@
       }
     ],
     "8": [
+      {
+        "adds": {
+          "DEN": 2
+        },
+        "consenter_ids": [
+          2
+        ],
+        "created": 1793551270154,
+        "creator": "207357359796781056",
+        "draft_picks": [],
+        "drops": null,
+        "leg": 8,
+        "metadata": null,
+        "roster_ids": [
+          2
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1793551270154,
+        "transaction_id": "1422660776400809984",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "WAS": 9
