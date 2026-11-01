@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1422589469432745984",
+    "last_message_id": "1422602031037710336",
     "last_message_text_map": null,
-    "last_message_time": 1793534269248,
+    "last_message_time": 1793537264168,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -5158,7 +5158,7 @@
           "7839",
           "8131",
           "8138",
-          "KC"
+          "WAS"
         ],
         "players_points": {
           "11610": 0.0,
@@ -5176,20 +5176,20 @@
           "7839": 0.0,
           "8131": 0.0,
           "8138": 0.0,
-          "KC": 0.0
+          "WAS": 0.0
         },
         "points": 0.0,
         "roster_id": 9,
         "starters": [
           "3294",
-          "3198",
           "8138",
+          "3198",
           "5846",
-          "13279",
-          "5844",
           "11610",
+          "5844",
+          "4866",
           "7839",
-          "KC"
+          "WAS"
         ],
         "starters_points": [
           0.0,
@@ -5281,7 +5281,7 @@
     "season_type": "regular",
     "week": 8
   },
-  "refreshed_at": "2026-11-01T12:20:32.116769+00:00",
+  "refreshed_at": "2026-11-01T13:22:09.897333+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -5804,7 +5804,7 @@
         "7839",
         "8131",
         "8138",
-        "KC"
+        "WAS"
       ],
       "reserve": [
         "7543"
@@ -5827,14 +5827,14 @@
       },
       "starters": [
         "3294",
-        "3198",
         "8138",
+        "3198",
         "5846",
-        "13279",
-        "5844",
         "11610",
+        "5844",
+        "4866",
         "7839",
-        "KC"
+        "WAS"
       ],
       "taxi": null
     },
@@ -8957,6 +8957,31 @@
       }
     ],
     "8": [
+      {
+        "adds": {
+          "WAS": 9
+        },
+        "consenter_ids": [
+          9
+        ],
+        "created": 1793537264140,
+        "creator": "723733268993794048",
+        "draft_picks": [],
+        "drops": {
+          "KC": 9
+        },
+        "leg": 8,
+        "metadata": null,
+        "roster_ids": [
+          9
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1793537264140,
+        "transaction_id": "1422602030916079616",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "1373": 1
