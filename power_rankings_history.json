@@ -579,6 +579,134 @@
           "title_pct": 0.5
         }
       ]
+    },
+    "9": {
+      "week": 9,
+      "status": "official",
+      "generated_at": "2026-11-03",
+      "gm_headline": "55555 detonates for 209.58, Bosa survives a 197-point shootout, and Nix loses its grip on the GM throne.",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "Bosa Deez Nuts",
+          "roster_id": 7,
+          "gm_score": 98,
+          "movement": 1,
+          "tier": "Favorite",
+          "situation": "🦈 Blood in Water",
+          "biggest_need": "RB depth / lineup volatility",
+          "playoff_pct": "98%",
+          "title_pct": "29%"
+        },
+        {
+          "rank": 2,
+          "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+          "roster_id": 6,
+          "gm_score": 87,
+          "movement": 1,
+          "tier": "Favorite",
+          "situation": "🚀 Orbit Reached",
+          "biggest_need": "RB depth behind elite core",
+          "playoff_pct": "99%",
+          "title_pct": "19%"
+        },
+        {
+          "rank": 3,
+          "team": "Eat a Bag of Nix",
+          "roster_id": 4,
+          "gm_score": 86,
+          "movement": -2,
+          "tier": "Contender",
+          "situation": "👑 Throne Shaken",
+          "biggest_need": "QB consistency / converting ceiling",
+          "playoff_pct": "96%",
+          "title_pct": "22%"
+        },
+        {
+          "rank": 4,
+          "team": "Clutch",
+          "roster_id": 2,
+          "gm_score": 70,
+          "movement": 2,
+          "tier": "Contender",
+          "situation": "🧲 Keeps Winning",
+          "biggest_need": "FAAB nearly exhausted / RB stability",
+          "playoff_pct": "93%",
+          "title_pct": "10%"
+        },
+        {
+          "rank": 5,
+          "team": "CaptainJack51",
+          "roster_id": 10,
+          "gm_score": 70,
+          "movement": 0,
+          "tier": "Contender",
+          "situation": "🏴‍☠️ Cannons Loaded",
+          "biggest_need": "Reliable WR/FLEX floor",
+          "playoff_pct": "65%",
+          "title_pct": "8%"
+        },
+        {
+          "rank": 6,
+          "team": "Sleeper Sux",
+          "roster_id": 9,
+          "gm_score": 68,
+          "movement": -2,
+          "tier": "Contender",
+          "situation": "😬 Narrow Escape",
+          "biggest_need": "WR consistency / TE depth",
+          "playoff_pct": "83%",
+          "title_pct": "8%"
+        },
+        {
+          "rank": 7,
+          "team": "Shake 'n Bake",
+          "roster_id": 1,
+          "gm_score": 60,
+          "movement": 0,
+          "tier": "Bubble",
+          "situation": "🛞 Wheels Spinning",
+          "biggest_need": "WR/FLEX scoring floor / FAAB",
+          "playoff_pct": "50%",
+          "title_pct": "3%"
+        },
+        {
+          "rank": 8,
+          "team": "buffalobob391",
+          "roster_id": 8,
+          "gm_score": 48,
+          "movement": 0,
+          "tier": "Bubble",
+          "situation": "🦬 Freefall",
+          "biggest_need": "WR/FLEX ceiling",
+          "playoff_pct": "14%",
+          "title_pct": "<1%"
+        },
+        {
+          "rank": 9,
+          "team": "Going Nuclear",
+          "roster_id": 3,
+          "gm_score": 44,
+          "movement": 0,
+          "tier": "Needs a Move",
+          "situation": "☢️ False Dawn",
+          "biggest_need": "WR/TE starter quality",
+          "playoff_pct": "3%",
+          "title_pct": "<1%"
+        },
+        {
+          "rank": 10,
+          "team": "Marlburrow Reds",
+          "roster_id": 5,
+          "gm_score": 39,
+          "movement": 0,
+          "tier": "Needs a Move",
+          "situation": "🪦 Eight Feet Deep",
+          "biggest_need": "Overall scoring / QB availability",
+          "playoff_pct": "<1%",
+          "title_pct": "<1%"
+        }
+      ]
     }
   }
 }
