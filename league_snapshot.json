@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1424001866777251840",
+    "last_message_id": "1424185750265610240",
     "last_message_text_map": null,
-    "last_message_time": 1793871011016,
+    "last_message_time": 1793914852256,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -5612,7 +5612,7 @@
           "6801",
           "8136",
           "8144",
-          "NO"
+          "MIN"
         ],
         "players_points": {
           "11560": 0.0,
@@ -5630,7 +5630,7 @@
           "6801": 0.0,
           "8136": 0.0,
           "8144": 0.0,
-          "NO": 0.0
+          "MIN": 0.0
         },
         "points": 0.0,
         "roster_id": 6,
@@ -5643,7 +5643,7 @@
           "11604",
           "12501",
           "2747",
-          "NO"
+          "0"
         ],
         "starters_points": [
           0.0,
@@ -5927,7 +5927,7 @@
     "season_type": "regular",
     "week": 9
   },
-  "refreshed_at": "2026-11-05T21:14:58.366941+00:00",
+  "refreshed_at": "2026-11-05T22:04:24.999040+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -6268,7 +6268,7 @@
         "6801",
         "8136",
         "8144",
-        "NO"
+        "MIN"
       ],
       "reserve": [
         "2133"
@@ -6285,7 +6285,7 @@
         "ppts_decimal": 50,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 376,
+        "waiver_budget_used": 475,
         "waiver_position": 10,
         "wins": 6
       },
@@ -6298,7 +6298,7 @@
         "11604",
         "12501",
         "2747",
-        "NO"
+        "0"
       ],
       "taxi": null
     },
@@ -9781,6 +9781,36 @@
         "status": "complete",
         "status_updated": 1793871010941,
         "transaction_id": "1423998242609250304",
+        "type": "waiver",
+        "waiver_budget": []
+      },
+      {
+        "adds": {
+          "MIN": 6
+        },
+        "consenter_ids": [
+          6
+        ],
+        "created": 1793870110431,
+        "creator": "72792392721645568",
+        "draft_picks": [],
+        "drops": {
+          "NO": 6
+        },
+        "leg": 9,
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "roster_ids": [
+          6
+        ],
+        "settings": {
+          "seq": 0,
+          "waiver_bid": 99
+        },
+        "status": "complete",
+        "status_updated": 1793914852085,
+        "transaction_id": "1423998089445801984",
         "type": "waiver",
         "waiver_budget": []
       },
