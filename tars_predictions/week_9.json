@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "league_id": "1312049844910563328",
+  "season": 2026,
+  "week": 9,
+  "source": "TARS Sports Network Week 9 Thursday Preview — user-approved final graphic (November 5, 2026)",
+  "approved_at": "2026-11-05",
+  "recorded_at": "2026-11-05",
+  "status": "locked",
+  "game_of_the_week_matchup_id": 5,
+  "picks": [
+    {
+      "matchup_id": 1,
+      "team_a": {
+        "roster_id": 3,
+        "name": "Going Nuclear"
+      },
+      "team_b": {
+        "roster_id": 8,
+        "name": "buffalobob391"
+      },
+      "predicted_winner_roster_id": 3
+    },
+    {
+      "matchup_id": 2,
+      "team_a": {
+        "roster_id": 5,
+        "name": "Marlburrow Reds"
+      },
+      "team_b": {
+        "roster_id": 10,
+        "name": "CaptainJack51"
+      },
+      "predicted_winner_roster_id": 10
+    },
+    {
+      "matchup_id": 3,
+      "team_a": {
+        "roster_id": 6,
+        "name": "5️⃣5️⃣5️⃣5️⃣5️⃣"
+      },
+      "team_b": {
+        "roster_id": 9,
+        "name": "Sleeper Sux"
+      },
+      "predicted_winner_roster_id": 6
+    },
+    {
+      "matchup_id": 4,
+      "team_a": {
+        "roster_id": 1,
+        "name": "Shake 'n Bake"
+      },
+      "team_b": {
+        "roster_id": 4,
+        "name": "Eat a Bag of Nix"
+      },
+      "predicted_winner_roster_id": 4
+    },
+    {
+      "matchup_id": 5,
+      "team_a": {
+        "roster_id": 2,
+        "name": "Clutch"
+      },
+      "team_b": {
+        "roster_id": 7,
+        "name": "Bosa Deez Nuts"
+      },
+      "predicted_winner_roster_id": 7
+    }
+  ],
+  "notes": "Picks transcribed from the user-approved Week 9 final preview image. Winner selections only; do not invent score predictions. Keep locked record unchanged; corrections need a dated amendment. Grade after completed_through_week >= 9 using scripts/grade_tars_picks.py. Game of the Week: Clutch vs Bosa Deez Nuts."
+}
