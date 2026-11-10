@@ -2,34 +2,34 @@
   "league_id": "1312049844910563328",
   "league_name": "The League",
   "season": 2026,
-  "report_week": 9,
-  "based_on_completed_through_week": 8,
-  "generated_at": "2026-11-03",
-  "source_snapshot_refreshed_at": "2026-11-03T11:02:06.736696+00:00",
-  "gm_headline": "55555 detonates for 209.58, Bosa survives a 197-point shootout, and Nix loses its grip on the GM throne.",
+  "report_week": 10,
+  "based_on_completed_through_week": 9,
+  "generated_at": "2026-11-10",
+  "source_snapshot_refreshed_at": "2026-11-10T09:21:45.806009+00:00",
+  "gm_headline": "Bosa Deez Nuts leads Week 9 with 172.98, Bosa Deez Nuts holds the GM crown, and the playoff chase enters its final five regular-season weeks.",
   "power_rankings": [
     {
       "rank": 1,
       "team": "Bosa Deez Nuts",
       "roster_id": 7,
-      "gm_score": 98,
-      "movement": 1,
+      "gm_score": 96,
+      "movement": 0,
       "tier": "Favorite",
-      "situation": "🦈 Blood in Water",
+      "situation": "🦈 Still Hunting",
       "biggest_need": "RB depth / lineup volatility",
-      "playoff_pct": "98%",
-      "title_pct": "29%",
-      "record": "5-3",
-      "median_record": "7-1",
+      "playoff_pct": ">99%",
+      "title_pct": "25%",
+      "record": "6-3",
+      "median_record": "8-1",
       "faab": 182,
       "components": {
         "roster_strength": 100,
-        "starting_lineup_ceiling": 105.53,
-        "depth": 100,
+        "starting_lineup_ceiling": 98.13,
+        "depth": 98.07,
         "positional_advantage": 100,
-        "recent_performance": 97.74,
-        "playoff_outlook": 98,
-        "roster_faab_flexibility": 44.31
+        "recent_performance": 90.91,
+        "playoff_outlook": 99,
+        "roster_faab_flexibility": 49.2
       }
     },
     {
@@ -37,119 +37,119 @@
       "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
       "roster_id": 6,
       "gm_score": 87,
-      "movement": 1,
+      "movement": 0,
       "tier": "Favorite",
-      "situation": "🚀 Orbit Reached",
-      "biggest_need": "RB depth behind elite core",
-      "playoff_pct": "99%",
-      "title_pct": "19%",
-      "record": "6-2",
-      "median_record": "8-0",
-      "faab": 653,
+      "situation": "🔥 Red Hot",
+      "biggest_need": "RB depth / bench upside",
+      "playoff_pct": ">99%",
+      "title_pct": "23%",
+      "record": "7-2",
+      "median_record": "9-0",
+      "faab": 525,
       "components": {
-        "roster_strength": 82.8,
-        "starting_lineup_ceiling": 95.47,
-        "depth": 78.46,
-        "positional_advantage": 82.8,
-        "recent_performance": 99.1,
+        "roster_strength": 81.5,
+        "starting_lineup_ceiling": 93.28,
+        "depth": 86.94,
+        "positional_advantage": 81.5,
+        "recent_performance": 90.12,
         "playoff_outlook": 99,
-        "roster_faab_flexibility": 73.5
+        "roster_faab_flexibility": 68.94
       }
     },
     {
       "rank": 3,
       "team": "Eat a Bag of Nix",
       "roster_id": 4,
-      "gm_score": 86,
-      "movement": -2,
-      "tier": "Contender",
-      "situation": "👑 Throne Shaken",
-      "biggest_need": "QB consistency / converting ceiling",
-      "playoff_pct": "96%",
-      "title_pct": "22%",
-      "record": "5-3",
-      "median_record": "5-3",
-      "faab": 575,
+      "gm_score": 85,
+      "movement": 0,
+      "tier": "Favorite",
+      "situation": "👑 Reloading",
+      "biggest_need": "QB stability / RB insurance",
+      "playoff_pct": "99%",
+      "title_pct": "19%",
+      "record": "6-3",
+      "median_record": "6-3",
+      "faab": 200,
       "components": {
-        "roster_strength": 95.1,
-        "starting_lineup_ceiling": 102.49,
-        "depth": 68.96,
-        "positional_advantage": 95.1,
-        "recent_performance": 48.62,
-        "playoff_outlook": 96,
-        "roster_faab_flexibility": 52.2
+        "roster_strength": 89.1,
+        "starting_lineup_ceiling": 99.5,
+        "depth": 88.61,
+        "positional_advantage": 89.1,
+        "recent_performance": 41.68,
+        "playoff_outlook": 99,
+        "roster_faab_flexibility": 47.2
       }
     },
     {
       "rank": 4,
       "team": "Clutch",
       "roster_id": 2,
-      "gm_score": 70,
-      "movement": 2,
+      "gm_score": 79,
+      "movement": 0,
       "tier": "Contender",
-      "situation": "🧲 Keeps Winning",
-      "biggest_need": "FAAB nearly exhausted / RB stability",
-      "playoff_pct": "93%",
-      "title_pct": "10%",
-      "record": "6-2",
-      "median_record": "3-5",
+      "situation": "🎲 House Money",
+      "biggest_need": "FAAB flexibility / scoring floor",
+      "playoff_pct": "96%",
+      "title_pct": "13%",
+      "record": "6-3",
+      "median_record": "4-5",
       "faab": 5,
       "components": {
-        "roster_strength": 78.9,
-        "starting_lineup_ceiling": 78.83,
-        "depth": 55.93,
-        "positional_advantage": 78.9,
-        "recent_performance": 51.09,
-        "playoff_outlook": 93,
-        "roster_faab_flexibility": 3.98
+        "roster_strength": 78.1,
+        "starting_lineup_ceiling": 90.76,
+        "depth": 82.87,
+        "positional_advantage": 78.1,
+        "recent_performance": 55.19,
+        "playoff_outlook": 96,
+        "roster_faab_flexibility": 35.78
       }
     },
     {
       "rank": 5,
       "team": "CaptainJack51",
       "roster_id": 10,
-      "gm_score": 70,
+      "gm_score": 76,
       "movement": 0,
       "tier": "Contender",
-      "situation": "🏴‍☠️ Cannons Loaded",
-      "biggest_need": "Reliable WR/FLEX floor",
-      "playoff_pct": "65%",
-      "title_pct": "8%",
-      "record": "4-4",
-      "median_record": "4-4",
+      "situation": "🏴‍☠️ Full Sail",
+      "biggest_need": "WR/FLEX consistency",
+      "playoff_pct": "78%",
+      "title_pct": "10%",
+      "record": "5-4",
+      "median_record": "4-5",
       "faab": 664,
       "components": {
-        "roster_strength": 78.7,
-        "starting_lineup_ceiling": 78.38,
-        "depth": 54.73,
-        "positional_advantage": 78.7,
-        "recent_performance": 54.47,
-        "playoff_outlook": 65,
-        "roster_faab_flexibility": 56.33
+        "roster_strength": 73.9,
+        "starting_lineup_ceiling": 89.96,
+        "depth": 79.62,
+        "positional_advantage": 73.9,
+        "recent_performance": 48.55,
+        "playoff_outlook": 78,
+        "roster_faab_flexibility": 74.48
       }
     },
     {
       "rank": 6,
       "team": "Sleeper Sux",
       "roster_id": 9,
-      "gm_score": 68,
-      "movement": -2,
+      "gm_score": 72,
+      "movement": 0,
       "tier": "Contender",
-      "situation": "😬 Narrow Escape",
-      "biggest_need": "WR consistency / TE depth",
-      "playoff_pct": "83%",
+      "situation": "😬 On Edge",
+      "biggest_need": "WR/TE reliability",
+      "playoff_pct": "82%",
       "title_pct": "8%",
-      "record": "5-3",
-      "median_record": "4-4",
-      "faab": 871,
+      "record": "5-4",
+      "median_record": "5-4",
+      "faab": 824,
       "components": {
-        "roster_strength": 67.4,
-        "starting_lineup_ceiling": 70.32,
-        "depth": 60.95,
-        "positional_advantage": 67.4,
-        "recent_performance": 50.63,
-        "playoff_outlook": 83,
-        "roster_faab_flexibility": 84.69
+        "roster_strength": 68.3,
+        "starting_lineup_ceiling": 86.22,
+        "depth": 78.65,
+        "positional_advantage": 68.3,
+        "recent_performance": 35.05,
+        "playoff_outlook": 82,
+        "roster_faab_flexibility": 85.96
       }
     },
     {
@@ -159,256 +159,256 @@
       "gm_score": 60,
       "movement": 0,
       "tier": "Bubble",
-      "situation": "🛞 Wheels Spinning",
-      "biggest_need": "WR/FLEX scoring floor / FAAB",
-      "playoff_pct": "50%",
-      "title_pct": "3%",
-      "record": "4-4",
-      "median_record": "3-5",
-      "faab": 170,
+      "situation": "🏁 Wildcard Chase",
+      "biggest_need": "WR/FLEX scoring ceiling",
+      "playoff_pct": "36%",
+      "title_pct": "2%",
+      "record": "4-5",
+      "median_record": "3-6",
+      "faab": 69,
       "components": {
-        "roster_strength": 65.2,
-        "starting_lineup_ceiling": 63.45,
-        "depth": 63.45,
-        "positional_advantage": 65.2,
-        "recent_performance": 50.6,
-        "playoff_outlook": 50,
-        "roster_faab_flexibility": 31.4
+        "roster_strength": 59.5,
+        "starting_lineup_ceiling": 78.32,
+        "depth": 74.13,
+        "positional_advantage": 59.5,
+        "recent_performance": 32.77,
+        "playoff_outlook": 36,
+        "roster_faab_flexibility": 40.94
       }
     },
     {
       "rank": 8,
-      "team": "buffalobob391",
-      "roster_id": 8,
-      "gm_score": 48,
-      "movement": 0,
+      "team": "Going Nuclear",
+      "roster_id": 3,
+      "gm_score": 54,
+      "movement": 1,
       "tier": "Bubble",
-      "situation": "🦬 Freefall",
-      "biggest_need": "WR/FLEX ceiling",
-      "playoff_pct": "14%",
+      "situation": "☢️ Critical Mass",
+      "biggest_need": "WR/TE starting reliability",
+      "playoff_pct": "4%",
       "title_pct": "<1%",
-      "record": "3-5",
-      "median_record": "3-5",
-      "faab": 650,
+      "record": "3-6",
+      "median_record": "3-6",
+      "faab": 77,
       "components": {
-        "roster_strength": 57.9,
-        "starting_lineup_ceiling": 58.85,
-        "depth": 40.49,
-        "positional_advantage": 57.9,
-        "recent_performance": 29.99,
-        "playoff_outlook": 14,
-        "roster_faab_flexibility": 54.59
+        "roster_strength": 55,
+        "starting_lineup_ceiling": 80.07,
+        "depth": 69.36,
+        "positional_advantage": 55,
+        "recent_performance": 28.05,
+        "playoff_outlook": 4,
+        "roster_faab_flexibility": 39.38
       }
     },
     {
       "rank": 9,
-      "team": "Going Nuclear",
-      "roster_id": 3,
-      "gm_score": 44,
-      "movement": 0,
-      "tier": "Needs a Move",
-      "situation": "☢️ False Dawn",
-      "biggest_need": "WR/TE starter quality",
-      "playoff_pct": "3%",
+      "team": "buffalobob391",
+      "roster_id": 8,
+      "gm_score": 53,
+      "movement": -1,
+      "tier": "Bubble",
+      "situation": "🦬 Long Road",
+      "biggest_need": "WR/FLEX upside",
+      "playoff_pct": "6%",
       "title_pct": "<1%",
-      "record": "2-6",
-      "median_record": "3-5",
-      "faab": 77,
+      "record": "3-6",
+      "median_record": "3-6",
+      "faab": 650,
       "components": {
-        "roster_strength": 59.4,
-        "starting_lineup_ceiling": 55.02,
-        "depth": 38.61,
-        "positional_advantage": 59.4,
-        "recent_performance": 25.82,
-        "playoff_outlook": 3,
-        "roster_faab_flexibility": 5.82
+        "roster_strength": 51.5,
+        "starting_lineup_ceiling": 80.17,
+        "depth": 66.76,
+        "positional_advantage": 51.5,
+        "recent_performance": 17.04,
+        "playoff_outlook": 6,
+        "roster_faab_flexibility": 73.16
       }
     },
     {
       "rank": 10,
       "team": "Marlburrow Reds",
       "roster_id": 5,
-      "gm_score": 39,
+      "gm_score": 49,
       "movement": 0,
       "tier": "Needs a Move",
-      "situation": "🪦 Eight Feet Deep",
-      "biggest_need": "Overall scoring / QB availability",
-      "playoff_pct": "<1%",
-      "title_pct": "<1%",
-      "record": "0-8",
-      "median_record": "0-8",
-      "faab": 230,
+      "situation": "🪦 Still Searching",
+      "biggest_need": "QB / multiple playmakers",
+      "playoff_pct": "0%",
+      "title_pct": "0%",
+      "record": "0-9",
+      "median_record": "0-9",
+      "faab": 178,
       "components": {
-        "roster_strength": 55,
-        "starting_lineup_ceiling": 43.26,
-        "depth": 47.18,
-        "positional_advantage": 55,
-        "recent_performance": 0,
+        "roster_strength": 53.5,
+        "starting_lineup_ceiling": 69.28,
+        "depth": 69.75,
+        "positional_advantage": 53.5,
+        "recent_performance": 5.44,
         "playoff_outlook": 0,
-        "roster_faab_flexibility": 27.98
+        "roster_faab_flexibility": 46.52
       }
     }
   ],
   "median_report": {
-    "week_8_median_cut": 120.25,
+    "week_9_median_cut": 122.805,
     "weekly_medians": {
       "1": 138.03,
       "2": 110.525,
-      "3": 127.45499999999998,
-      "4": 136.64999999999998,
-      "5": 153.98000000000002,
+      "3": 127.455,
+      "4": 136.65,
+      "5": 153.98,
       "6": 109.35,
       "7": 127.995,
-      "8": 120.25
+      "8": 120.25,
+      "9": 122.805
     },
     "teams": [
       {
         "team": "Bosa Deez Nuts",
-        "record": "5-3",
-        "median_record": "7-1",
-        "combined_record": "12-4",
-        "all_play_pct": 76.4,
-        "recent_3_avg": 163.04,
-        "lineup_efficiency_pct": 95.8,
+        "record": "6-3",
+        "median_record": "8-1",
+        "combined_record": "14-4",
+        "all_play_pct": 79,
+        "recent_3_avg": 179.96,
+        "lineup_efficiency_pct": 95.7,
         "faab_remaining": 182,
-        "points_for": 1261.97,
-        "points_against": 1159.64,
-        "potential_points": 1317.93
+        "points_for": 1434.95,
+        "points_against": 1322.95,
+        "potential_points": 1499.61
       },
       {
         "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
-        "record": "6-2",
-        "median_record": "8-0",
-        "combined_record": "14-2",
-        "all_play_pct": 75,
-        "recent_3_avg": 165.84,
-        "lineup_efficiency_pct": 92.9,
-        "faab_remaining": 653,
-        "points_for": 1226.84,
-        "points_against": 1063.77,
-        "potential_points": 1320.5
+        "record": "7-2",
+        "median_record": "9-0",
+        "combined_record": "16-2",
+        "all_play_pct": 75.3,
+        "recent_3_avg": 180.93,
+        "lineup_efficiency_pct": 93.6,
+        "faab_remaining": 525,
+        "points_for": 1384.23,
+        "points_against": 1196.4,
+        "potential_points": 1478.99
       },
       {
         "team": "Eat a Bag of Nix",
-        "record": "5-3",
-        "median_record": "5-3",
-        "combined_record": "10-6",
-        "all_play_pct": 63.9,
-        "recent_3_avg": 112.06,
+        "record": "6-3",
+        "median_record": "6-3",
+        "combined_record": "12-6",
+        "all_play_pct": 64.2,
+        "recent_3_avg": 119.34,
         "lineup_efficiency_pct": 88,
-        "faab_remaining": 575,
-        "points_for": 1158.4,
-        "points_against": 1035.38,
-        "potential_points": 1316.91
+        "faab_remaining": 200,
+        "points_for": 1305.3,
+        "points_against": 1146.95,
+        "potential_points": 1482.91
       },
       {
         "team": "Clutch",
-        "record": "6-2",
-        "median_record": "3-5",
-        "combined_record": "9-7",
-        "all_play_pct": 54.2,
-        "recent_3_avg": 122.82,
-        "lineup_efficiency_pct": 87.3,
+        "record": "6-3",
+        "median_record": "4-5",
+        "combined_record": "10-8",
+        "all_play_pct": 58,
+        "recent_3_avg": 141.72,
+        "lineup_efficiency_pct": 88.7,
         "faab_remaining": 5,
-        "points_for": 1026.91,
-        "points_against": 952.54,
-        "potential_points": 1175.91
+        "points_for": 1190.22,
+        "points_against": 1125.52,
+        "potential_points": 1342.12
       },
       {
         "team": "CaptainJack51",
-        "record": "4-4",
-        "median_record": "4-4",
-        "combined_record": "8-8",
-        "all_play_pct": 44.4,
-        "recent_3_avg": 134.78,
-        "lineup_efficiency_pct": 87,
+        "record": "5-4",
+        "median_record": "4-5",
+        "combined_record": "9-9",
+        "all_play_pct": 42,
+        "recent_3_avg": 141.39,
+        "lineup_efficiency_pct": 86.6,
         "faab_remaining": 664,
-        "points_for": 1019.69,
-        "points_against": 1017.11,
-        "potential_points": 1172.61
+        "points_for": 1130.65,
+        "points_against": 1120.04,
+        "potential_points": 1306.19
       },
       {
         "team": "Sleeper Sux",
-        "record": "5-3",
-        "median_record": "4-4",
-        "combined_record": "9-7",
-        "all_play_pct": 51.4,
-        "recent_3_avg": 124.47,
-        "lineup_efficiency_pct": 90.8,
-        "faab_remaining": 871,
-        "points_for": 1053.4,
-        "points_against": 1029.67,
-        "potential_points": 1159.64
+        "record": "5-4",
+        "median_record": "5-4",
+        "combined_record": "10-8",
+        "all_play_pct": 51.9,
+        "recent_3_avg": 116.95,
+        "lineup_efficiency_pct": 91.3,
+        "faab_remaining": 824,
+        "points_for": 1186.03,
+        "points_against": 1187.06,
+        "potential_points": 1298.79
       },
       {
         "team": "Shake 'n Bake",
-        "record": "4-4",
-        "median_record": "3-5",
-        "combined_record": "7-9",
-        "all_play_pct": 50,
-        "recent_3_avg": 125.54,
-        "lineup_efficiency_pct": 91.9,
-        "faab_remaining": 170,
-        "points_for": 1014.48,
-        "points_against": 990.04,
-        "potential_points": 1103.52
-      },
-      {
-        "team": "buffalobob391",
-        "record": "3-5",
-        "median_record": "3-5",
-        "combined_record": "6-10",
-        "all_play_pct": 40.3,
-        "recent_3_avg": 107.69,
-        "lineup_efficiency_pct": 86.8,
-        "faab_remaining": 650,
-        "points_for": 955.49,
-        "points_against": 1019.88,
-        "potential_points": 1101.27
+        "record": "4-5",
+        "median_record": "3-6",
+        "combined_record": "7-11",
+        "all_play_pct": 48.1,
+        "recent_3_avg": 115.88,
+        "lineup_efficiency_pct": 92,
+        "faab_remaining": 69,
+        "points_for": 1126.05,
+        "points_against": 1136.94,
+        "potential_points": 1224.19
       },
       {
         "team": "Going Nuclear",
-        "record": "2-6",
-        "median_record": "3-5",
-        "combined_record": "5-11",
-        "all_play_pct": 30.6,
-        "recent_3_avg": 110.21,
-        "lineup_efficiency_pct": 86,
+        "record": "3-6",
+        "median_record": "3-6",
+        "combined_record": "6-12",
+        "all_play_pct": 32.1,
+        "recent_3_avg": 118.23,
+        "lineup_efficiency_pct": 86.9,
         "faab_remaining": 77,
-        "points_for": 906.18,
-        "points_against": 1137.88,
-        "potential_points": 1053.42
+        "points_for": 1019.16,
+        "points_against": 1210.04,
+        "potential_points": 1172.8
+      },
+      {
+        "team": "buffalobob391",
+        "record": "3-6",
+        "median_record": "3-6",
+        "combined_record": "6-12",
+        "all_play_pct": 35.8,
+        "recent_3_avg": 100.75,
+        "lineup_efficiency_pct": 85.4,
+        "faab_remaining": 650,
+        "points_for": 1027.65,
+        "points_against": 1132.86,
+        "potential_points": 1203.63
       },
       {
         "team": "Marlburrow Reds",
-        "record": "0-8",
-        "median_record": "0-8",
-        "combined_record": "0-16",
-        "all_play_pct": 13.9,
-        "recent_3_avg": 91.45,
-        "lineup_efficiency_pct": 89.2,
-        "faab_remaining": 230,
-        "points_for": 857.48,
-        "points_against": 1074.93,
-        "potential_points": 961.26
+        "record": "0-9",
+        "median_record": "0-9",
+        "combined_record": "0-18",
+        "all_play_pct": 13.6,
+        "recent_3_avg": 96.94,
+        "lineup_efficiency_pct": 89.6,
+        "faab_remaining": 178,
+        "points_for": 960.41,
+        "points_against": 1185.89,
+        "potential_points": 1071.59
       }
     ]
   },
   "league_notes": [
-    "Week 8 high: 5️⃣5️⃣5️⃣5️⃣5️⃣ 209.58; low and shotgun punishment: Marlburrow Reds 82.25.",
-    "Week 8 median 120.250.",
-    "All-play compares each team against the other nine in each completed week.",
-    "FAAB starts at $1000; standings tiebreak H2H then PF then PA."
+    "Week 9 median 122.805.",
+    "Weekly high: Bosa Deez Nuts 172.98; low/punishment: buffalobob391 72.16.",
+    "Standings tie-breakers H2H, PF, PA; points-for wildcard; biggest loser ineligible.",
+    "FantasyPros ROS estimates are not official Sleeper odds."
   ],
   "week_storylines": [
-    "55555 detonates for 209.58, Bosa survives a 197-point shootout, and Nix loses its grip on the GM throne.",
-    "Bosa beat 55555? No: 55555 defeated Bosa 209.58–197.53 in the week's heavyweight showdown.",
-    "CaptainJack51 defeated Going Nuclear 159.61–122.25.",
-    "Clutch defeated Nix 136.88–96.46.",
-    "Marlburrow Reds fell to 0-8; Shake 'n Bake won 101.15–82.25."
+    "Bosa Deez Nuts leads Week 9 with 172.98, Bosa Deez Nuts holds the GM crown, and the playoff chase enters its final five regular-season weeks.",
+    "Largest Week 9 margin: Going Nuclear by 40.82.",
+    "Closest matchup decided by 8.03.",
+    "Season PF leader: Bosa Deez Nuts 1434.95."
   ],
   "playoff_race": {
-    "rules": {
+    "league_rules": {
       "teams": 6,
       "tiebreakers": [
         "H2H Record",
@@ -439,100 +439,171 @@
         "circular_ties": "If individual H2H comparisons do not produce a clear order, advance the unresolved tied teams to Highest PF, then Highest PA."
       }
     },
-    "projections_source": "FantasyPros rest-of-season League Analyzer as of 2026-11-03; directional estimates, not Sleeper odds",
     "teams": [
       {
         "team": "Bosa Deez Nuts",
-        "record": "5-3",
-        "playoff_pct": "98%",
-        "title_pct": "29%",
-        "season_pf": 1261.97
+        "record": "6-3",
+        "pf": 1434.95,
+        "playoff_pct": ">99%",
+        "title_pct": "25%",
+        "projected_wins": 9
       },
       {
         "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
-        "record": "6-2",
-        "playoff_pct": "99%",
-        "title_pct": "19%",
-        "season_pf": 1226.84
+        "record": "7-2",
+        "pf": 1384.23,
+        "playoff_pct": ">99%",
+        "title_pct": "23%",
+        "projected_wins": 10
       },
       {
         "team": "Eat a Bag of Nix",
-        "record": "5-3",
-        "playoff_pct": "96%",
-        "title_pct": "22%",
-        "season_pf": 1158.4
+        "record": "6-3",
+        "pf": 1305.3,
+        "playoff_pct": "99%",
+        "title_pct": "19%",
+        "projected_wins": 9
       },
       {
         "team": "Clutch",
-        "record": "6-2",
-        "playoff_pct": "93%",
-        "title_pct": "10%",
-        "season_pf": 1026.91
+        "record": "6-3",
+        "pf": 1190.22,
+        "playoff_pct": "96%",
+        "title_pct": "13%",
+        "projected_wins": 9
       },
       {
         "team": "CaptainJack51",
-        "record": "4-4",
-        "playoff_pct": "65%",
-        "title_pct": "8%",
-        "season_pf": 1019.69
+        "record": "5-4",
+        "pf": 1130.65,
+        "playoff_pct": "78%",
+        "title_pct": "10%",
+        "projected_wins": 7
       },
       {
         "team": "Sleeper Sux",
-        "record": "5-3",
-        "playoff_pct": "83%",
+        "record": "5-4",
+        "pf": 1186.03,
+        "playoff_pct": "82%",
         "title_pct": "8%",
-        "season_pf": 1053.4
+        "projected_wins": 7
       },
       {
         "team": "Shake 'n Bake",
-        "record": "4-4",
-        "playoff_pct": "50%",
-        "title_pct": "3%",
-        "season_pf": 1014.48
-      },
-      {
-        "team": "buffalobob391",
-        "record": "3-5",
-        "playoff_pct": "14%",
-        "title_pct": "<1%",
-        "season_pf": 955.49
+        "record": "4-5",
+        "pf": 1126.05,
+        "playoff_pct": "36%",
+        "title_pct": "2%",
+        "projected_wins": 6
       },
       {
         "team": "Going Nuclear",
-        "record": "2-6",
-        "playoff_pct": "3%",
+        "record": "3-6",
+        "pf": 1019.16,
+        "playoff_pct": "4%",
         "title_pct": "<1%",
-        "season_pf": 906.18
+        "projected_wins": 5
+      },
+      {
+        "team": "buffalobob391",
+        "record": "3-6",
+        "pf": 1027.65,
+        "playoff_pct": "6%",
+        "title_pct": "<1%",
+        "projected_wins": 5
       },
       {
         "team": "Marlburrow Reds",
-        "record": "0-8",
-        "playoff_pct": "<1%",
-        "title_pct": "<1%",
-        "season_pf": 857.48
+        "record": "0-9",
+        "pf": 960.41,
+        "playoff_pct": "0%",
+        "title_pct": "0%",
+        "projected_wins": 2
       }
     ],
-    "note": "Seed 6 goes to highest remaining PF; eventual Biggest Loser is playoff-ineligible. Formal seeding requires head-to-head tie resolution."
+    "pf_wildcard_watch": [
+      {
+        "team": "Bosa Deez Nuts",
+        "pf": 1434.95
+      },
+      {
+        "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "pf": 1384.23
+      },
+      {
+        "team": "Eat a Bag of Nix",
+        "pf": 1305.3
+      },
+      {
+        "team": "Clutch",
+        "pf": 1190.22
+      },
+      {
+        "team": "Sleeper Sux",
+        "pf": 1186.03
+      },
+      {
+        "team": "CaptainJack51",
+        "pf": 1130.65
+      },
+      {
+        "team": "Shake 'n Bake",
+        "pf": 1126.05
+      },
+      {
+        "team": "buffalobob391",
+        "pf": 1027.65
+      },
+      {
+        "team": "Going Nuclear",
+        "pf": 1019.16
+      },
+      {
+        "team": "Marlburrow Reds",
+        "pf": 960.41
+      }
+    ],
+    "note": "Five standings seeds, one PF wildcard, worst-record biggest loser excluded. FantasyPros odds are ROS estimates."
   },
   "record_watch": {
-    "week8_high_team": {
+    "weekly_high": {
+      "team": "Bosa Deez Nuts",
+      "points": 172.98
+    },
+    "weekly_low": {
+      "team": "buffalobob391",
+      "points": 72.16
+    },
+    "weekly_largest_margin": {
+      "team_a": "Going Nuclear",
+      "team_b": "buffalobob391",
+      "points_a": 112.98,
+      "points_b": 72.16,
+      "winner": "Going Nuclear",
+      "margin": 40.82
+    },
+    "weekly_closest_matchup": {
+      "team_a": "Marlburrow Reds",
+      "team_b": "CaptainJack51",
+      "points_a": 102.93,
+      "points_b": 110.96,
+      "winner": "CaptainJack51",
+      "margin": 8.03
+    },
+    "season_highest_team_score": {
+      "week": 8,
       "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
-      "score": 209.58
+      "points": 209.58
     },
-    "week8_low_team": {
-      "team": "Marlburrow Reds",
-      "score": 82.25
+    "season_pf_leader": {
+      "team": "Bosa Deez Nuts",
+      "points": 1434.95
     },
-    "largest_week8_margin": {
-      "team_a": "Clutch",
-      "score_a": 136.88,
-      "team_b": "Eat a Bag of Nix",
-      "score_b": 96.46,
-      "winner": 2,
-      "margin": 40.42
+    "season_pa_leader": {
+      "team": "Bosa Deez Nuts",
+      "points": 1322.95
     },
-    "season_pf_leader": "Bosa Deez Nuts",
-    "all_time_reference": {
+    "all_time_records": {
       "highest_single_week_team_score": {
         "points": 219.24,
         "manager": "Kerry",
@@ -576,151 +647,118 @@
         "season": 2024
       }
     },
-    "bonus_awards_reference": {
-      "highest_single_week_team_score": {
-        "points": 196.89,
-        "manager": "Thomas",
-        "week": 4
-      },
-      "highest_single_week_player_score": {
-        "points": 49.46,
-        "player": "Drake Maye",
-        "manager": "Jack",
-        "week": 5
-      },
-      "largest_margin_of_victory": {
-        "margin": 82.88,
-        "winner": "Thomas",
-        "winner_points": 174.28,
-        "loser": "Andrew",
-        "loser_points": 91.4,
-        "week": 2
-      },
-      "most_points_scored_in_a_loss": {
-        "points": 179.09,
-        "manager": "Thomas",
-        "opponent": "Kerry",
-        "opponent_points": 183.54,
-        "week": 5
-      },
-      "highest_total_points_for": {
-        "dynamic_source": "league_snapshot.json standings"
-      },
-      "highest_total_points_against": {
-        "dynamic_source": "league_snapshot.json standings"
-      }
-    }
+    "historical_data_last_updated": "2026-10-13T12:03:33.677Z"
   },
   "team_states": {
     "Bosa Deez Nuts": {
       "roster_id": 7,
       "momentum": "surging",
       "competitive_state": "Favorite",
-      "pressure": "high",
-      "season_storyline": "Bosa scored 197.53 against the week's 209.58 monster and remains the strongest ROS roster.",
-      "primary_strength": "ROS roster rank 1; 1261.97 season PF",
+      "pressure": "moderate",
+      "season_storyline": "6-3; 8-1 against median; Week 9 172.98; FantasyPros ROS rank 1.",
+      "primary_strength": "ROS rank 1; 1434.95 season PF; 79% all-play",
       "primary_weakness": "RB depth / lineup volatility",
-      "recent_trend": "Week 8 197.53; last 3 average 163.04; 5-3 overall",
-      "trash_talk_angle": "The scoreboard filed a noise complaint."
+      "recent_trend": "Week 9 172.98, last three 179.96 average; surging",
+      "trash_talk_angle": "The scoreboard needs a fire extinguisher."
     },
     "5️⃣5️⃣5️⃣5️⃣5️⃣": {
       "roster_id": 6,
       "momentum": "surging",
       "competitive_state": "Favorite",
-      "pressure": "protect seeding",
-      "season_storyline": "A 209.58 eruption, an eighth median win, and four straight wins: the model has to respect the blast radius.",
-      "primary_strength": "ROS roster rank 3; 1226.84 season PF",
-      "primary_weakness": "RB depth behind elite core",
-      "recent_trend": "Week 8 209.58; last 3 average 165.84; 6-2 overall",
-      "trash_talk_angle": "The scoreboard filed a noise complaint."
+      "pressure": "moderate",
+      "season_storyline": "7-2; 9-0 against median; Week 9 157.39; FantasyPros ROS rank 3.",
+      "primary_strength": "ROS rank 3; 1384.23 season PF; 75.3% all-play",
+      "primary_weakness": "RB depth / bench upside",
+      "recent_trend": "Week 9 157.39, last three 180.93 average; surging",
+      "trash_talk_angle": "Playoff pressure is no longer theoretical."
     },
     "Eat a Bag of Nix": {
       "roster_id": 4,
-      "momentum": "falling",
-      "competitive_state": "Contender",
-      "pressure": "high",
-      "season_storyline": "Nix's Week 8 collapse has turned a once-safe crown into a contested seat.",
-      "primary_strength": "ROS roster rank 2; 1158.40 season PF",
-      "primary_weakness": "QB consistency / converting ceiling",
-      "recent_trend": "Week 8 96.46; last 3 average 112.06; 5-3 overall",
-      "trash_talk_angle": "A lineup so quiet the app checked its microphone."
+      "momentum": "surging",
+      "competitive_state": "Favorite",
+      "pressure": "moderate",
+      "season_storyline": "6-3; 6-3 against median; Week 9 146.90; FantasyPros ROS rank 2.",
+      "primary_strength": "ROS rank 2; 1305.30 season PF; 64.2% all-play",
+      "primary_weakness": "QB stability / RB insurance",
+      "recent_trend": "Week 9 146.90, last three 119.34 average; surging",
+      "trash_talk_angle": "Playoff pressure is no longer theoretical."
     },
     "Clutch": {
       "roster_id": 2,
-      "momentum": "mixed",
+      "momentum": "surging",
       "competitive_state": "Contender",
-      "pressure": "protect seeding",
-      "season_storyline": "A fifth straight victory and 6-2 record are now backed by a stronger weekly score.",
-      "primary_strength": "ROS roster rank 4; 1026.91 season PF",
-      "primary_weakness": "FAAB nearly exhausted / RB stability",
-      "recent_trend": "Week 8 136.88; last 3 average 122.82; 6-2 overall",
-      "trash_talk_angle": "The standings and the box score are arguing again."
+      "pressure": "moderate",
+      "season_storyline": "6-3; 4-5 against median; Week 9 163.31; FantasyPros ROS rank 4.",
+      "primary_strength": "ROS rank 4; 1190.22 season PF; 58% all-play",
+      "primary_weakness": "FAAB flexibility / scoring floor",
+      "recent_trend": "Week 9 163.31, last three 141.72 average; surging",
+      "trash_talk_angle": "Playoff pressure is no longer theoretical."
     },
     "CaptainJack51": {
       "roster_id": 10,
-      "momentum": "surging",
+      "momentum": "steady",
       "competitive_state": "Contender",
       "pressure": "high",
-      "season_storyline": "A 159.61 win made it two straight and restored a winning record.",
-      "primary_strength": "ROS roster rank 5; 1019.69 season PF",
-      "primary_weakness": "Reliable WR/FLEX floor",
-      "recent_trend": "Week 8 159.61; last 3 average 134.78; 4-4 overall",
-      "trash_talk_angle": "The standings and the box score are arguing again."
+      "season_storyline": "5-4; 4-5 against median; Week 9 110.96; FantasyPros ROS rank 5.",
+      "primary_strength": "ROS rank 5; 1130.65 season PF; 42% all-play",
+      "primary_weakness": "WR/FLEX consistency",
+      "recent_trend": "Week 9 110.96, last three 141.39 average; steady",
+      "trash_talk_angle": "Playoff pressure is no longer theoretical."
     },
     "Sleeper Sux": {
       "roster_id": 9,
-      "momentum": "mixed",
+      "momentum": "rising",
       "competitive_state": "Contender",
       "pressure": "high",
-      "season_storyline": "An ugly 118.25 was enough against buffalobob; the roster is winning without convincing.",
-      "primary_strength": "ROS roster rank 6; 1053.40 season PF",
-      "primary_weakness": "WR consistency / TE depth",
-      "recent_trend": "Week 8 118.25; last 3 average 124.47; 5-3 overall",
-      "trash_talk_angle": "The standings and the box score are arguing again."
+      "season_storyline": "5-4; 5-4 against median; Week 9 132.63; FantasyPros ROS rank 6.",
+      "primary_strength": "ROS rank 6; 1186.03 season PF; 51.9% all-play",
+      "primary_weakness": "WR/TE reliability",
+      "recent_trend": "Week 9 132.63, last three 116.95 average; rising",
+      "trash_talk_angle": "Playoff pressure is no longer theoretical."
     },
     "Shake 'n Bake": {
       "roster_id": 1,
-      "momentum": "falling",
+      "momentum": "steady",
       "competitive_state": "Bubble",
       "pressure": "high",
-      "season_storyline": "A 101.15 victory over the winless Reds did not arrive; another subpar week leaves little room for error.",
-      "primary_strength": "ROS roster rank 7; 1014.48 season PF",
-      "primary_weakness": "WR/FLEX scoring floor / FAAB",
-      "recent_trend": "Week 8 101.15; last 3 average 125.54; 4-4 overall",
-      "trash_talk_angle": "A lineup so quiet the app checked its microphone."
-    },
-    "buffalobob391": {
-      "roster_id": 8,
-      "momentum": "falling",
-      "competitive_state": "Bubble",
-      "pressure": "critical",
-      "season_storyline": "Three consecutive losses and a 99.06 dud have pushed the bison toward elimination.",
-      "primary_strength": "ROS roster rank 9; 955.49 season PF",
-      "primary_weakness": "WR/FLEX ceiling",
-      "recent_trend": "Week 8 99.06; last 3 average 107.69; 3-5 overall",
-      "trash_talk_angle": "A lineup so quiet the app checked its microphone."
+      "season_storyline": "4-5; 3-6 against median; Week 9 111.57; FantasyPros ROS rank 7.",
+      "primary_strength": "ROS rank 7; 1126.05 season PF; 48.1% all-play",
+      "primary_weakness": "WR/FLEX scoring ceiling",
+      "recent_trend": "Week 9 111.57, last three 115.88 average; steady",
+      "trash_talk_angle": "Playoff pressure is no longer theoretical."
     },
     "Going Nuclear": {
       "roster_id": 3,
-      "momentum": "mixed",
-      "competitive_state": "Needs a Move",
+      "momentum": "steady",
+      "competitive_state": "Bubble",
       "pressure": "critical",
-      "season_storyline": "The 122.25 effort lost to CaptainJack and the path is almost closed.",
-      "primary_strength": "ROS roster rank 8; 906.18 season PF",
-      "primary_weakness": "WR/TE starter quality",
-      "recent_trend": "Week 8 122.25; last 3 average 110.21; 2-6 overall",
-      "trash_talk_angle": "The standings and the box score are arguing again."
+      "season_storyline": "3-6; 3-6 against median; Week 9 112.98; FantasyPros ROS rank 8.",
+      "primary_strength": "ROS rank 8; 1019.16 season PF; 32.1% all-play",
+      "primary_weakness": "WR/TE starting reliability",
+      "recent_trend": "Week 9 112.98, last three 118.23 average; steady",
+      "trash_talk_angle": "Playoff pressure is no longer theoretical."
+    },
+    "buffalobob391": {
+      "roster_id": 8,
+      "momentum": "slumping",
+      "competitive_state": "Bubble",
+      "pressure": "critical",
+      "season_storyline": "3-6; 3-6 against median; Week 9 72.16; FantasyPros ROS rank 10.",
+      "primary_strength": "ROS rank 10; 1027.65 season PF; 35.8% all-play",
+      "primary_weakness": "WR/FLEX upside",
+      "recent_trend": "Week 9 72.16, last three 100.75 average; slumping",
+      "trash_talk_angle": "The shotgun committee would like a word."
     },
     "Marlburrow Reds": {
       "roster_id": 5,
-      "momentum": "falling",
+      "momentum": "steady",
       "competitive_state": "Needs a Move",
       "pressure": "critical",
-      "season_storyline": "Eight losses in eight games, with the league's worst points total.",
-      "primary_strength": "ROS roster rank 10; 857.48 season PF",
-      "primary_weakness": "Overall scoring / QB availability",
-      "recent_trend": "Week 8 82.25; last 3 average 91.45; 0-8 overall",
-      "trash_talk_angle": "The win column has officially applied for missing-person status."
+      "season_storyline": "0-9; 0-9 against median; Week 9 102.93; FantasyPros ROS rank 9.",
+      "primary_strength": "ROS rank 9; 960.41 season PF; 13.6% all-play",
+      "primary_weakness": "QB / multiple playmakers",
+      "recent_trend": "Week 9 102.93, last three 96.94 average; steady",
+      "trash_talk_angle": "The win column remains a museum exhibit."
     }
   },
   "methodology": {
@@ -734,87 +772,87 @@
       "roster_faab_flexibility": 0.05
     },
     "team_blind": true,
-    "prior_official_week": 8,
-    "source": "Sleeper snapshot plus FantasyPros ROS analyzer",
-    "implementation_notes": "ROS power score used as roster strength and positional advantage proxy; ceiling combines ROS score with season potential points; depth combines ROS score with efficiency; recent performance uses last-3 scoring and all-play; flexibility uses remaining FAAB and lineup efficiency. Position-level ROS ranks unavailable in this result, so positional advantage is a proxy rather than independent per-position computation.",
-    "movement": "Week 8 official ranking from power_rankings_history.json"
+    "prior_official_week": 9,
+    "source": "Sleeper snapshot and FantasyPros ROS/weekly analyzer",
+    "movement": "Official saved Week 9 history",
+    "implementation_notes": "Roster strength=ROS score; ceiling=55% weekly FantasyPros score +45% normalized potential points; depth=55% ROS score+45% lineup efficiency; positional advantage=ROS proxy (position-level ratings unavailable); recent=60% normalized last-three scoring+40% all-play; playoff=FantasyPros ROS odds; flexibility=60% FAAB remaining scaled to 100+40% efficiency. Identical formula for every team."
   },
   "power_rankings_history_patch": {
-    "week": 9,
+    "week": 10,
     "status": "official",
-    "generated_at": "2026-11-03",
-    "gm_headline": "55555 detonates for 209.58, Bosa survives a 197-point shootout, and Nix loses its grip on the GM throne.",
+    "generated_at": "2026-11-10",
+    "gm_headline": "Bosa Deez Nuts leads Week 9 with 172.98, Bosa Deez Nuts holds the GM crown, and the playoff chase enters its final five regular-season weeks.",
     "rankings": [
       {
         "rank": 1,
         "team": "Bosa Deez Nuts",
         "roster_id": 7,
-        "gm_score": 98,
-        "movement": 1,
+        "gm_score": 96,
+        "movement": 0,
         "tier": "Favorite",
-        "situation": "🦈 Blood in Water",
+        "situation": "🦈 Still Hunting",
         "biggest_need": "RB depth / lineup volatility",
-        "playoff_pct": "98%",
-        "title_pct": "29%"
+        "playoff_pct": ">99%",
+        "title_pct": "25%"
       },
       {
         "rank": 2,
         "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
         "roster_id": 6,
         "gm_score": 87,
-        "movement": 1,
+        "movement": 0,
         "tier": "Favorite",
-        "situation": "🚀 Orbit Reached",
-        "biggest_need": "RB depth behind elite core",
-        "playoff_pct": "99%",
-        "title_pct": "19%"
+        "situation": "🔥 Red Hot",
+        "biggest_need": "RB depth / bench upside",
+        "playoff_pct": ">99%",
+        "title_pct": "23%"
       },
       {
         "rank": 3,
         "team": "Eat a Bag of Nix",
         "roster_id": 4,
-        "gm_score": 86,
-        "movement": -2,
-        "tier": "Contender",
-        "situation": "👑 Throne Shaken",
-        "biggest_need": "QB consistency / converting ceiling",
-        "playoff_pct": "96%",
-        "title_pct": "22%"
+        "gm_score": 85,
+        "movement": 0,
+        "tier": "Favorite",
+        "situation": "👑 Reloading",
+        "biggest_need": "QB stability / RB insurance",
+        "playoff_pct": "99%",
+        "title_pct": "19%"
       },
       {
         "rank": 4,
         "team": "Clutch",
         "roster_id": 2,
-        "gm_score": 70,
-        "movement": 2,
+        "gm_score": 79,
+        "movement": 0,
         "tier": "Contender",
-        "situation": "🧲 Keeps Winning",
-        "biggest_need": "FAAB nearly exhausted / RB stability",
-        "playoff_pct": "93%",
-        "title_pct": "10%"
+        "situation": "🎲 House Money",
+        "biggest_need": "FAAB flexibility / scoring floor",
+        "playoff_pct": "96%",
+        "title_pct": "13%"
       },
       {
         "rank": 5,
         "team": "CaptainJack51",
         "roster_id": 10,
-        "gm_score": 70,
+        "gm_score": 76,
         "movement": 0,
         "tier": "Contender",
-        "situation": "🏴‍☠️ Cannons Loaded",
-        "biggest_need": "Reliable WR/FLEX floor",
-        "playoff_pct": "65%",
-        "title_pct": "8%"
+        "situation": "🏴‍☠️ Full Sail",
+        "biggest_need": "WR/FLEX consistency",
+        "playoff_pct": "78%",
+        "title_pct": "10%"
       },
       {
         "rank": 6,
         "team": "Sleeper Sux",
         "roster_id": 9,
-        "gm_score": 68,
-        "movement": -2,
+        "gm_score": 72,
+        "movement": 0,
         "tier": "Contender",
-        "situation": "😬 Narrow Escape",
-        "biggest_need": "WR consistency / TE depth",
-        "playoff_pct": "83%",
+        "situation": "😬 On Edge",
+        "biggest_need": "WR/TE reliability",
+        "playoff_pct": "82%",
         "title_pct": "8%"
       },
       {
@@ -824,297 +862,361 @@
         "gm_score": 60,
         "movement": 0,
         "tier": "Bubble",
-        "situation": "🛞 Wheels Spinning",
-        "biggest_need": "WR/FLEX scoring floor / FAAB",
-        "playoff_pct": "50%",
-        "title_pct": "3%"
+        "situation": "🏁 Wildcard Chase",
+        "biggest_need": "WR/FLEX scoring ceiling",
+        "playoff_pct": "36%",
+        "title_pct": "2%"
       },
       {
         "rank": 8,
-        "team": "buffalobob391",
-        "roster_id": 8,
-        "gm_score": 48,
-        "movement": 0,
+        "team": "Going Nuclear",
+        "roster_id": 3,
+        "gm_score": 54,
+        "movement": 1,
         "tier": "Bubble",
-        "situation": "🦬 Freefall",
-        "biggest_need": "WR/FLEX ceiling",
-        "playoff_pct": "14%",
+        "situation": "☢️ Critical Mass",
+        "biggest_need": "WR/TE starting reliability",
+        "playoff_pct": "4%",
         "title_pct": "<1%"
       },
       {
         "rank": 9,
-        "team": "Going Nuclear",
-        "roster_id": 3,
-        "gm_score": 44,
-        "movement": 0,
-        "tier": "Needs a Move",
-        "situation": "☢️ False Dawn",
-        "biggest_need": "WR/TE starter quality",
-        "playoff_pct": "3%",
+        "team": "buffalobob391",
+        "roster_id": 8,
+        "gm_score": 53,
+        "movement": -1,
+        "tier": "Bubble",
+        "situation": "🦬 Long Road",
+        "biggest_need": "WR/FLEX upside",
+        "playoff_pct": "6%",
         "title_pct": "<1%"
       },
       {
         "rank": 10,
         "team": "Marlburrow Reds",
         "roster_id": 5,
-        "gm_score": 39,
+        "gm_score": 49,
         "movement": 0,
         "tier": "Needs a Move",
-        "situation": "🪦 Eight Feet Deep",
-        "biggest_need": "Overall scoring / QB availability",
-        "playoff_pct": "<1%",
-        "title_pct": "<1%"
+        "situation": "🪦 Still Searching",
+        "biggest_need": "QB / multiple playmakers",
+        "playoff_pct": "0%",
+        "title_pct": "0%"
       }
     ]
   },
   "recap_context": {
-    "completed_week": 8,
+    "completed_week": 9,
+    "median_cut": 122.805,
     "results": [
       {
         "team_a": "Going Nuclear",
-        "score_a": 122.25,
+        "team_b": "buffalobob391",
+        "points_a": 112.98,
+        "points_b": 72.16,
+        "winner": "Going Nuclear",
+        "margin": 40.82
+      },
+      {
+        "team_a": "Marlburrow Reds",
         "team_b": "CaptainJack51",
-        "score_b": 159.61,
-        "winner": 10,
-        "margin": 37.36
-      },
-      {
-        "team_a": "buffalobob391",
-        "score_a": 99.06,
-        "team_b": "Sleeper Sux",
-        "score_b": 118.25,
-        "winner": 9,
-        "margin": 19.19
-      },
-      {
-        "team_a": "Shake 'n Bake",
-        "score_a": 101.15,
-        "team_b": "Marlburrow Reds",
-        "score_b": 82.25,
-        "winner": 1,
-        "margin": 18.9
+        "points_a": 102.93,
+        "points_b": 110.96,
+        "winner": "CaptainJack51",
+        "margin": 8.03
       },
       {
         "team_a": "5️⃣5️⃣5️⃣5️⃣5️⃣",
-        "score_a": 209.58,
-        "team_b": "Bosa Deez Nuts",
-        "score_b": 197.53,
-        "winner": 6,
-        "margin": 12.05
+        "team_b": "Sleeper Sux",
+        "points_a": 157.39,
+        "points_b": 132.63,
+        "winner": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "margin": 24.76
+      },
+      {
+        "team_a": "Shake 'n Bake",
+        "team_b": "Eat a Bag of Nix",
+        "points_a": 111.57,
+        "points_b": 146.9,
+        "winner": "Eat a Bag of Nix",
+        "margin": 35.33
       },
       {
         "team_a": "Clutch",
-        "score_a": 136.88,
-        "team_b": "Eat a Bag of Nix",
-        "score_b": 96.46,
-        "winner": 2,
-        "margin": 40.42
+        "team_b": "Bosa Deez Nuts",
+        "points_a": 163.31,
+        "points_b": 172.98,
+        "winner": "Bosa Deez Nuts",
+        "margin": 9.67
       }
     ],
-    "median_cut": 120.25,
     "high_score": {
-      "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
-      "points": 209.58
+      "team": "Bosa Deez Nuts",
+      "points": 172.98
     },
     "low_score": {
-      "team": "Marlburrow Reds",
-      "points": 82.25
+      "team": "buffalobob391",
+      "points": 72.16
     },
-    "weekly_punishment": {
-      "team": "Marlburrow Reds",
-      "points": 82.25
+    "weekly_punishment": "buffalobob391",
+    "largest_margin": {
+      "team_a": "Going Nuclear",
+      "team_b": "buffalobob391",
+      "points_a": 112.98,
+      "points_b": 72.16,
+      "winner": "Going Nuclear",
+      "margin": 40.82
     },
-    "team_recap_inputs": [
+    "closest_matchup": {
+      "team_a": "Marlburrow Reds",
+      "team_b": "CaptainJack51",
+      "points_a": 102.93,
+      "points_b": 110.96,
+      "winner": "CaptainJack51",
+      "margin": 8.03
+    },
+    "team_inputs": [
       {
         "team": "Bosa Deez Nuts",
-        "rank": 1,
-        "storyline": "Bosa scored 197.53 against the week's 209.58 monster and remains the strongest ROS roster.",
-        "trash_talk_angle": "The scoreboard filed a noise complaint."
+        "week9_points": 172.98,
+        "above_median": true,
+        "season_storyline": "6-3; 8-1 against median; Week 9 172.98; FantasyPros ROS rank 1.",
+        "trash_talk_angle": "The scoreboard needs a fire extinguisher."
       },
       {
         "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
-        "rank": 2,
-        "storyline": "A 209.58 eruption, an eighth median win, and four straight wins: the model has to respect the blast radius.",
-        "trash_talk_angle": "The scoreboard filed a noise complaint."
+        "week9_points": 157.39,
+        "above_median": true,
+        "season_storyline": "7-2; 9-0 against median; Week 9 157.39; FantasyPros ROS rank 3.",
+        "trash_talk_angle": "Playoff pressure is no longer theoretical."
       },
       {
         "team": "Eat a Bag of Nix",
-        "rank": 3,
-        "storyline": "Nix's Week 8 collapse has turned a once-safe crown into a contested seat.",
-        "trash_talk_angle": "A lineup so quiet the app checked its microphone."
+        "week9_points": 146.9,
+        "above_median": true,
+        "season_storyline": "6-3; 6-3 against median; Week 9 146.90; FantasyPros ROS rank 2.",
+        "trash_talk_angle": "Playoff pressure is no longer theoretical."
       },
       {
         "team": "Clutch",
-        "rank": 4,
-        "storyline": "A fifth straight victory and 6-2 record are now backed by a stronger weekly score.",
-        "trash_talk_angle": "The standings and the box score are arguing again."
+        "week9_points": 163.31,
+        "above_median": true,
+        "season_storyline": "6-3; 4-5 against median; Week 9 163.31; FantasyPros ROS rank 4.",
+        "trash_talk_angle": "Playoff pressure is no longer theoretical."
       },
       {
         "team": "CaptainJack51",
-        "rank": 5,
-        "storyline": "A 159.61 win made it two straight and restored a winning record.",
-        "trash_talk_angle": "The standings and the box score are arguing again."
+        "week9_points": 110.96,
+        "above_median": false,
+        "season_storyline": "5-4; 4-5 against median; Week 9 110.96; FantasyPros ROS rank 5.",
+        "trash_talk_angle": "Playoff pressure is no longer theoretical."
       },
       {
         "team": "Sleeper Sux",
-        "rank": 6,
-        "storyline": "An ugly 118.25 was enough against buffalobob; the roster is winning without convincing.",
-        "trash_talk_angle": "The standings and the box score are arguing again."
+        "week9_points": 132.63,
+        "above_median": true,
+        "season_storyline": "5-4; 5-4 against median; Week 9 132.63; FantasyPros ROS rank 6.",
+        "trash_talk_angle": "Playoff pressure is no longer theoretical."
       },
       {
         "team": "Shake 'n Bake",
-        "rank": 7,
-        "storyline": "A 101.15 victory over the winless Reds did not arrive; another subpar week leaves little room for error.",
-        "trash_talk_angle": "A lineup so quiet the app checked its microphone."
-      },
-      {
-        "team": "buffalobob391",
-        "rank": 8,
-        "storyline": "Three consecutive losses and a 99.06 dud have pushed the bison toward elimination.",
-        "trash_talk_angle": "A lineup so quiet the app checked its microphone."
+        "week9_points": 111.57,
+        "above_median": false,
+        "season_storyline": "4-5; 3-6 against median; Week 9 111.57; FantasyPros ROS rank 7.",
+        "trash_talk_angle": "Playoff pressure is no longer theoretical."
       },
       {
         "team": "Going Nuclear",
-        "rank": 9,
-        "storyline": "The 122.25 effort lost to CaptainJack and the path is almost closed.",
-        "trash_talk_angle": "The standings and the box score are arguing again."
+        "week9_points": 112.98,
+        "above_median": false,
+        "season_storyline": "3-6; 3-6 against median; Week 9 112.98; FantasyPros ROS rank 8.",
+        "trash_talk_angle": "Playoff pressure is no longer theoretical."
+      },
+      {
+        "team": "buffalobob391",
+        "week9_points": 72.16,
+        "above_median": false,
+        "season_storyline": "3-6; 3-6 against median; Week 9 72.16; FantasyPros ROS rank 10.",
+        "trash_talk_angle": "The shotgun committee would like a word."
       },
       {
         "team": "Marlburrow Reds",
-        "rank": 10,
-        "storyline": "Eight losses in eight games, with the league's worst points total.",
-        "trash_talk_angle": "The win column has officially applied for missing-person status."
+        "week9_points": 102.93,
+        "above_median": false,
+        "season_storyline": "0-9; 0-9 against median; Week 9 102.93; FantasyPros ROS rank 9.",
+        "trash_talk_angle": "The win column remains a museum exhibit."
       }
     ]
   },
   "mascot_context": {
-    "week": 9,
-    "based_on_completed_week": 8,
-    "identity_source": "team_identity_locks.json + approved Week 8 live mascots",
+    "week": 10,
+    "based_on_completed_week": 9,
+    "identity_source": "approved live mascot pack and team_identity_locks.json",
     "rules": [
-      "Preserve canon identity and approved poses",
-      "Use Week 8 results for facial expression, posture, props and emotion",
-      "Do not substitute generic glow/damage for personality"
+      "Preserve approved silhouette, species, outfit and signature props.",
+      "Emotional evolution via face, posture, body language and props.",
+      "Clutch remains Witch-king without scythe; Shake 'n Bake fully helmeted; buffalobob391 four-legged."
     ],
     "teams": [
       {
         "team": "Bosa Deez Nuts",
-        "rank": 1,
-        "week8_score": 197.53,
+        "roster_id": 7,
+        "season_state": "Favorite",
         "momentum": "surging",
-        "emotional_direction": "Bosa scored 197.53 against the week's 209.58 monster and remains the strongest ROS roster.",
-        "competitive_state": "Favorite"
+        "pressure": "moderate",
+        "week9_points": 172.98,
+        "recap_direction": "React to Week 9 172.98 with surging emotion; The scoreboard needs a fire extinguisher.",
+        "preview_direction": "Carry emotional momentum into Week 10; moderate pressure; game-face posture.",
+        "continuity": "Use last approved weekly mascot version; no redesign."
       },
       {
         "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
-        "rank": 2,
-        "week8_score": 209.58,
+        "roster_id": 6,
+        "season_state": "Favorite",
         "momentum": "surging",
-        "emotional_direction": "A 209.58 eruption, an eighth median win, and four straight wins: the model has to respect the blast radius.",
-        "competitive_state": "Favorite"
+        "pressure": "moderate",
+        "week9_points": 157.39,
+        "recap_direction": "React to Week 9 157.39 with surging emotion; Playoff pressure is no longer theoretical.",
+        "preview_direction": "Carry emotional momentum into Week 10; moderate pressure; game-face posture.",
+        "continuity": "Use last approved weekly mascot version; no redesign."
       },
       {
         "team": "Eat a Bag of Nix",
-        "rank": 3,
-        "week8_score": 96.46,
-        "momentum": "falling",
-        "emotional_direction": "Nix's Week 8 collapse has turned a once-safe crown into a contested seat.",
-        "competitive_state": "Contender"
+        "roster_id": 4,
+        "season_state": "Favorite",
+        "momentum": "surging",
+        "pressure": "moderate",
+        "week9_points": 146.9,
+        "recap_direction": "React to Week 9 146.90 with surging emotion; Playoff pressure is no longer theoretical.",
+        "preview_direction": "Carry emotional momentum into Week 10; moderate pressure; game-face posture.",
+        "continuity": "Use last approved weekly mascot version; no redesign."
       },
       {
         "team": "Clutch",
-        "rank": 4,
-        "week8_score": 136.88,
-        "momentum": "mixed",
-        "emotional_direction": "A fifth straight victory and 6-2 record are now backed by a stronger weekly score.",
-        "competitive_state": "Contender"
+        "roster_id": 2,
+        "season_state": "Contender",
+        "momentum": "surging",
+        "pressure": "moderate",
+        "week9_points": 163.31,
+        "recap_direction": "React to Week 9 163.31 with surging emotion; Playoff pressure is no longer theoretical.",
+        "preview_direction": "Carry emotional momentum into Week 10; moderate pressure; game-face posture.",
+        "continuity": "Use last approved weekly mascot version; no redesign."
       },
       {
         "team": "CaptainJack51",
-        "rank": 5,
-        "week8_score": 159.61,
-        "momentum": "surging",
-        "emotional_direction": "A 159.61 win made it two straight and restored a winning record.",
-        "competitive_state": "Contender"
+        "roster_id": 10,
+        "season_state": "Contender",
+        "momentum": "steady",
+        "pressure": "high",
+        "week9_points": 110.96,
+        "recap_direction": "React to Week 9 110.96 with steady emotion; Playoff pressure is no longer theoretical.",
+        "preview_direction": "Carry emotional momentum into Week 10; high pressure; game-face posture.",
+        "continuity": "Use last approved weekly mascot version; no redesign."
       },
       {
         "team": "Sleeper Sux",
-        "rank": 6,
-        "week8_score": 118.25,
-        "momentum": "mixed",
-        "emotional_direction": "An ugly 118.25 was enough against buffalobob; the roster is winning without convincing.",
-        "competitive_state": "Contender"
+        "roster_id": 9,
+        "season_state": "Contender",
+        "momentum": "rising",
+        "pressure": "high",
+        "week9_points": 132.63,
+        "recap_direction": "React to Week 9 132.63 with rising emotion; Playoff pressure is no longer theoretical.",
+        "preview_direction": "Carry emotional momentum into Week 10; high pressure; game-face posture.",
+        "continuity": "Use last approved weekly mascot version; no redesign."
       },
       {
         "team": "Shake 'n Bake",
-        "rank": 7,
-        "week8_score": 101.15,
-        "momentum": "falling",
-        "emotional_direction": "A 101.15 victory over the winless Reds did not arrive; another subpar week leaves little room for error.",
-        "competitive_state": "Bubble"
-      },
-      {
-        "team": "buffalobob391",
-        "rank": 8,
-        "week8_score": 99.06,
-        "momentum": "falling",
-        "emotional_direction": "Three consecutive losses and a 99.06 dud have pushed the bison toward elimination.",
-        "competitive_state": "Bubble"
+        "roster_id": 1,
+        "season_state": "Bubble",
+        "momentum": "steady",
+        "pressure": "high",
+        "week9_points": 111.57,
+        "recap_direction": "React to Week 9 111.57 with steady emotion; Playoff pressure is no longer theoretical.",
+        "preview_direction": "Carry emotional momentum into Week 10; high pressure; game-face posture.",
+        "continuity": "Use last approved weekly mascot version; no redesign."
       },
       {
         "team": "Going Nuclear",
-        "rank": 9,
-        "week8_score": 122.25,
-        "momentum": "mixed",
-        "emotional_direction": "The 122.25 effort lost to CaptainJack and the path is almost closed.",
-        "competitive_state": "Needs a Move"
+        "roster_id": 3,
+        "season_state": "Bubble",
+        "momentum": "steady",
+        "pressure": "critical",
+        "week9_points": 112.98,
+        "recap_direction": "React to Week 9 112.98 with steady emotion; Playoff pressure is no longer theoretical.",
+        "preview_direction": "Carry emotional momentum into Week 10; critical pressure; game-face posture.",
+        "continuity": "Use last approved weekly mascot version; no redesign."
+      },
+      {
+        "team": "buffalobob391",
+        "roster_id": 8,
+        "season_state": "Bubble",
+        "momentum": "slumping",
+        "pressure": "critical",
+        "week9_points": 72.16,
+        "recap_direction": "React to Week 9 72.16 with slumping emotion; The shotgun committee would like a word.",
+        "preview_direction": "Carry emotional momentum into Week 10; critical pressure; game-face posture.",
+        "continuity": "Use last approved weekly mascot version; no redesign."
       },
       {
         "team": "Marlburrow Reds",
-        "rank": 10,
-        "week8_score": 82.25,
-        "momentum": "falling",
-        "emotional_direction": "Eight losses in eight games, with the league's worst points total.",
-        "competitive_state": "Needs a Move"
+        "roster_id": 5,
+        "season_state": "Needs a Move",
+        "momentum": "steady",
+        "pressure": "critical",
+        "week9_points": 102.93,
+        "recap_direction": "React to Week 9 102.93 with steady emotion; The win column remains a museum exhibit.",
+        "preview_direction": "Carry emotional momentum into Week 10; critical pressure; game-face posture.",
+        "continuity": "Use last approved weekly mascot version; no redesign."
       }
     ]
   },
   "preview_context": {
-    "preview_week": 9,
-    "based_on_completed_week": 8,
+    "preview_week": 10,
+    "based_on_completed_week": 9,
     "matchups": [
       {
         "team_a": "Going Nuclear",
-        "team_b": "buffalobob391"
-      },
-      {
-        "team_a": "Marlburrow Reds",
-        "team_b": "CaptainJack51"
+        "team_b": "Marlburrow Reds",
+        "rank_a": 8,
+        "rank_b": 10
       },
       {
         "team_a": "5️⃣5️⃣5️⃣5️⃣5️⃣",
-        "team_b": "Sleeper Sux"
+        "team_b": "buffalobob391",
+        "rank_a": 2,
+        "rank_b": 9
       },
       {
-        "team_a": "Shake 'n Bake",
-        "team_b": "Eat a Bag of Nix"
+        "team_a": "Eat a Bag of Nix",
+        "team_b": "CaptainJack51",
+        "rank_a": 3,
+        "rank_b": 5
       },
       {
         "team_a": "Clutch",
-        "team_b": "Bosa Deez Nuts"
+        "team_b": "Sleeper Sux",
+        "rank_a": 4,
+        "rank_b": 6
+      },
+      {
+        "team_a": "Shake 'n Bake",
+        "team_b": "Bosa Deez Nuts",
+        "rank_a": 7,
+        "rank_b": 1
       }
     ],
     "refresh_required": [
-      "Current injury reports",
-      "Week 9 lineup projections",
-      "Weather and byes",
-      "Transactions after snapshot refresh"
+      "injury news",
+      "bye weeks",
+      "lineup projections",
+      "weather",
+      "transaction changes"
     ]
   },
   "data_quality_notes": [
-    "FantasyPros ROS rank and odds are supplemental and horizon-specific.",
-    "Positional advantage is proxied by overall ROS strength pending position-level ranks.",
-    "Lineup efficiency uses Sleeper season potential points; scoring rules may affect bench maxima.",
-    "No direct player-level injury reconciliation was performed in this pass."
+    "Position advantage is a proxy, not independent positional ranks.",
+    "Historical bonus awards data last updated 2026-10-13; season highs recomputed from snapshot.",
+    "No live injury status reconciliation; preview must refresh news.",
+    "FantasyPros ROS and weekly are distinct ranking horizons."
   ]
 }
