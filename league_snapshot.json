@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1426191423207673856",
+    "last_message_id": "1426383463098904577",
     "last_message_text_map": null,
-    "last_message_time": 1794393041950,
+    "last_message_time": 1794438827827,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -1379,37 +1379,37 @@
         "players": [
           "10213",
           "11564",
+          "11579",
           "11834",
           "12506",
           "1466",
           "5850",
           "5927",
           "6804",
+          "7021",
           "7042",
           "8112",
-          "8154",
           "8228",
           "9224",
           "9488",
-          "9757",
           "GB"
         ],
         "players_points": {
           "10213": 0.0,
           "11564": 0.0,
+          "11579": 0.0,
           "11834": 0.0,
           "12506": 0.0,
           "1466": 0.0,
           "5850": 0.0,
           "5927": 0.0,
           "6804": 0.0,
+          "7021": 0.0,
           "7042": 0.0,
           "8112": 0.0,
-          "8154": 0.0,
           "8228": 0.0,
           "9224": 0.0,
           "9488": 0.0,
-          "9757": 0.0,
           "GB": 0.0
         },
         "points": 0.0,
@@ -1421,7 +1421,7 @@
           "9488",
           "8112",
           "1466",
-          "5850",
+          "10213",
           "7042",
           "GB"
         ],
@@ -6567,7 +6567,7 @@
     "season_type": "regular",
     "week": 10
   },
-  "refreshed_at": "2026-11-11T17:22:36.214314+00:00",
+  "refreshed_at": "2026-11-11T23:36:53.709356+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -7143,19 +7143,19 @@
       "players": [
         "10213",
         "11564",
+        "11579",
         "11834",
         "12506",
         "1466",
         "5850",
         "5927",
         "6804",
+        "7021",
         "7042",
         "8112",
-        "8154",
         "8228",
         "9224",
         "9488",
-        "9757",
         "GB"
       ],
       "reserve": [
@@ -7179,7 +7179,7 @@
       },
       "starters": [
         "11564",
-        "5850",
+        "8228",
         "9224",
         "9488",
         "8112",
@@ -7244,6 +7244,56 @@
   ],
   "transactions": {
     "10": [
+      {
+        "adds": {
+          "11579": 10
+        },
+        "consenter_ids": [
+          10
+        ],
+        "created": 1794438827795,
+        "creator": "720289366202736640",
+        "draft_picks": [],
+        "drops": {
+          "9757": 10
+        },
+        "leg": 10,
+        "metadata": null,
+        "roster_ids": [
+          10
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1794438827795,
+        "transaction_id": "1426383462960463872",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
+      {
+        "adds": {
+          "7021": 10
+        },
+        "consenter_ids": [
+          10
+        ],
+        "created": 1794438687581,
+        "creator": "720289366202736640",
+        "draft_picks": [],
+        "drops": {
+          "8154": 10
+        },
+        "leg": 10,
+        "metadata": null,
+        "roster_ids": [
+          10
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1794438687581,
+        "transaction_id": "1426382874864537600",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": null,
         "consenter_ids": [
