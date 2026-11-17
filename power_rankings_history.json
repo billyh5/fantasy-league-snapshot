@@ -835,6 +835,134 @@
           "title_pct": "0%"
         }
       ]
+    },
+    "11": {
+      "week": 11,
+      "status": "official",
+      "generated_at": "2026-11-17",
+      "gm_headline": "5️⃣5️⃣5️⃣5️⃣5️⃣ tops the Week 11 GM board while Bosa Deez Nuts drops 171.91 and the playoff race gets tighter.",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+          "roster_id": 6,
+          "gm_score": 82,
+          "movement": 1,
+          "tier": "Contender",
+          "situation": "⚔️ Playoff Fighter",
+          "biggest_need": "RB depth / bench upside",
+          "playoff_pct": ">99%",
+          "title_pct": "24%"
+        },
+        {
+          "rank": 2,
+          "team": "Bosa Deez Nuts",
+          "roster_id": 7,
+          "gm_score": 82,
+          "movement": -1,
+          "tier": "Contender",
+          "situation": "⚔️ Playoff Fighter",
+          "biggest_need": "RB depth / lineup volatility",
+          "playoff_pct": ">99%",
+          "title_pct": "24%"
+        },
+        {
+          "rank": 3,
+          "team": "Clutch",
+          "roster_id": 2,
+          "gm_score": 82,
+          "movement": 1,
+          "tier": "Contender",
+          "situation": "⚔️ Playoff Fighter",
+          "biggest_need": "FAAB flexibility / scoring floor",
+          "playoff_pct": "91%",
+          "title_pct": "10%"
+        },
+        {
+          "rank": 4,
+          "team": "Eat a Bag of Nix",
+          "roster_id": 4,
+          "gm_score": 80,
+          "movement": -1,
+          "tier": "Contender",
+          "situation": "⚔️ Playoff Fighter",
+          "biggest_need": "QB stability / RB insurance",
+          "playoff_pct": ">99%",
+          "title_pct": "23%"
+        },
+        {
+          "rank": 5,
+          "team": "Sleeper Sux",
+          "roster_id": 9,
+          "gm_score": 79,
+          "movement": 1,
+          "tier": "Contender",
+          "situation": "⚔️ Playoff Fighter",
+          "biggest_need": "WR/TE reliability",
+          "playoff_pct": "94%",
+          "title_pct": "9%"
+        },
+        {
+          "rank": 6,
+          "team": "CaptainJack51",
+          "roster_id": 10,
+          "gm_score": 69,
+          "movement": -1,
+          "tier": "Bubble",
+          "situation": "😬 Bubble Watch",
+          "biggest_need": "WR/FLEX consistency",
+          "playoff_pct": "59%",
+          "title_pct": "6%"
+        },
+        {
+          "rank": 7,
+          "team": "Shake 'n Bake",
+          "roster_id": 1,
+          "gm_score": 66,
+          "movement": 0,
+          "tier": "Bubble",
+          "situation": "😬 Bubble Watch",
+          "biggest_need": "WR/FLEX scoring ceiling",
+          "playoff_pct": "31%",
+          "title_pct": "2%"
+        },
+        {
+          "rank": 8,
+          "team": "Going Nuclear",
+          "roster_id": 3,
+          "gm_score": 60,
+          "movement": 0,
+          "tier": "Bubble",
+          "situation": "😬 Bubble Watch",
+          "biggest_need": "WR/TE starting reliability",
+          "playoff_pct": "11%",
+          "title_pct": "<1%"
+        },
+        {
+          "rank": 9,
+          "team": "buffalobob391",
+          "roster_id": 8,
+          "gm_score": 55,
+          "movement": 0,
+          "tier": "Bubble",
+          "situation": "😬 Bubble Watch",
+          "biggest_need": "WR/FLEX upside",
+          "playoff_pct": "14%",
+          "title_pct": "<1%"
+        },
+        {
+          "rank": 10,
+          "team": "Marlburrow Reds",
+          "roster_id": 5,
+          "gm_score": 50,
+          "movement": 0,
+          "tier": "Bubble",
+          "situation": "😬 Bubble Watch",
+          "biggest_need": "QB / multiple playmakers",
+          "playoff_pct": "0%",
+          "title_pct": "0%"
+        }
+      ]
     }
   }
 }
