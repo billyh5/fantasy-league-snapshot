@@ -1,0 +1,1643 @@
+{
+  "league_id": "1312049844910563328",
+  "league_name": "The League",
+  "season": 2026,
+  "report_week": 11,
+  "based_on_completed_through_week": 10,
+  "generated_at": "2026-11-17",
+  "source_snapshot_refreshed_at": "2026-11-17T05:05:15.980979+00:00",
+  "gm_headline": "5️⃣5️⃣5️⃣5️⃣5️⃣ tops the Week 11 GM board while Bosa Deez Nuts drops 171.91 and the playoff race gets tighter.",
+  "power_rankings": [
+    {
+      "rank": 1,
+      "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+      "roster_id": 6,
+      "gm_score": 82,
+      "movement": 1,
+      "tier": "Contender",
+      "situation": "⚔️ Playoff Fighter",
+      "biggest_need": "RB depth / bench upside",
+      "playoff_pct": ">99%",
+      "title_pct": "24%",
+      "record": "7-2",
+      "median_record": "9-1",
+      "faab": 525,
+      "components": {
+        "roster_strength": 95.6,
+        "starting_lineup_ceiling": 92.83,
+        "depth": 94.7,
+        "positional_advantage": 95.6,
+        "recent_performance": 77.8,
+        "playoff_outlook": 0,
+        "roster_faab_flexibility": 68.94
+      }
+    },
+    {
+      "rank": 2,
+      "team": "Bosa Deez Nuts",
+      "roster_id": 7,
+      "gm_score": 82,
+      "movement": -1,
+      "tier": "Contender",
+      "situation": "⚔️ Playoff Fighter",
+      "biggest_need": "RB depth / lineup volatility",
+      "playoff_pct": ">99%",
+      "title_pct": "24%",
+      "record": "6-3",
+      "median_record": "9-1",
+      "faab": 5,
+      "components": {
+        "roster_strength": 94.6,
+        "starting_lineup_ceiling": 93.68,
+        "depth": 95.09,
+        "positional_advantage": 94.6,
+        "recent_performance": 92.44,
+        "playoff_outlook": 0,
+        "roster_faab_flexibility": 38.58
+      }
+    },
+    {
+      "rank": 3,
+      "team": "Clutch",
+      "roster_id": 2,
+      "gm_score": 82,
+      "movement": 1,
+      "tier": "Contender",
+      "situation": "⚔️ Playoff Fighter",
+      "biggest_need": "FAAB flexibility / scoring floor",
+      "playoff_pct": "91%",
+      "title_pct": "10%",
+      "record": "6-3",
+      "median_record": "4-6",
+      "faab": 5,
+      "components": {
+        "roster_strength": 90,
+        "starting_lineup_ceiling": 83.44,
+        "depth": 89.41,
+        "positional_advantage": 90,
+        "recent_performance": 46.56,
+        "playoff_outlook": 91,
+        "roster_faab_flexibility": 35.77
+      }
+    },
+    {
+      "rank": 4,
+      "team": "Eat a Bag of Nix",
+      "roster_id": 4,
+      "gm_score": 80,
+      "movement": -1,
+      "tier": "Contender",
+      "situation": "⚔️ Playoff Fighter",
+      "biggest_need": "QB stability / RB insurance",
+      "playoff_pct": ">99%",
+      "title_pct": "23%",
+      "record": "6-3",
+      "median_record": "7-3",
+      "faab": 200,
+      "components": {
+        "roster_strength": 100,
+        "starting_lineup_ceiling": 91.48,
+        "depth": 94.61,
+        "positional_advantage": 100,
+        "recent_performance": 47.98,
+        "playoff_outlook": 0,
+        "roster_faab_flexibility": 47.21
+      }
+    },
+    {
+      "rank": 5,
+      "team": "Sleeper Sux",
+      "roster_id": 9,
+      "gm_score": 79,
+      "movement": 1,
+      "tier": "Contender",
+      "situation": "⚔️ Playoff Fighter",
+      "biggest_need": "WR/TE reliability",
+      "playoff_pct": "94%",
+      "title_pct": "9%",
+      "record": "5-4",
+      "median_record": "6-4",
+      "faab": 813,
+      "components": {
+        "roster_strength": 81.4,
+        "starting_lineup_ceiling": 78.67,
+        "depth": 85.86,
+        "positional_advantage": 81.4,
+        "recent_performance": 44.9,
+        "playoff_outlook": 94,
+        "roster_faab_flexibility": 85.31
+      }
+    },
+    {
+      "rank": 6,
+      "team": "CaptainJack51",
+      "roster_id": 10,
+      "gm_score": 69,
+      "movement": -1,
+      "tier": "Bubble",
+      "situation": "😬 Bubble Watch",
+      "biggest_need": "WR/FLEX consistency",
+      "playoff_pct": "59%",
+      "title_pct": "6%",
+      "record": "5-4",
+      "median_record": "4-6",
+      "faab": 664,
+      "components": {
+        "roster_strength": 79.3,
+        "starting_lineup_ceiling": 58.93,
+        "depth": 82.57,
+        "positional_advantage": 79.3,
+        "recent_performance": 32.33,
+        "playoff_outlook": 59,
+        "roster_faab_flexibility": 74.46
+      }
+    },
+    {
+      "rank": 7,
+      "team": "Shake 'n Bake",
+      "roster_id": 1,
+      "gm_score": 66,
+      "movement": 0,
+      "tier": "Bubble",
+      "situation": "😬 Bubble Watch",
+      "biggest_need": "WR/FLEX scoring ceiling",
+      "playoff_pct": "31%",
+      "title_pct": "2%",
+      "record": "4-5",
+      "median_record": "3-7",
+      "faab": 15,
+      "components": {
+        "roster_strength": 80.6,
+        "starting_lineup_ceiling": 66.97,
+        "depth": 85.72,
+        "positional_advantage": 80.6,
+        "recent_performance": 27.72,
+        "playoff_outlook": 31,
+        "roster_faab_flexibility": 37.69
+      }
+    },
+    {
+      "rank": 8,
+      "team": "Going Nuclear",
+      "roster_id": 3,
+      "gm_score": 60,
+      "movement": 0,
+      "tier": "Bubble",
+      "situation": "😬 Bubble Watch",
+      "biggest_need": "WR/TE starting reliability",
+      "playoff_pct": "11%",
+      "title_pct": "<1%",
+      "record": "3-6",
+      "median_record": "4-6",
+      "faab": 75,
+      "components": {
+        "roster_strength": 74.3,
+        "starting_lineup_ceiling": 57.39,
+        "depth": 79.97,
+        "positional_advantage": 74.3,
+        "recent_performance": 37.21,
+        "playoff_outlook": 11,
+        "roster_faab_flexibility": 39.26
+      }
+    },
+    {
+      "rank": 9,
+      "team": "buffalobob391",
+      "roster_id": 8,
+      "gm_score": 55,
+      "movement": 0,
+      "tier": "Bubble",
+      "situation": "😬 Bubble Watch",
+      "biggest_need": "WR/FLEX upside",
+      "playoff_pct": "14%",
+      "title_pct": "<1%",
+      "record": "3-6",
+      "median_record": "3-7",
+      "faab": 600,
+      "components": {
+        "roster_strength": 61.6,
+        "starting_lineup_ceiling": 65.53,
+        "depth": 72.3,
+        "positional_advantage": 61.6,
+        "recent_performance": 14.67,
+        "playoff_outlook": 14,
+        "roster_faab_flexibility": 70.15
+      }
+    },
+    {
+      "rank": 10,
+      "team": "Marlburrow Reds",
+      "roster_id": 5,
+      "gm_score": 50,
+      "movement": 0,
+      "tier": "Bubble",
+      "situation": "😬 Bubble Watch",
+      "biggest_need": "QB / multiple playmakers",
+      "playoff_pct": "0%",
+      "title_pct": "0%",
+      "record": "0-9",
+      "median_record": "1-9",
+      "faab": 48,
+      "components": {
+        "roster_strength": 65.2,
+        "starting_lineup_ceiling": 42.95,
+        "depth": 76.19,
+        "positional_advantage": 65.2,
+        "recent_performance": 14.78,
+        "playoff_outlook": 0,
+        "roster_faab_flexibility": 38.73
+      }
+    }
+  ],
+  "median_report": {
+    "week_10_median_cut": 152.105,
+    "weekly_medians": {
+      "1": 138.03,
+      "2": 110.525,
+      "3": 127.455,
+      "4": 136.65,
+      "5": 153.98,
+      "6": 109.35,
+      "7": 127.995,
+      "8": 120.25,
+      "9": 122.805,
+      "10": 152.105
+    },
+    "teams": [
+      {
+        "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "roster_id": 6,
+        "record": "7-2",
+        "median_record": "9-1",
+        "combined_record": "16-3",
+        "all_play_pct": 70,
+        "recent_3_avg": 168.11,
+        "lineup_efficiency_pct": 93.6,
+        "faab_remaining": 525,
+        "points_for": 1384.23,
+        "points_against": 1196.4,
+        "potential_points": 1478.99,
+        "week10_points": 137.36,
+        "ros_rank": 2,
+        "weekly_rank": 5
+      },
+      {
+        "team": "Bosa Deez Nuts",
+        "roster_id": 7,
+        "record": "6-3",
+        "median_record": "9-1",
+        "combined_record": "15-4",
+        "all_play_pct": 81.1,
+        "recent_3_avg": 180.81,
+        "lineup_efficiency_pct": 95.7,
+        "faab_remaining": 5,
+        "points_for": 1434.95,
+        "points_against": 1322.95,
+        "potential_points": 1499.61,
+        "week10_points": 171.91,
+        "ros_rank": 3,
+        "weekly_rank": 6
+      },
+      {
+        "team": "Clutch",
+        "roster_id": 2,
+        "record": "6-3",
+        "median_record": "4-6",
+        "combined_record": "10-9",
+        "all_play_pct": 53.3,
+        "recent_3_avg": 137.52,
+        "lineup_efficiency_pct": 88.7,
+        "faab_remaining": 5,
+        "points_for": 1190.22,
+        "points_against": 1125.52,
+        "potential_points": 1342.12,
+        "week10_points": 112.36,
+        "ros_rank": 4,
+        "weekly_rank": 1
+      },
+      {
+        "team": "Eat a Bag of Nix",
+        "roster_id": 4,
+        "record": "6-3",
+        "median_record": "7-3",
+        "combined_record": "13-6",
+        "all_play_pct": 64.4,
+        "recent_3_avg": 133.74,
+        "lineup_efficiency_pct": 88,
+        "faab_remaining": 200,
+        "points_for": 1305.3,
+        "points_against": 1146.95,
+        "potential_points": 1482.91,
+        "week10_points": 157.87,
+        "ros_rank": 1,
+        "weekly_rank": 7
+      },
+      {
+        "team": "Sleeper Sux",
+        "roster_id": 9,
+        "record": "5-4",
+        "median_record": "6-4",
+        "combined_record": "11-8",
+        "all_play_pct": 52.2,
+        "recent_3_avg": 136,
+        "lineup_efficiency_pct": 91.3,
+        "faab_remaining": 813,
+        "points_for": 1186.03,
+        "points_against": 1187.06,
+        "potential_points": 1298.79,
+        "week10_points": 157.12,
+        "ros_rank": 5,
+        "weekly_rank": 2
+      },
+      {
+        "team": "CaptainJack51",
+        "roster_id": 10,
+        "record": "5-4",
+        "median_record": "4-6",
+        "combined_record": "9-10",
+        "all_play_pct": 37.8,
+        "recent_3_avg": 127.55,
+        "lineup_efficiency_pct": 86.6,
+        "faab_remaining": 664,
+        "points_for": 1130.65,
+        "points_against": 1120.04,
+        "potential_points": 1306.19,
+        "week10_points": 112.07,
+        "ros_rank": 7,
+        "weekly_rank": 10
+      },
+      {
+        "team": "Shake 'n Bake",
+        "roster_id": 1,
+        "record": "4-5",
+        "median_record": "3-7",
+        "combined_record": "7-12",
+        "all_play_pct": 46.7,
+        "recent_3_avg": 117.37,
+        "lineup_efficiency_pct": 92,
+        "faab_remaining": 15,
+        "points_for": 1126.05,
+        "points_against": 1136.94,
+        "potential_points": 1224.19,
+        "week10_points": 139.4,
+        "ros_rank": 6,
+        "weekly_rank": 4
+      },
+      {
+        "team": "Going Nuclear",
+        "roster_id": 3,
+        "record": "3-6",
+        "median_record": "4-6",
+        "combined_record": "7-12",
+        "all_play_pct": 37.8,
+        "recent_3_avg": 133.62,
+        "lineup_efficiency_pct": 86.9,
+        "faab_remaining": 75,
+        "points_for": 1019.16,
+        "points_against": 1210.04,
+        "potential_points": 1172.8,
+        "week10_points": 165.63,
+        "ros_rank": 8,
+        "weekly_rank": 8
+      },
+      {
+        "team": "buffalobob391",
+        "roster_id": 8,
+        "record": "3-6",
+        "median_record": "3-7",
+        "combined_record": "6-13",
+        "all_play_pct": 36.7,
+        "recent_3_avg": 106.1,
+        "lineup_efficiency_pct": 85.4,
+        "faab_remaining": 600,
+        "points_for": 1027.65,
+        "points_against": 1132.86,
+        "potential_points": 1203.63,
+        "week10_points": 147.09,
+        "ros_rank": 10,
+        "weekly_rank": 3
+      },
+      {
+        "team": "Marlburrow Reds",
+        "roster_id": 5,
+        "record": "0-9",
+        "median_record": "1-9",
+        "combined_record": "1-18",
+        "all_play_pct": 20,
+        "recent_3_avg": 114.55,
+        "lineup_efficiency_pct": 89.6,
+        "faab_remaining": 48,
+        "points_for": 960.41,
+        "points_against": 1185.89,
+        "potential_points": 1071.59,
+        "week10_points": 158.47,
+        "ros_rank": 9,
+        "weekly_rank": 9
+      }
+    ]
+  },
+  "league_notes": [
+    "Snapshot 2026-11-17T05:05:15.980979+00:00; Week 10 completed and Week 11 upcoming.",
+    "Week 10 median 152.105; high Bosa Deez Nuts 171.91; low CaptainJack51 112.07.",
+    "League playoffs: five standings seeds plus highest remaining PF wildcard; worst-record biggest loser excluded; H2H, PF, PA tiebreakers.",
+    "FantasyPros ROS playoff/title odds are external estimates and do not exactly implement the custom wildcard or biggest-loser rule.",
+    "Position advantage uses overall FantasyPros ROS proxy; prior biggest needs are retained pending independent position-level evaluation.",
+    "2026 records recomputed from snapshot; historical source last updated October 13, 2026.",
+    "Live NFL injuries and weather must be refreshed for Thursday preview."
+  ],
+  "week_storylines": [
+    "Going Nuclear wins Going Nuclear 165.63 vs Marlburrow Reds 158.47.",
+    "buffalobob391 wins 5️⃣5️⃣5️⃣5️⃣5️⃣ 137.36 vs buffalobob391 147.09.",
+    "Eat a Bag of Nix wins Eat a Bag of Nix 157.87 vs CaptainJack51 112.07.",
+    "Sleeper Sux wins Clutch 112.36 vs Sleeper Sux 157.12.",
+    "Bosa Deez Nuts wins Shake 'n Bake 139.40 vs Bosa Deez Nuts 171.91.",
+    "Week high Bosa Deez Nuts 171.91; low CaptainJack51 112.07."
+  ],
+  "playoff_race": {
+    "league_rules": {
+      "teams": 6,
+      "tiebreakers": [
+        "H2H Record",
+        "Highest PF",
+        "Highest PA"
+      ],
+      "seeding": {
+        "seeds_1_to_5": "Standings order using league tiebreakers",
+        "seed_6": "Highest remaining points-for team",
+        "biggest_loser_ineligible": true
+      },
+      "tiebreaker_progression": "Apply H2H Record, then Highest PF, then Highest PA; move to the next rule when the preceding rule does not resolve the tie.",
+      "biggest_loser": {
+        "determination": "Worst record at the end of the regular season",
+        "tiebreakers": [
+          "H2H Record",
+          "Highest PF",
+          "Highest PA"
+        ],
+        "playoff_ineligible_once_determined": true
+      },
+      "clarification": {
+        "confirmed_by": "League owner",
+        "confirmed_at": "2026-10-14"
+      },
+      "h2h_method": {
+        "comparison": "Individual head-to-head records between tied teams",
+        "circular_ties": "If individual H2H comparisons do not produce a clear order, advance the unresolved tied teams to Highest PF, then Highest PA."
+      }
+    },
+    "teams": [
+      {
+        "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "record": "7-2",
+        "pf": 1384.23,
+        "playoff_pct": ">99%",
+        "title_pct": "24%",
+        "projected_wins": 9
+      },
+      {
+        "team": "Bosa Deez Nuts",
+        "record": "6-3",
+        "pf": 1434.95,
+        "playoff_pct": ">99%",
+        "title_pct": "24%",
+        "projected_wins": 9
+      },
+      {
+        "team": "Eat a Bag of Nix",
+        "record": "6-3",
+        "pf": 1305.3,
+        "playoff_pct": ">99%",
+        "title_pct": "23%",
+        "projected_wins": 9
+      },
+      {
+        "team": "Clutch",
+        "record": "6-3",
+        "pf": 1190.22,
+        "playoff_pct": "91%",
+        "title_pct": "10%",
+        "projected_wins": 8
+      },
+      {
+        "team": "Sleeper Sux",
+        "record": "5-4",
+        "pf": 1186.03,
+        "playoff_pct": "94%",
+        "title_pct": "9%",
+        "projected_wins": 8
+      },
+      {
+        "team": "CaptainJack51",
+        "record": "5-4",
+        "pf": 1130.65,
+        "playoff_pct": "59%",
+        "title_pct": "6%",
+        "projected_wins": 7
+      },
+      {
+        "team": "Shake 'n Bake",
+        "record": "4-5",
+        "pf": 1126.05,
+        "playoff_pct": "31%",
+        "title_pct": "2%",
+        "projected_wins": 6
+      },
+      {
+        "team": "buffalobob391",
+        "record": "3-6",
+        "pf": 1027.65,
+        "playoff_pct": "14%",
+        "title_pct": "<1%",
+        "projected_wins": 6
+      },
+      {
+        "team": "Going Nuclear",
+        "record": "3-6",
+        "pf": 1019.16,
+        "playoff_pct": "11%",
+        "title_pct": "<1%",
+        "projected_wins": 6
+      },
+      {
+        "team": "Marlburrow Reds",
+        "record": "0-9",
+        "pf": 960.41,
+        "playoff_pct": "0%",
+        "title_pct": "0%",
+        "projected_wins": 2
+      }
+    ],
+    "pf_wildcard_watch": [
+      {
+        "team": "Bosa Deez Nuts",
+        "pf": 1434.95
+      },
+      {
+        "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "pf": 1384.23
+      },
+      {
+        "team": "Eat a Bag of Nix",
+        "pf": 1305.3
+      },
+      {
+        "team": "Clutch",
+        "pf": 1190.22
+      },
+      {
+        "team": "Sleeper Sux",
+        "pf": 1186.03
+      },
+      {
+        "team": "CaptainJack51",
+        "pf": 1130.65
+      },
+      {
+        "team": "Shake 'n Bake",
+        "pf": 1126.05
+      },
+      {
+        "team": "buffalobob391",
+        "pf": 1027.65
+      },
+      {
+        "team": "Going Nuclear",
+        "pf": 1019.16
+      },
+      {
+        "team": "Marlburrow Reds",
+        "pf": 960.41
+      }
+    ],
+    "note": "Provisional PF wildcard; full H2H multiway tie resolution and biggest loser exclusion required for final seeding."
+  },
+  "record_watch": {
+    "season_high_team_score": {
+      "week": 8,
+      "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+      "points": 209.58
+    },
+    "season_high_player_points": {
+      "week": 8,
+      "player_id": "6770",
+      "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+      "points": 53.48
+    },
+    "season_largest_margin": {
+      "week": 2,
+      "winner": "Eat a Bag of Nix",
+      "loser": "Marlburrow Reds",
+      "margin": 82.88,
+      "loser_points": 91.4,
+      "winner_points": 174.28
+    },
+    "season_most_points_in_loss": {
+      "week": 8,
+      "winner": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+      "loser": "Bosa Deez Nuts",
+      "margin": 12.050000000000011,
+      "loser_points": 197.53,
+      "winner_points": 209.58
+    },
+    "all_time_records": {
+      "highest_single_week_team_score": {
+        "points": 219.24,
+        "manager": "Kerry",
+        "week": 5,
+        "season": 2019
+      },
+      "highest_single_week_player_score": {
+        "points": 61.9,
+        "player": "Tyreek Hill",
+        "manager": "Kyle",
+        "week": 12,
+        "season": 2020
+      },
+      "largest_margin_of_victory": {
+        "margin": 98.3,
+        "winner": "Kerry",
+        "winner_points": 219.24,
+        "loser": "Lee",
+        "loser_points": 120.92,
+        "week": 5,
+        "season": 2019
+      },
+      "most_points_scored_in_a_loss": {
+        "points": 179.09,
+        "manager": "Thomas",
+        "opponent": "Kerry",
+        "opponent_points": 183.54,
+        "week": 5,
+        "season": 2026
+      },
+      "highest_total_points_for": {
+        "points": 2472.14,
+        "manager": "Jack",
+        "through_week": 17,
+        "season": 2022
+      },
+      "highest_total_points_against": {
+        "points": 1885,
+        "manager": "Billy",
+        "through_week": 14,
+        "season": 2024
+      }
+    },
+    "week_10_high": {
+      "team": "Bosa Deez Nuts",
+      "points": 171.91
+    },
+    "week_10_low": {
+      "team": "CaptainJack51",
+      "points": 112.07
+    },
+    "weekly_punishment": "CaptainJack51"
+  },
+  "team_states": {
+    "5️⃣5️⃣5️⃣5️⃣5️⃣": {
+      "roster_id": 6,
+      "momentum": "surging",
+      "competitive_state": "Contender",
+      "pressure": "low",
+      "season_storyline": "7-2; 9-1 median; Week 10 137.36; GM #1.",
+      "primary_strength": "FantasyPros ROS #2; 1384.23 PF; 70.0% all-play",
+      "primary_weakness": "RB depth / bench upside",
+      "recent_trend": "Last three 168.11; Week 10 137.36 vs Week 9 157.39",
+      "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+      "gm_components": {
+        "roster_strength": 95.6,
+        "starting_lineup_ceiling": 92.83,
+        "depth": 94.7,
+        "positional_advantage": 95.6,
+        "recent_performance": 77.8,
+        "playoff_outlook": 0,
+        "roster_faab_flexibility": 68.94
+      }
+    },
+    "Bosa Deez Nuts": {
+      "roster_id": 7,
+      "momentum": "surging",
+      "competitive_state": "Contender",
+      "pressure": "moderate",
+      "season_storyline": "6-3; 9-1 median; Week 10 171.91; GM #2.",
+      "primary_strength": "FantasyPros ROS #3; 1434.95 PF; 81.1% all-play",
+      "primary_weakness": "RB depth / lineup volatility",
+      "recent_trend": "Last three 180.81; Week 10 171.91 vs Week 9 172.98",
+      "trash_talk_angle": "Somebody check the scoreboard for smoke.",
+      "gm_components": {
+        "roster_strength": 94.6,
+        "starting_lineup_ceiling": 93.68,
+        "depth": 95.09,
+        "positional_advantage": 94.6,
+        "recent_performance": 92.44,
+        "playoff_outlook": 0,
+        "roster_faab_flexibility": 38.58
+      }
+    },
+    "Clutch": {
+      "roster_id": 2,
+      "momentum": "rising",
+      "competitive_state": "Contender",
+      "pressure": "moderate",
+      "season_storyline": "6-3; 4-6 median; Week 10 112.36; GM #3.",
+      "primary_strength": "FantasyPros ROS #4; 1190.22 PF; 53.3% all-play",
+      "primary_weakness": "FAAB flexibility / scoring floor",
+      "recent_trend": "Last three 137.52; Week 10 112.36 vs Week 9 163.31",
+      "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+      "gm_components": {
+        "roster_strength": 90,
+        "starting_lineup_ceiling": 83.44,
+        "depth": 89.41,
+        "positional_advantage": 90,
+        "recent_performance": 46.56,
+        "playoff_outlook": 91,
+        "roster_faab_flexibility": 35.77
+      }
+    },
+    "Eat a Bag of Nix": {
+      "roster_id": 4,
+      "momentum": "rising",
+      "competitive_state": "Contender",
+      "pressure": "moderate",
+      "season_storyline": "6-3; 7-3 median; Week 10 157.87; GM #4.",
+      "primary_strength": "FantasyPros ROS #1; 1305.30 PF; 64.4% all-play",
+      "primary_weakness": "QB stability / RB insurance",
+      "recent_trend": "Last three 133.74; Week 10 157.87 vs Week 9 146.90",
+      "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+      "gm_components": {
+        "roster_strength": 100,
+        "starting_lineup_ceiling": 91.48,
+        "depth": 94.61,
+        "positional_advantage": 100,
+        "recent_performance": 47.98,
+        "playoff_outlook": 0,
+        "roster_faab_flexibility": 47.21
+      }
+    },
+    "Sleeper Sux": {
+      "roster_id": 9,
+      "momentum": "rising",
+      "competitive_state": "Contender",
+      "pressure": "moderate",
+      "season_storyline": "5-4; 6-4 median; Week 10 157.12; GM #5.",
+      "primary_strength": "FantasyPros ROS #5; 1186.03 PF; 52.2% all-play",
+      "primary_weakness": "WR/TE reliability",
+      "recent_trend": "Last three 136.00; Week 10 157.12 vs Week 9 132.63",
+      "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+      "gm_components": {
+        "roster_strength": 81.4,
+        "starting_lineup_ceiling": 78.67,
+        "depth": 85.86,
+        "positional_advantage": 81.4,
+        "recent_performance": 44.9,
+        "playoff_outlook": 94,
+        "roster_faab_flexibility": 85.31
+      }
+    },
+    "CaptainJack51": {
+      "roster_id": 10,
+      "momentum": "rising",
+      "competitive_state": "Bubble",
+      "pressure": "moderate",
+      "season_storyline": "5-4; 4-6 median; Week 10 112.07; GM #6.",
+      "primary_strength": "FantasyPros ROS #7; 1130.65 PF; 37.8% all-play",
+      "primary_weakness": "WR/FLEX consistency",
+      "recent_trend": "Last three 127.55; Week 10 112.07 vs Week 9 110.96",
+      "trash_talk_angle": "The weekly punishment has your name on it.",
+      "gm_components": {
+        "roster_strength": 79.3,
+        "starting_lineup_ceiling": 58.93,
+        "depth": 82.57,
+        "positional_advantage": 79.3,
+        "recent_performance": 32.33,
+        "playoff_outlook": 59,
+        "roster_faab_flexibility": 74.46
+      }
+    },
+    "Shake 'n Bake": {
+      "roster_id": 1,
+      "momentum": "steady",
+      "competitive_state": "Bubble",
+      "pressure": "high",
+      "season_storyline": "4-5; 3-7 median; Week 10 139.40; GM #7.",
+      "primary_strength": "FantasyPros ROS #6; 1126.05 PF; 46.7% all-play",
+      "primary_weakness": "WR/FLEX scoring ceiling",
+      "recent_trend": "Last three 117.37; Week 10 139.40 vs Week 9 111.57",
+      "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+      "gm_components": {
+        "roster_strength": 80.6,
+        "starting_lineup_ceiling": 66.97,
+        "depth": 85.72,
+        "positional_advantage": 80.6,
+        "recent_performance": 27.72,
+        "playoff_outlook": 31,
+        "roster_faab_flexibility": 37.69
+      }
+    },
+    "Going Nuclear": {
+      "roster_id": 3,
+      "momentum": "rising",
+      "competitive_state": "Bubble",
+      "pressure": "high",
+      "season_storyline": "3-6; 4-6 median; Week 10 165.63; GM #8.",
+      "primary_strength": "FantasyPros ROS #8; 1019.16 PF; 37.8% all-play",
+      "primary_weakness": "WR/TE starting reliability",
+      "recent_trend": "Last three 133.62; Week 10 165.63 vs Week 9 112.98",
+      "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+      "gm_components": {
+        "roster_strength": 74.3,
+        "starting_lineup_ceiling": 57.39,
+        "depth": 79.97,
+        "positional_advantage": 74.3,
+        "recent_performance": 37.21,
+        "playoff_outlook": 11,
+        "roster_faab_flexibility": 39.26
+      }
+    },
+    "buffalobob391": {
+      "roster_id": 8,
+      "momentum": "steady",
+      "competitive_state": "Bubble",
+      "pressure": "high",
+      "season_storyline": "3-6; 3-7 median; Week 10 147.09; GM #9.",
+      "primary_strength": "FantasyPros ROS #10; 1027.65 PF; 36.7% all-play",
+      "primary_weakness": "WR/FLEX upside",
+      "recent_trend": "Last three 106.10; Week 10 147.09 vs Week 9 72.16",
+      "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+      "gm_components": {
+        "roster_strength": 61.6,
+        "starting_lineup_ceiling": 65.53,
+        "depth": 72.3,
+        "positional_advantage": 61.6,
+        "recent_performance": 14.67,
+        "playoff_outlook": 14,
+        "roster_faab_flexibility": 70.15
+      }
+    },
+    "Marlburrow Reds": {
+      "roster_id": 5,
+      "momentum": "steady",
+      "competitive_state": "Bubble",
+      "pressure": "critical",
+      "season_storyline": "0-9; 1-9 median; Week 10 158.47; GM #10.",
+      "primary_strength": "FantasyPros ROS #9; 960.41 PF; 20.0% all-play",
+      "primary_weakness": "QB / multiple playmakers",
+      "recent_trend": "Last three 114.55; Week 10 158.47 vs Week 9 102.93",
+      "trash_talk_angle": "The win column is still a rumor.",
+      "gm_components": {
+        "roster_strength": 65.2,
+        "starting_lineup_ceiling": 42.95,
+        "depth": 76.19,
+        "positional_advantage": 65.2,
+        "recent_performance": 14.78,
+        "playoff_outlook": 0,
+        "roster_faab_flexibility": 38.73
+      }
+    }
+  },
+  "methodology": {
+    "weights": {
+      "roster_strength": 0.3,
+      "starting_lineup_ceiling": 0.2,
+      "depth": 0.15,
+      "positional_advantage": 0.1,
+      "recent_performance": 0.1,
+      "playoff_outlook": 0.1,
+      "roster_faab_flexibility": 0.05
+    },
+    "team_blind": true,
+    "prior_official_week": 10,
+    "source": "Sleeper snapshot, FantasyPros ROS and weekly analyzer",
+    "movement": "Official saved Week 10 history",
+    "implementation_notes": "Roster strength=ROS score; ceiling=55% weekly score+45% normalized potential points; depth=55% ROS+45% efficiency; positional advantage=ROS proxy; recent=60% normalized last-three scoring+40% all-play; playoff=FantasyPros ROS odds; flexibility=60% FAAB percentage+40% efficiency. Same model for all teams."
+  },
+  "power_rankings_history_patch": {
+    "week": 11,
+    "status": "official",
+    "generated_at": "2026-11-17",
+    "gm_headline": "5️⃣5️⃣5️⃣5️⃣5️⃣ tops the Week 11 GM board while Bosa Deez Nuts drops 171.91 and the playoff race gets tighter.",
+    "rankings": [
+      {
+        "rank": 1,
+        "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "roster_id": 6,
+        "gm_score": 82,
+        "movement": 1,
+        "tier": "Contender",
+        "situation": "⚔️ Playoff Fighter",
+        "biggest_need": "RB depth / bench upside",
+        "playoff_pct": ">99%",
+        "title_pct": "24%"
+      },
+      {
+        "rank": 2,
+        "team": "Bosa Deez Nuts",
+        "roster_id": 7,
+        "gm_score": 82,
+        "movement": -1,
+        "tier": "Contender",
+        "situation": "⚔️ Playoff Fighter",
+        "biggest_need": "RB depth / lineup volatility",
+        "playoff_pct": ">99%",
+        "title_pct": "24%"
+      },
+      {
+        "rank": 3,
+        "team": "Clutch",
+        "roster_id": 2,
+        "gm_score": 82,
+        "movement": 1,
+        "tier": "Contender",
+        "situation": "⚔️ Playoff Fighter",
+        "biggest_need": "FAAB flexibility / scoring floor",
+        "playoff_pct": "91%",
+        "title_pct": "10%"
+      },
+      {
+        "rank": 4,
+        "team": "Eat a Bag of Nix",
+        "roster_id": 4,
+        "gm_score": 80,
+        "movement": -1,
+        "tier": "Contender",
+        "situation": "⚔️ Playoff Fighter",
+        "biggest_need": "QB stability / RB insurance",
+        "playoff_pct": ">99%",
+        "title_pct": "23%"
+      },
+      {
+        "rank": 5,
+        "team": "Sleeper Sux",
+        "roster_id": 9,
+        "gm_score": 79,
+        "movement": 1,
+        "tier": "Contender",
+        "situation": "⚔️ Playoff Fighter",
+        "biggest_need": "WR/TE reliability",
+        "playoff_pct": "94%",
+        "title_pct": "9%"
+      },
+      {
+        "rank": 6,
+        "team": "CaptainJack51",
+        "roster_id": 10,
+        "gm_score": 69,
+        "movement": -1,
+        "tier": "Bubble",
+        "situation": "😬 Bubble Watch",
+        "biggest_need": "WR/FLEX consistency",
+        "playoff_pct": "59%",
+        "title_pct": "6%"
+      },
+      {
+        "rank": 7,
+        "team": "Shake 'n Bake",
+        "roster_id": 1,
+        "gm_score": 66,
+        "movement": 0,
+        "tier": "Bubble",
+        "situation": "😬 Bubble Watch",
+        "biggest_need": "WR/FLEX scoring ceiling",
+        "playoff_pct": "31%",
+        "title_pct": "2%"
+      },
+      {
+        "rank": 8,
+        "team": "Going Nuclear",
+        "roster_id": 3,
+        "gm_score": 60,
+        "movement": 0,
+        "tier": "Bubble",
+        "situation": "😬 Bubble Watch",
+        "biggest_need": "WR/TE starting reliability",
+        "playoff_pct": "11%",
+        "title_pct": "<1%"
+      },
+      {
+        "rank": 9,
+        "team": "buffalobob391",
+        "roster_id": 8,
+        "gm_score": 55,
+        "movement": 0,
+        "tier": "Bubble",
+        "situation": "😬 Bubble Watch",
+        "biggest_need": "WR/FLEX upside",
+        "playoff_pct": "14%",
+        "title_pct": "<1%"
+      },
+      {
+        "rank": 10,
+        "team": "Marlburrow Reds",
+        "roster_id": 5,
+        "gm_score": 50,
+        "movement": 0,
+        "tier": "Bubble",
+        "situation": "😬 Bubble Watch",
+        "biggest_need": "QB / multiple playmakers",
+        "playoff_pct": "0%",
+        "title_pct": "0%"
+      }
+    ]
+  },
+  "recap_context": {
+    "completed_week": 10,
+    "results": [
+      {
+        "team_a": "Going Nuclear",
+        "points_a": 165.63,
+        "team_b": "Marlburrow Reds",
+        "points_b": 158.47,
+        "winner": "Going Nuclear",
+        "margin": 7.16
+      },
+      {
+        "team_a": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "points_a": 137.36,
+        "team_b": "buffalobob391",
+        "points_b": 147.09,
+        "winner": "buffalobob391",
+        "margin": 9.73
+      },
+      {
+        "team_a": "Eat a Bag of Nix",
+        "points_a": 157.87,
+        "team_b": "CaptainJack51",
+        "points_b": 112.07,
+        "winner": "Eat a Bag of Nix",
+        "margin": 45.8
+      },
+      {
+        "team_a": "Clutch",
+        "points_a": 112.36,
+        "team_b": "Sleeper Sux",
+        "points_b": 157.12,
+        "winner": "Sleeper Sux",
+        "margin": 44.76
+      },
+      {
+        "team_a": "Shake 'n Bake",
+        "points_a": 139.4,
+        "team_b": "Bosa Deez Nuts",
+        "points_b": 171.91,
+        "winner": "Bosa Deez Nuts",
+        "margin": 32.51
+      }
+    ],
+    "median": 152.105,
+    "high": {
+      "team": "Bosa Deez Nuts",
+      "points": 171.91
+    },
+    "low": {
+      "team": "CaptainJack51",
+      "points": 112.07
+    },
+    "team_states": {
+      "5️⃣5️⃣5️⃣5️⃣5️⃣": {
+        "roster_id": 6,
+        "momentum": "surging",
+        "competitive_state": "Contender",
+        "pressure": "low",
+        "season_storyline": "7-2; 9-1 median; Week 10 137.36; GM #1.",
+        "primary_strength": "FantasyPros ROS #2; 1384.23 PF; 70.0% all-play",
+        "primary_weakness": "RB depth / bench upside",
+        "recent_trend": "Last three 168.11; Week 10 137.36 vs Week 9 157.39",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 95.6,
+          "starting_lineup_ceiling": 92.83,
+          "depth": 94.7,
+          "positional_advantage": 95.6,
+          "recent_performance": 77.8,
+          "playoff_outlook": 0,
+          "roster_faab_flexibility": 68.94
+        }
+      },
+      "Bosa Deez Nuts": {
+        "roster_id": 7,
+        "momentum": "surging",
+        "competitive_state": "Contender",
+        "pressure": "moderate",
+        "season_storyline": "6-3; 9-1 median; Week 10 171.91; GM #2.",
+        "primary_strength": "FantasyPros ROS #3; 1434.95 PF; 81.1% all-play",
+        "primary_weakness": "RB depth / lineup volatility",
+        "recent_trend": "Last three 180.81; Week 10 171.91 vs Week 9 172.98",
+        "trash_talk_angle": "Somebody check the scoreboard for smoke.",
+        "gm_components": {
+          "roster_strength": 94.6,
+          "starting_lineup_ceiling": 93.68,
+          "depth": 95.09,
+          "positional_advantage": 94.6,
+          "recent_performance": 92.44,
+          "playoff_outlook": 0,
+          "roster_faab_flexibility": 38.58
+        }
+      },
+      "Clutch": {
+        "roster_id": 2,
+        "momentum": "rising",
+        "competitive_state": "Contender",
+        "pressure": "moderate",
+        "season_storyline": "6-3; 4-6 median; Week 10 112.36; GM #3.",
+        "primary_strength": "FantasyPros ROS #4; 1190.22 PF; 53.3% all-play",
+        "primary_weakness": "FAAB flexibility / scoring floor",
+        "recent_trend": "Last three 137.52; Week 10 112.36 vs Week 9 163.31",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 90,
+          "starting_lineup_ceiling": 83.44,
+          "depth": 89.41,
+          "positional_advantage": 90,
+          "recent_performance": 46.56,
+          "playoff_outlook": 91,
+          "roster_faab_flexibility": 35.77
+        }
+      },
+      "Eat a Bag of Nix": {
+        "roster_id": 4,
+        "momentum": "rising",
+        "competitive_state": "Contender",
+        "pressure": "moderate",
+        "season_storyline": "6-3; 7-3 median; Week 10 157.87; GM #4.",
+        "primary_strength": "FantasyPros ROS #1; 1305.30 PF; 64.4% all-play",
+        "primary_weakness": "QB stability / RB insurance",
+        "recent_trend": "Last three 133.74; Week 10 157.87 vs Week 9 146.90",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 100,
+          "starting_lineup_ceiling": 91.48,
+          "depth": 94.61,
+          "positional_advantage": 100,
+          "recent_performance": 47.98,
+          "playoff_outlook": 0,
+          "roster_faab_flexibility": 47.21
+        }
+      },
+      "Sleeper Sux": {
+        "roster_id": 9,
+        "momentum": "rising",
+        "competitive_state": "Contender",
+        "pressure": "moderate",
+        "season_storyline": "5-4; 6-4 median; Week 10 157.12; GM #5.",
+        "primary_strength": "FantasyPros ROS #5; 1186.03 PF; 52.2% all-play",
+        "primary_weakness": "WR/TE reliability",
+        "recent_trend": "Last three 136.00; Week 10 157.12 vs Week 9 132.63",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 81.4,
+          "starting_lineup_ceiling": 78.67,
+          "depth": 85.86,
+          "positional_advantage": 81.4,
+          "recent_performance": 44.9,
+          "playoff_outlook": 94,
+          "roster_faab_flexibility": 85.31
+        }
+      },
+      "CaptainJack51": {
+        "roster_id": 10,
+        "momentum": "rising",
+        "competitive_state": "Bubble",
+        "pressure": "moderate",
+        "season_storyline": "5-4; 4-6 median; Week 10 112.07; GM #6.",
+        "primary_strength": "FantasyPros ROS #7; 1130.65 PF; 37.8% all-play",
+        "primary_weakness": "WR/FLEX consistency",
+        "recent_trend": "Last three 127.55; Week 10 112.07 vs Week 9 110.96",
+        "trash_talk_angle": "The weekly punishment has your name on it.",
+        "gm_components": {
+          "roster_strength": 79.3,
+          "starting_lineup_ceiling": 58.93,
+          "depth": 82.57,
+          "positional_advantage": 79.3,
+          "recent_performance": 32.33,
+          "playoff_outlook": 59,
+          "roster_faab_flexibility": 74.46
+        }
+      },
+      "Shake 'n Bake": {
+        "roster_id": 1,
+        "momentum": "steady",
+        "competitive_state": "Bubble",
+        "pressure": "high",
+        "season_storyline": "4-5; 3-7 median; Week 10 139.40; GM #7.",
+        "primary_strength": "FantasyPros ROS #6; 1126.05 PF; 46.7% all-play",
+        "primary_weakness": "WR/FLEX scoring ceiling",
+        "recent_trend": "Last three 117.37; Week 10 139.40 vs Week 9 111.57",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 80.6,
+          "starting_lineup_ceiling": 66.97,
+          "depth": 85.72,
+          "positional_advantage": 80.6,
+          "recent_performance": 27.72,
+          "playoff_outlook": 31,
+          "roster_faab_flexibility": 37.69
+        }
+      },
+      "Going Nuclear": {
+        "roster_id": 3,
+        "momentum": "rising",
+        "competitive_state": "Bubble",
+        "pressure": "high",
+        "season_storyline": "3-6; 4-6 median; Week 10 165.63; GM #8.",
+        "primary_strength": "FantasyPros ROS #8; 1019.16 PF; 37.8% all-play",
+        "primary_weakness": "WR/TE starting reliability",
+        "recent_trend": "Last three 133.62; Week 10 165.63 vs Week 9 112.98",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 74.3,
+          "starting_lineup_ceiling": 57.39,
+          "depth": 79.97,
+          "positional_advantage": 74.3,
+          "recent_performance": 37.21,
+          "playoff_outlook": 11,
+          "roster_faab_flexibility": 39.26
+        }
+      },
+      "buffalobob391": {
+        "roster_id": 8,
+        "momentum": "steady",
+        "competitive_state": "Bubble",
+        "pressure": "high",
+        "season_storyline": "3-6; 3-7 median; Week 10 147.09; GM #9.",
+        "primary_strength": "FantasyPros ROS #10; 1027.65 PF; 36.7% all-play",
+        "primary_weakness": "WR/FLEX upside",
+        "recent_trend": "Last three 106.10; Week 10 147.09 vs Week 9 72.16",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 61.6,
+          "starting_lineup_ceiling": 65.53,
+          "depth": 72.3,
+          "positional_advantage": 61.6,
+          "recent_performance": 14.67,
+          "playoff_outlook": 14,
+          "roster_faab_flexibility": 70.15
+        }
+      },
+      "Marlburrow Reds": {
+        "roster_id": 5,
+        "momentum": "steady",
+        "competitive_state": "Bubble",
+        "pressure": "critical",
+        "season_storyline": "0-9; 1-9 median; Week 10 158.47; GM #10.",
+        "primary_strength": "FantasyPros ROS #9; 960.41 PF; 20.0% all-play",
+        "primary_weakness": "QB / multiple playmakers",
+        "recent_trend": "Last three 114.55; Week 10 158.47 vs Week 9 102.93",
+        "trash_talk_angle": "The win column is still a rumor.",
+        "gm_components": {
+          "roster_strength": 65.2,
+          "starting_lineup_ceiling": 42.95,
+          "depth": 76.19,
+          "positional_advantage": 65.2,
+          "recent_performance": 14.78,
+          "playoff_outlook": 0,
+          "roster_faab_flexibility": 38.73
+        }
+      }
+    }
+  },
+  "mascot_context": {
+    "week": 11,
+    "based_on_completed_week": 10,
+    "identity_source": "approved canon and team_identity_locks.json",
+    "direction": "Evolve approved poses by expression, posture and body language; preserve identity, palette, clothing and signature props.",
+    "teams": [
+      {
+        "team": "5️⃣5️⃣5️⃣5️⃣5️⃣",
+        "rank": 1,
+        "competitive_state": "Contender",
+        "momentum": "surging",
+        "pressure": "low",
+        "week10_points": 137.36,
+        "season_storyline": "7-2; 9-1 median; Week 10 137.36; GM #1.",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup."
+      },
+      {
+        "team": "Bosa Deez Nuts",
+        "rank": 2,
+        "competitive_state": "Contender",
+        "momentum": "surging",
+        "pressure": "moderate",
+        "week10_points": 171.91,
+        "season_storyline": "6-3; 9-1 median; Week 10 171.91; GM #2.",
+        "trash_talk_angle": "Somebody check the scoreboard for smoke."
+      },
+      {
+        "team": "Clutch",
+        "rank": 3,
+        "competitive_state": "Contender",
+        "momentum": "rising",
+        "pressure": "moderate",
+        "week10_points": 112.36,
+        "season_storyline": "6-3; 4-6 median; Week 10 112.36; GM #3.",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup."
+      },
+      {
+        "team": "Eat a Bag of Nix",
+        "rank": 4,
+        "competitive_state": "Contender",
+        "momentum": "rising",
+        "pressure": "moderate",
+        "week10_points": 157.87,
+        "season_storyline": "6-3; 7-3 median; Week 10 157.87; GM #4.",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup."
+      },
+      {
+        "team": "Sleeper Sux",
+        "rank": 5,
+        "competitive_state": "Contender",
+        "momentum": "rising",
+        "pressure": "moderate",
+        "week10_points": 157.12,
+        "season_storyline": "5-4; 6-4 median; Week 10 157.12; GM #5.",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup."
+      },
+      {
+        "team": "CaptainJack51",
+        "rank": 6,
+        "competitive_state": "Bubble",
+        "momentum": "rising",
+        "pressure": "moderate",
+        "week10_points": 112.07,
+        "season_storyline": "5-4; 4-6 median; Week 10 112.07; GM #6.",
+        "trash_talk_angle": "The weekly punishment has your name on it."
+      },
+      {
+        "team": "Shake 'n Bake",
+        "rank": 7,
+        "competitive_state": "Bubble",
+        "momentum": "steady",
+        "pressure": "high",
+        "week10_points": 139.4,
+        "season_storyline": "4-5; 3-7 median; Week 10 139.40; GM #7.",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup."
+      },
+      {
+        "team": "Going Nuclear",
+        "rank": 8,
+        "competitive_state": "Bubble",
+        "momentum": "rising",
+        "pressure": "high",
+        "week10_points": 165.63,
+        "season_storyline": "3-6; 4-6 median; Week 10 165.63; GM #8.",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup."
+      },
+      {
+        "team": "buffalobob391",
+        "rank": 9,
+        "competitive_state": "Bubble",
+        "momentum": "steady",
+        "pressure": "high",
+        "week10_points": 147.09,
+        "season_storyline": "3-6; 3-7 median; Week 10 147.09; GM #9.",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup."
+      },
+      {
+        "team": "Marlburrow Reds",
+        "rank": 10,
+        "competitive_state": "Bubble",
+        "momentum": "steady",
+        "pressure": "critical",
+        "week10_points": 158.47,
+        "season_storyline": "0-9; 1-9 median; Week 10 158.47; GM #10.",
+        "trash_talk_angle": "The win column is still a rumor."
+      }
+    ]
+  },
+  "preview_context": {
+    "week": 11,
+    "matchups": [
+      {
+        "team_a": "Going Nuclear",
+        "team_b": "5️⃣5️⃣5️⃣5️⃣5️⃣"
+      },
+      {
+        "team_a": "Eat a Bag of Nix",
+        "team_b": "Marlburrow Reds"
+      },
+      {
+        "team_a": "Clutch",
+        "team_b": "buffalobob391"
+      },
+      {
+        "team_a": "Bosa Deez Nuts",
+        "team_b": "CaptainJack51"
+      },
+      {
+        "team_a": "Shake 'n Bake",
+        "team_b": "Sleeper Sux"
+      }
+    ],
+    "source": "Sleeper Week 11 schedule; refresh injuries, weather and projections before Thursday",
+    "team_states": {
+      "5️⃣5️⃣5️⃣5️⃣5️⃣": {
+        "roster_id": 6,
+        "momentum": "surging",
+        "competitive_state": "Contender",
+        "pressure": "low",
+        "season_storyline": "7-2; 9-1 median; Week 10 137.36; GM #1.",
+        "primary_strength": "FantasyPros ROS #2; 1384.23 PF; 70.0% all-play",
+        "primary_weakness": "RB depth / bench upside",
+        "recent_trend": "Last three 168.11; Week 10 137.36 vs Week 9 157.39",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 95.6,
+          "starting_lineup_ceiling": 92.83,
+          "depth": 94.7,
+          "positional_advantage": 95.6,
+          "recent_performance": 77.8,
+          "playoff_outlook": 0,
+          "roster_faab_flexibility": 68.94
+        }
+      },
+      "Bosa Deez Nuts": {
+        "roster_id": 7,
+        "momentum": "surging",
+        "competitive_state": "Contender",
+        "pressure": "moderate",
+        "season_storyline": "6-3; 9-1 median; Week 10 171.91; GM #2.",
+        "primary_strength": "FantasyPros ROS #3; 1434.95 PF; 81.1% all-play",
+        "primary_weakness": "RB depth / lineup volatility",
+        "recent_trend": "Last three 180.81; Week 10 171.91 vs Week 9 172.98",
+        "trash_talk_angle": "Somebody check the scoreboard for smoke.",
+        "gm_components": {
+          "roster_strength": 94.6,
+          "starting_lineup_ceiling": 93.68,
+          "depth": 95.09,
+          "positional_advantage": 94.6,
+          "recent_performance": 92.44,
+          "playoff_outlook": 0,
+          "roster_faab_flexibility": 38.58
+        }
+      },
+      "Clutch": {
+        "roster_id": 2,
+        "momentum": "rising",
+        "competitive_state": "Contender",
+        "pressure": "moderate",
+        "season_storyline": "6-3; 4-6 median; Week 10 112.36; GM #3.",
+        "primary_strength": "FantasyPros ROS #4; 1190.22 PF; 53.3% all-play",
+        "primary_weakness": "FAAB flexibility / scoring floor",
+        "recent_trend": "Last three 137.52; Week 10 112.36 vs Week 9 163.31",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 90,
+          "starting_lineup_ceiling": 83.44,
+          "depth": 89.41,
+          "positional_advantage": 90,
+          "recent_performance": 46.56,
+          "playoff_outlook": 91,
+          "roster_faab_flexibility": 35.77
+        }
+      },
+      "Eat a Bag of Nix": {
+        "roster_id": 4,
+        "momentum": "rising",
+        "competitive_state": "Contender",
+        "pressure": "moderate",
+        "season_storyline": "6-3; 7-3 median; Week 10 157.87; GM #4.",
+        "primary_strength": "FantasyPros ROS #1; 1305.30 PF; 64.4% all-play",
+        "primary_weakness": "QB stability / RB insurance",
+        "recent_trend": "Last three 133.74; Week 10 157.87 vs Week 9 146.90",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 100,
+          "starting_lineup_ceiling": 91.48,
+          "depth": 94.61,
+          "positional_advantage": 100,
+          "recent_performance": 47.98,
+          "playoff_outlook": 0,
+          "roster_faab_flexibility": 47.21
+        }
+      },
+      "Sleeper Sux": {
+        "roster_id": 9,
+        "momentum": "rising",
+        "competitive_state": "Contender",
+        "pressure": "moderate",
+        "season_storyline": "5-4; 6-4 median; Week 10 157.12; GM #5.",
+        "primary_strength": "FantasyPros ROS #5; 1186.03 PF; 52.2% all-play",
+        "primary_weakness": "WR/TE reliability",
+        "recent_trend": "Last three 136.00; Week 10 157.12 vs Week 9 132.63",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 81.4,
+          "starting_lineup_ceiling": 78.67,
+          "depth": 85.86,
+          "positional_advantage": 81.4,
+          "recent_performance": 44.9,
+          "playoff_outlook": 94,
+          "roster_faab_flexibility": 85.31
+        }
+      },
+      "CaptainJack51": {
+        "roster_id": 10,
+        "momentum": "rising",
+        "competitive_state": "Bubble",
+        "pressure": "moderate",
+        "season_storyline": "5-4; 4-6 median; Week 10 112.07; GM #6.",
+        "primary_strength": "FantasyPros ROS #7; 1130.65 PF; 37.8% all-play",
+        "primary_weakness": "WR/FLEX consistency",
+        "recent_trend": "Last three 127.55; Week 10 112.07 vs Week 9 110.96",
+        "trash_talk_angle": "The weekly punishment has your name on it.",
+        "gm_components": {
+          "roster_strength": 79.3,
+          "starting_lineup_ceiling": 58.93,
+          "depth": 82.57,
+          "positional_advantage": 79.3,
+          "recent_performance": 32.33,
+          "playoff_outlook": 59,
+          "roster_faab_flexibility": 74.46
+        }
+      },
+      "Shake 'n Bake": {
+        "roster_id": 1,
+        "momentum": "steady",
+        "competitive_state": "Bubble",
+        "pressure": "high",
+        "season_storyline": "4-5; 3-7 median; Week 10 139.40; GM #7.",
+        "primary_strength": "FantasyPros ROS #6; 1126.05 PF; 46.7% all-play",
+        "primary_weakness": "WR/FLEX scoring ceiling",
+        "recent_trend": "Last three 117.37; Week 10 139.40 vs Week 9 111.57",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 80.6,
+          "starting_lineup_ceiling": 66.97,
+          "depth": 85.72,
+          "positional_advantage": 80.6,
+          "recent_performance": 27.72,
+          "playoff_outlook": 31,
+          "roster_faab_flexibility": 37.69
+        }
+      },
+      "Going Nuclear": {
+        "roster_id": 3,
+        "momentum": "rising",
+        "competitive_state": "Bubble",
+        "pressure": "high",
+        "season_storyline": "3-6; 4-6 median; Week 10 165.63; GM #8.",
+        "primary_strength": "FantasyPros ROS #8; 1019.16 PF; 37.8% all-play",
+        "primary_weakness": "WR/TE starting reliability",
+        "recent_trend": "Last three 133.62; Week 10 165.63 vs Week 9 112.98",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 74.3,
+          "starting_lineup_ceiling": 57.39,
+          "depth": 79.97,
+          "positional_advantage": 74.3,
+          "recent_performance": 37.21,
+          "playoff_outlook": 11,
+          "roster_faab_flexibility": 39.26
+        }
+      },
+      "buffalobob391": {
+        "roster_id": 8,
+        "momentum": "steady",
+        "competitive_state": "Bubble",
+        "pressure": "high",
+        "season_storyline": "3-6; 3-7 median; Week 10 147.09; GM #9.",
+        "primary_strength": "FantasyPros ROS #10; 1027.65 PF; 36.7% all-play",
+        "primary_weakness": "WR/FLEX upside",
+        "recent_trend": "Last three 106.10; Week 10 147.09 vs Week 9 72.16",
+        "trash_talk_angle": "The playoffs won't wait for a better lineup.",
+        "gm_components": {
+          "roster_strength": 61.6,
+          "starting_lineup_ceiling": 65.53,
+          "depth": 72.3,
+          "positional_advantage": 61.6,
+          "recent_performance": 14.67,
+          "playoff_outlook": 14,
+          "roster_faab_flexibility": 70.15
+        }
+      },
+      "Marlburrow Reds": {
+        "roster_id": 5,
+        "momentum": "steady",
+        "competitive_state": "Bubble",
+        "pressure": "critical",
+        "season_storyline": "0-9; 1-9 median; Week 10 158.47; GM #10.",
+        "primary_strength": "FantasyPros ROS #9; 960.41 PF; 20.0% all-play",
+        "primary_weakness": "QB / multiple playmakers",
+        "recent_trend": "Last three 114.55; Week 10 158.47 vs Week 9 102.93",
+        "trash_talk_angle": "The win column is still a rumor.",
+        "gm_components": {
+          "roster_strength": 65.2,
+          "starting_lineup_ceiling": 42.95,
+          "depth": 76.19,
+          "positional_advantage": 65.2,
+          "recent_performance": 14.78,
+          "playoff_outlook": 0,
+          "roster_faab_flexibility": 38.73
+        }
+      }
+    }
+  },
+  "data_quality_notes": [
+    "Snapshot 2026-11-17T05:05:15.980979+00:00; Week 10 completed and Week 11 upcoming.",
+    "Week 10 median 152.105; high Bosa Deez Nuts 171.91; low CaptainJack51 112.07.",
+    "League playoffs: five standings seeds plus highest remaining PF wildcard; worst-record biggest loser excluded; H2H, PF, PA tiebreakers.",
+    "FantasyPros ROS playoff/title odds are external estimates and do not exactly implement the custom wildcard or biggest-loser rule.",
+    "Position advantage uses overall FantasyPros ROS proxy; prior biggest needs are retained pending independent position-level evaluation.",
+    "2026 records recomputed from snapshot; historical source last updated October 13, 2026.",
+    "Live NFL injuries and weather must be refreshed for Thursday preview."
+  ]
+}
