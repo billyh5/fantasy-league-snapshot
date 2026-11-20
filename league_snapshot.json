@@ -13,9 +13,9 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "last_message_id": "1429253663360061440",
+    "last_message_id": "1429640916942995456",
     "last_message_text_map": null,
-    "last_message_time": 1795123136896,
+    "last_message_time": 1795215465344,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1312049844910563328",
@@ -1645,9 +1645,9 @@
           "13424",
           "3163",
           "4217",
-          "5859",
           "7564",
           "7611",
+          "8136",
           "8146",
           "8150",
           "8151",
@@ -1663,9 +1663,9 @@
           "13424": 1.8,
           "3163": 0.0,
           "4217": 0.0,
-          "5859": 0.0,
           "7564": 0.0,
           "7611": 0.0,
+          "8136": 0.0,
           "8146": 0.0,
           "8150": 0.0,
           "8151": 0.0,
@@ -1676,7 +1676,7 @@
         "roster_id": 4,
         "starters": [
           "3163",
-          "0",
+          "8136",
           "13424",
           "7564",
           "12526",
@@ -1742,7 +1742,7 @@
           "4046",
           "11584",
           "6790",
-          "11646",
+          "12514",
           "2449",
           "4993",
           "8137",
@@ -1831,7 +1831,7 @@
         "players": [
           "10229",
           "11533",
-          "12634",
+          "12487",
           "13274",
           "13346",
           "1479",
@@ -1841,7 +1841,6 @@
           "7594",
           "8130",
           "8183",
-          "9493",
           "9502",
           "9509",
           "PIT"
@@ -1849,7 +1848,7 @@
         "players_points": {
           "10229": 0.0,
           "11533": 0.0,
-          "12634": 0.0,
+          "12487": 0.0,
           "13274": 0.0,
           "13346": 0.0,
           "1479": 0.0,
@@ -1859,7 +1858,6 @@
           "7594": 0.0,
           "8130": 0.0,
           "8183": 0.0,
-          "9493": 0.0,
           "9502": 5.7,
           "9509": 0.0,
           "PIT": 0.0
@@ -7209,7 +7207,7 @@
     "season_type": "regular",
     "week": 11
   },
-  "refreshed_at": "2026-11-20T17:35:17.782229+00:00",
+  "refreshed_at": "2026-11-20T23:21:24.024996+00:00",
   "rosters": [
     {
       "co_owners": null,
@@ -7415,9 +7413,9 @@
         "13424",
         "3163",
         "4217",
-        "5859",
         "7564",
         "7611",
+        "8136",
         "8146",
         "8150",
         "8151",
@@ -7425,7 +7423,7 @@
         "SEA"
       ],
       "reserve": [
-        "5859"
+        "8151"
       ],
       "roster_id": 4,
       "settings": {
@@ -7445,7 +7443,7 @@
       },
       "starters": [
         "3163",
-        "0",
+        "8136",
         "13424",
         "7564",
         "12526",
@@ -7511,7 +7509,7 @@
         "4046",
         "11584",
         "6790",
-        "11646",
+        "12514",
         "2449",
         "4993",
         "8137",
@@ -7601,7 +7599,7 @@
       "players": [
         "10229",
         "11533",
-        "12634",
+        "12487",
         "13274",
         "13346",
         "1479",
@@ -7611,14 +7609,11 @@
         "7594",
         "8130",
         "8183",
-        "9493",
         "9502",
         "9509",
         "PIT"
       ],
-      "reserve": [
-        "9493"
-      ],
+      "reserve": null,
       "roster_id": 7,
       "settings": {
         "division": 2,
@@ -9137,6 +9132,121 @@
       }
     ],
     "11": [
+      {
+        "adds": {
+          "12487": 7
+        },
+        "consenter_ids": [
+          7
+        ],
+        "created": 1795215465321,
+        "creator": "720286729042501632",
+        "draft_picks": [],
+        "drops": null,
+        "leg": 11,
+        "metadata": null,
+        "roster_ids": [
+          7
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1795215465321,
+        "transaction_id": "1429640916842319872",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
+      {
+        "adds": null,
+        "consenter_ids": [
+          7
+        ],
+        "created": 1795215436479,
+        "creator": "720286729042501632",
+        "draft_picks": [],
+        "drops": {
+          "12634": 7
+        },
+        "leg": 11,
+        "metadata": null,
+        "roster_ids": [
+          7
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1795215436479,
+        "transaction_id": "1429640795874406400",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
+      {
+        "adds": null,
+        "consenter_ids": [
+          7
+        ],
+        "created": 1795215241127,
+        "creator": "720286729042501632",
+        "draft_picks": [],
+        "drops": {
+          "9493": 7
+        },
+        "leg": 11,
+        "metadata": null,
+        "roster_ids": [
+          7
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1795215241127,
+        "transaction_id": "1429639976508743680",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
+      {
+        "adds": {
+          "8136": 4
+        },
+        "consenter_ids": [
+          4
+        ],
+        "created": 1795206065591,
+        "creator": "607054769336418304",
+        "draft_picks": [],
+        "drops": null,
+        "leg": 11,
+        "metadata": null,
+        "roster_ids": [
+          4
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1795206065591,
+        "transaction_id": "1429601491521372160",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
+      {
+        "adds": null,
+        "consenter_ids": [
+          4
+        ],
+        "created": 1795206048662,
+        "creator": "607054769336418304",
+        "draft_picks": [],
+        "drops": {
+          "5859": 4
+        },
+        "leg": 11,
+        "metadata": null,
+        "roster_ids": [
+          4
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1795206048662,
+        "transaction_id": "1429601420516003840",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "10219": 6
